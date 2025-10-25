@@ -1,0 +1,26 @@
+Base Installation Guide
+
+Fonts
+Galhau Display
+https://fontesk.com/galhau-display-font/
+
+Instrument Sans
+https://fonts.google.com/specimen/Instrument+Sans?query=ins
+
+Minzeeca (Personal Use Only Font)
+https://www.fontspace.com/minzeeca-font-f119784
+
+Additional Required Skins
+(add in parent group, add them in the order below)
+
+Cave of the Past Icons (Included in the Folder)
+
+
+// Mobile Skin Installation Guide
+
+Under Advanced @Media
+check for "Only screen and (max-width: 42em)"
+
+
+Parent group
+Cave of the Past skin

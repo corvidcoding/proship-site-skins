@@ -1,0 +1,24 @@
+Base Installation Guide
+
+Fonts
+Uncut Sans
+https://github.com/kaspernordkvist/uncut_sans
+
+
+Space Mono (Optional/This is just a font for code)
+https://fonts.google.com/specimen/Space+Mono?query=space
+
+Additional Required Skins
+(add in parent group, add them in the order below)
+
+Neobrutalist Icons (Included in the Folder)
+
+
+// Mobile Skin Installation Guide
+
+Under Advanced @Media
+check for "Only screen and (max-width: 42em)"
+
+
+Parent group
+Galaxy Dark Skin

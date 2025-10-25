@@ -1,0 +1,1685 @@
+#footer .group,
+.post fieldset fieldset,
+fieldset fieldset {
+  background: none;
+}
+
+#header {
+  background: #000 url('https://media.archiveofourown.org/news/milestones/2024-08-seventeen-years-otw/2024-08-seventeen-years-otw-pattern.jpg');
+  background-size: 350px;
+  margin: none;
+}
+
+#header {
+  margin: 0;
+}
+
+#inner {
+  padding-top: 1em;
+}
+
+#header .heading a,
+#header .primary .dropdown a:focus,
+#header .heading a:visited,
+#main .pagination .current,
+h2 {
+  color: #ffe8b4;
+}
+
+#main {
+  background: #191919;
+  background-size: 350px;
+}
+
+#header .region {
+  background: #191919;
+  background-size: 350px;
+}
+
+div.preface.group {
+  background: #191919;
+  background-size: 350px;
+}
+
+dl.meta {
+  background: none;
+  border: 1px solid, #555;
+}
+
+#workskin {
+  max-width: none;
+  background: #191919;
+}
+
+#header .clear,
+#footer {
+  border-color: #191919;
+}
+
+​ #footer {
+  border-color: #8B1A0F;
+}
+
+#header .actions a[href="/menu/fandoms"],
+#header .actions a[href="/menu/browse"],
+#header .actions a[href="/menu/search"],
+#header .actions a[href="/menu/about"] {
+  color: #fff;
+}
+
+#footer ul {
+  background: url('https://live.staticflickr.com/7284/9616997915_4194b6c6f7_h.jpg');
+  background-size: 350px;
+}
+
+#footer ul li:nth-child(1) ul,
+#footer ul li:nth-child(2) ul,
+#footer ul li:nth-child(3) ul,
+#footer ul li:nth-child(4) ul {
+  background: rgba(0, 0, 0, 0.0);
+}
+
+#header .primary {
+  background: #8B1A0F;
+}
+
+#footer {
+  background: #8B1A0F;
+}
+
+input[type="text"],
+textarea,
+select {
+  background: #030014;
+  color: #fff;
+}
+
+select:focus {
+  background: #2a2a2a;
+}
+
+option {
+  background: #555;
+  color: #fff;
+}
+
+#work form fieldset.work.meta dl dd.warning.required fieldset,
+#main form fieldset.work.meta dl dd.warning.required fieldset {
+  color: #fff;
+}
+
+#bookmark-form form {
+  background: #2a2a2a;
+  color: #fff;
+}
+
+#error {
+  color: #191919;
+}
+
+fieldset,
+.verbose fieldset {
+  border-color: #8B1A0F;
+  background: #191919;
+  border: 1px solid #595959;
+}
+
+.search [role=tooltip] {
+  background: #8B1A0F;
+  border: 1px solid #666;
+}
+
+#main a:visited {
+  color: #ccc;
+}
+
+#main a.tag:visited:hover {
+  color: #111;
+}
+
+body,
+.group,
+.group .group,
+.region,
+.flash,
+form dl,
+#main .verbose legend,
+.notice,
+ul.notes,
+table,
+th,
+td:hover,
+tr:hover,
+.symbol .question:hover,
+#modal,
+.ui-sortable li,
+.required .autocomplete,
+.autocomplete .notice,
+.system .intro,
+.comment_error,
+.kudos_error,
+div.dynamic,
+.dynamic form,
+#ui-datepicker-div,
+.ui-datepicker table {
+  background: #191919;
+  color: #fff;
+  border-color: #191919;
+  outline: #111;
+  box-shadow: none;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header .menu,
+#small_login,
+.group.listbox,
+fieldset fieldset.listbox,
+.listbox,
+form blockquote.userstuff,
+input:focus,
+textarea:focus,
+li.relationships a,
+.group.listbox .index,
+.dashboard fieldset fieldset.listbox .index,
+#dashboard a:hover,
+th,
+#dashboard .secondary,
+.secondary,
+.thread .even,
+.system .tweet_list li,
+.ui-datepicker tr:hover {
+  background: #2a2a2a;
+}
+
+a,
+a.tag,
+a:link,
+#header a:visited,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header #search input:focus,
+#header #search input:hover,
+.userstuff h2,
+#dashboard a,
+#dashboard span,
+#dashboard .current,
+.group .heading,
+.filters dt a:hover {
+  color: #fff;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.splash .favorite li:nth-of-type(odd) a,
+.ui-datepicker td:hover,
+#tos_prompt .heading,
+#tos_prompt [disabled] {
+  background: #000000;
+  color: #ffe8b4;
+}
+
+#outer,
+.javascript,
+.statistics .index li:nth-of-type(even),
+#tos_prompt,
+.announcement input[type="submit"] {
+  background: #191919;
+}
+
+#dashboard ul,
+dl.meta,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+form blockquote.userstuff,
+div.comment,
+li.comment,
+.toggled form,
+form dl dt,
+form.single fieldset,
+#inner .module .heading,
+.bookmark .status span,
+.splash .news li,
+.filters .group dt.bookmarker {
+  border-color: #555;
+}
+
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form {
+  box-shadow: 1px 1px 3px #000;
+}
+
+#dashboard .current,
+.actions a:active,
+a.current,
+.current a:visited,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover {
+  background: #8B1A0F;
+  border-color: #8B1A0F;
+  box-shadow: -1px -1px 3px #000;
+}
+
+input,
+textarea {
+  box-shadow: inset 0 1px 2px #000;
+}
+
+li.blurb,
+.blurb .blurb,
+.listbox .index,
+fieldset fieldset.listbox,
+.dashboard .listbox .index {
+  box-shadow: inset 1px 1px 3px #000;
+}
+
+#footer a:hover,
+#footer a:focus,
+.autocomplete .dropdown ul li:hover,
+.autocomplete .dropdown li.selected,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+.symbol .question {
+  background: #ffedc5;
+  border-color: #988352;
+  color: #111;
+}
+
+#header #greeting img,
+#header .user a:hover,
+#header .user a:focus,
+#header fieldset,
+#header form,
+#header p,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.delete a,
+span.delete,
+span.unread,
+.replied,
+span.claimed,
+.draggable,
+.droppable,
+span.requested,
+a.work,
+.blurb h4 a:link,
+.blurb h4 img,
+.splash .module h3,
+.splash .browse li a:before,
+.required,
+.error,
+.comment_error,
+.kudos_error,
+a.cloud7,
+a.cloud8,
+#tos_prompt .heading {
+  color: #ffe8b4;
+}
+
+#greeting .icon,
+#dashboard,
+#dashboard.own,
+.error,
+.comment_error,
+.kudos_error,
+.LV_invalid,
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active,
+.qtip-content {
+  border-color: #8B1A0F;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus .splash .favorite li:nth-of-type(odd) a:visited:hover,
+.splash .favorite li:nth-of-type(odd) a:visited:focus {
+  background: #ffe8b4;
+  color: #111;
+}
+
+a:visited,
+.actions a:visited,
+.action a:link,
+.action a:visited,
+.listbox .heading a:visited,
+span.series .divider {
+  color: #999;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+.actions input,
+input[type="submit"],
+button,
+.current,
+.actions label,
+#header .actions a,
+#outer .current {
+  background: #555;
+  border-color: #222;
+  color: #eee;
+  box-shadow: inset 0 -8px 4px #232323, inset 0 8px 7px #555;
+  text-shadow: none;
+}
+
+.actions a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus,
+.actions .disabled select {
+  color: #999;
+  border-color: #000;
+  box-shadow: inset 2px 2px 2px #000;
+}
+
+.actions a:active,
+.current,
+a.current,
+.current a:visited {
+  color: #fff;
+  background: #000000;
+  border-color: #000000;
+  box-shadow: inset 1px 1px 3px #191919;
+}
+
+.delete a,
+span.delete {
+  box-shadow: -1px -1px 2px rgba(255,255,255.25);
+}
+
+.actions label.disabled {
+  background: #222;
+  box-shadow: none;
+}
+
+ul.required-tags,
+.bookmark .status span,
+.blurb .icon {
+  opacity: 0.9;
+  border: 0;
+}
+
+#outer .group .heading,
+#header .actions a,
+fieldset.listbox .heading,
+.userstuff .heading {
+  text-shadow: none;
+  color: #fff;
+  background: none;
+}
+
+#header .actions a,
+fieldset fieldset,
+.mce-container button,
+.filters .expander,
+.actions .disabled select {
+  box-shadow: none;
+}
+
+fieldset fieldset.listbox {
+  outline: none;
+}
+
+form dd.required {
+  color: #eee;
+}
+
+.mce-container input:focus {
+  background: #F3EFEC;
+}
+
+.announcement .userstuff a,
+.announcement .userstuff a:link,
+.announcement .userstuff a:visited:hover {
+  color: #111;
+}
+
+.announcement .userstuff a:visited {
+  color: #666;
+}
+
+.announcement .userstuff a:hover,
+.announcement .userstuff a:focus {
+  color: #999;
+}
+
+.event.announcement .userstuff a,
+.filters .expander {
+  color: #eee;
+}
+
+div#main {
+  background-image: url(https://i.imgur.com/fHhvaWO.jpeg) !important;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+div#chapters,
+ol.chapter.index.group,
+.notice {
+  outline: 1px solid #fff;
+  outline-offset: 3px;
+}
+
+div.preface.group,
+.chapter.preface.group,
+div#workskin {
+  background: transparent !important;
+}
+
+div#chapters,
+ol.chapter.index.group,
+.notice {
+  background: rgba(0, 0, 21, 0.9) !important;
+  outline: 1px solid #fff;
+  outline-offset: 3px;
+}
+
+header#header h1.heading {
+  background-image: url(https://i.imgur.com/4DYY3wB.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+div#inner.wrapper {
+  background-image: url(https://i.imgur.com/fHhvaWO.jpeg);
+  background-size: cover;
+}
+
+header#header {
+  background-image: url(https://i.imgur.com/fHhvaWO.jpeg);
+  background-size: 981px 619px;
+  background-repeat: repeat;
+  background-position: center;
+  background-position-y: -365px;
+}
+
+ul.skin.picture.index.group,
+ol.reading.work.index.group,
+ol.comment.index.group,
+ol.bookmark.index.group,
+div#main.external_works-new.region form,
+ul.skin.picture.index.group,
+ul.pseud.index.group,
+ul.collection.picture.index.group,
+ul.news.index.group,
+ul.abbreviated.comment.group,
+ol.reading.work.index.group,
+ul.series.index.group,
+ul.gift.work.index,
+ul.series.work.index.group.group,
+ol.work.index.group {
+  background: transparent;
+}
+
+ul.faq.index.group,
+ul.tags.cloud.index.group,
+div#faq {
+  background: rgba(0, 0, 21, 0.9) !important;
+  outline: 1px solid #fff;
+  outline-offset: 3px;
+}
+
+fieldset,
+li.user.pseud.picture.blurb.group,
+div#main.users-change_username.dashboard.region dl,
+div#main.users-change_password.dashboard.region dl,
+div#main.users-change_email.dashboard.region dl,
+div#main.users-edit.dashboard.region form dl,
+div#main.pseuds-edit.dashboard.region dl,
+div#main.series-show.region #bookmark-form form {
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
+}
+
+div#main.preferences-index.dashboard.region .actions a,
+ul.navigation.actions a,
+input[type="submit"],
+ul.navigation.actions a,
+#feedback ul.actions a {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+}
+
+div#main.preferences-index.dashboard.region .actions a:hover,
+ul.navigation.actions a:hover,
+input[type="submit"]:hover,
+ul.navigation.actions a:hover,
+#feedback ul.actions a:hover,
+#feedback ul.actions li.comment a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+}
+
+#header ul.menu.dropdown-menu a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+  border: solid 1px #f7262b;
+}
+
+li.skins.own.picture.blurb.group,
+li.comment,
+span.current,
+li.bookmark ul.actions a,
+form#bookmark-filters.filters,
+form#inbox-filters fieldset,
+div#reply-to-comment,
+ul.notes,
+#feedback ul.actions li.comment a,
+div#feedback.feedback #bookmark-form form,
+div#main.works-new.region dl,
+div#main.collections-new.region dl,
+div#main.external_works-new.region fieldset.external,
+div#main.external_works-new.region fieldset fieldset,
+div#main.skins-new.region dl {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+li.bookmark ul.actions a:hover,
+ol.pagination.actions.pagy a:hover,
+ol.pagination.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+li.bookmark,
+div#modal,
+li.collection.picture.blurb.group,
+div#main.users-show.dashboard.region li.bookmark,
+div#main.inbox-show.dashboard.region div#reply-to-comment {
+  border: 1px solid #f7262b !important;
+  background: #030014 !important;
+  border-radius: 0px;
+}
+
+li.bookmark .own.user.module.group,
+form#bookmark-filters.filters dl,
+form#bookmark-filters.filters dd.group,
+div#bookmark-form dl,
+form#inbox-filters dl,
+#main li.work .user.module.group,
+div.dynamic form,
+dl.subscription.index.group dd,
+form#work-filters dl,
+form#work-filters dl dd.group {
+  background: none;
+  border: none;
+}
+
+ol.pagination.actions.pagy a,
+ol.pagination.actions a {
+  border: 1px solid #660831 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+ol.pagination.actions.pagy a.current {
+  border-color: #fff !important;
+  color: #fff !important;
+}
+
+form#bookmark-filters.filters fieldset {
+  box-shadow: none !important;
+  border: none;
+}
+
+div#bookmark-form {
+  border: 1px solid #f7262b !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 90%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+#main li.work,
+li.collection.picture.blurb.group,
+#header ul.menu.dropdown-menu,
+li.series,
+div#user-series.series.listbox.group li.blurb,
+div#main.collection_items-new.region dl,
+div#user-bookmarks li.blurb,
+div#main.collections-show.dashboard.region div#collection-bookmarks ul.index.group li.blurb {
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+.user.home.profile dl.meta,
+div#main.chapters-show.region dl.work.meta.group,
+div#main.series-show.region dl.meta {
+  border: solid 1px #fff;
+}
+
+dl.subscription.index.group,
+div#main.system.docs.about.region .userstuff,
+div#main.system.docs.guideline.show.region .userstuff,
+div#main.system.docs.about.region .userstuff,
+div#main.system.docs.donate.region .userstuff {
+  outline: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+  outline-offset: 3px;
+}
+
+div#main.inbox-show.dashboard.region fieldset.actions,
+div#main.inbox-show.dashboard.region fieldset.comments,
+div#main.bookmarks-index.filtered.region form#bookmark-filters,
+.group .group .group,
+form#collection-filters dl,
+form#collection-filters .group.listbox,
+div#main.works-search.region dl,
+div#main.people-search.region dl,
+div#main.bookmarks-search.region dl,
+div#main.tags-search.region dl,
+li.collection.picture.blurb.group .header.module.group,
+div#main.skins-edit.region dl {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+div#user-bookmarks ol.index.group,
+div.user.home .group.listbox form fieldset fieldset,
+div.user.home .group.listbox form fieldset,
+ul.primary.navigation.actions fieldset,
+ul.work.navigation.actions li.bookmark,
+li.collection.picture.blurb.group .header.module.group,
+div#user-fandoms ol.index.group,
+div#dashboard.region,
+div#feedback.feedback #bookmark-form form fieldset,
+#header ul.menu.dropdown-menu a,
+div#main.preferences-index.dashboard.region form dl,
+div#main.inbox-show.dashboard.region .dynamic form fieldset {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+div.user.home .group.listbox,
+div.user.home .group.listbox form,
+div#user-fandoms,
+div#main.collections-show.dashboard.region .group.listbox {
+  background: none !important;
+  border: 1px solid #fff;
+  box-shadow: none;
+}
+
+li.post.group {
+  background: rgba(0, 0, 21, 0.9) !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+p.kudos,
+p.kudos a {
+  color: #f7262b;
+}
+
+p.kudos a {
+  background: #27082b;
+  border-radius: 10px;
+  border: none;
+}
+
+div.work ul.expandable.secondary,
+div#dashboard.region ul.expandable.secondary,
+div#dashboard.region.own ul.expandable.secondary {
+  border: 1px solid #660831 !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+li.work a.tag,
+dl.work.meta.group a.tag,
+li.bookmark a.tag,
+li.series a.tag {
+  background: #27082b;
+  border-radius: 10px;
+  border: none;
+}
+
+li.work li.relationships a.tag,
+dl.work.meta.group li.relationships a.tag,
+li.bookmark li.relationships a.tag,
+li.series li.relationships a.tag,
+div#main.chapters-show.region dl.work.meta.group dd.relationships a.tag {
+  background: #070132;
+  color: #f7262b !important;
+}
+
+li.work li.relationships a.tag:hover,
+dl.work.meta.group li.relationships a.tag:hover,
+li.bookmark li.relationships a.tag:hover,
+li.series li.relationships a.tag:hover,
+div#main.chapters-show.region dl.work.meta.group dd.relationships a.tag:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+li.work a.tag:hover,
+dl.work.meta.group a.tag:hover,
+li.bookmark a.tag:hover,
+li.series a.tag:hover {
+  color: #fff !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+li.user.short.blurb.group {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+li.bookmark form {
+  border: none !important;
+}
+
+div#main.bookmarks-index.dashboard.filtered.region li.bookmark fieldset,
+div#main.bookmarks-index.dashboard.filtered.region li.bookmark form,
+div#user-works.group.listbox ul.index.group,
+div#user-series.series.listbox.group ol.index.group,
+div#main.collections-show.dashboard.region .group.listbox ul.index.group,
+div#main.external_works-new.region div#bookmark-form,
+div#main.media-index.region ul.media.fandom.index.group .group ol.index.group,
+div#main.series-show.region #bookmark-form form fieldset,
+div#main.system.docs.index.region fieldset,
+div#main.fandoms-index.dashboard.region ol.alphabet.fandom.index.group.collection,
+div#main.fandoms-index.dashboard.region fieldset,
+div#main.fandoms-index.region ol.alphabet.fandom.index.group {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+div#main.collection_profile-show.dashboard.region dl.meta.group,
+div#main.media-index.region ul.media.fandom.index.group .group,
+div#main.system.docs.index.region div#reply-to-comment,
+div#main.fandoms-index.dashboard.region .group.listbox {
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div#dashboard.region a:hover,
+div#dashboard.region.own a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  background: none;
+}
+
+#main .verbose legend,
+div#main.skins-edit.region dd.listbox.group {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+header#header.region .actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+  border-radius: 0px;
+}
+
+#header .dropdown:has(.menu :hover)>a {
+  border: solid 1px #f7262b !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+  border-radius: 0px;
+}
+
+div#main.skins-edit.region dd.listbox.group ul.options.index.group.many,
+div#main.skins-edit.region ul.index.group,
+div#main.skins-new.region dd.listbox.group ul.options.index.group.many,
+div#main.skins-new.region ul.index.group,
+div#main.bookmarks-index.region fieldset {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+dd.listbox.group label.action {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+  border-radius: 0px;
+}
+
+dd.listbox.group label.action:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff !important;
+  border-radius: 0px;
+}
+
+.css.module,
+.afterword.preface.group,
+div.bio.module blockquote.userstuff,
+.news.module.group,
+nav#dashboard.admin.region {
+  background: rgba(0, 0, 21, 0.9) !important;
+  outline: 1px solid #fff;
+  outline-offset: 3px;
+}
+
+#main ul.series a:hover,
+#main dl.stats a:hover,
+#main li.blurb h4.heading a:hover,
+p.kudos a:hover,
+li.comment h4.heading.byline a:hover,
+div#workskin h3.byline.heading a:hover,
+div#user-fandoms li a:hover,
+dl.meta dd.pseuds a:hover,
+.notice a:hover,
+div#main.subscriptions-index.dashboard.region dt a:hover,
+#main li.blurb .own.user.module.group h5.byline.heading a:hover,
+div#main.system.docs.about.region a:hover,
+div#main.system.docs.support.faq.index.region a:hover,
+div#main.system.docs.donate.region a:hover,
+.latest.news.module a:hover,
+ol.bookmark.index.group h5.byline.heading a:hover,
+div#main.system.docs.guideline.index.region a:hover,
+div#main.system.docs.guideline.show.region a:hover {
+  color: #fff !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  border-radius: 10px;
+}
+
+div#main.skins-new.region dd.listbox.group {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div#main.chapters-show.region dl.work.meta.group dd.relationship.tags a.tag {
+  color: #f7262b !important;
+}
+
+div#main.system.docs.index.region .social.module.odd,
+div#main.system.docs.index.region .social.module.odd h3.heading {
+  color: #070132 !important;
+}
+
+div#main.fandoms-index.region ol.alphabet.fandom.index.group .group.listbox {
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div#main.fandoms-index.region ul#alphabet.alphabet.actions a {
+  border: 1px solid #660831 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+div#main.fandoms-index.region ul#alphabet.alphabet.actions a:hover {
+  color: #fff !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+#header #search .button {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+#header #search .button:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+nav#dashboard.admin.region ul.navigation.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff !important;
+  border-radius: 0px;
+  background: none;
+}
+
+div#main.works-show.region dl.work.meta.group a:hover,
+div#workskin a:hover,
+div#main.chapters-show.region div#workskin a:hover,
+div#main.chapters-show.region dl.work.meta.group a:hover {
+  color: #fff !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  border-radius: 10px;
+}
+
+div#main.works-show.region dl.work.meta.group {
+  border: solid 1px #fff;
+}
+
+div#main.works-show.region dl.work.meta.group dd.relationship.tags a.tag {
+  color: #f7262b !important;
+}
+
+div#main.system.docs.index.region .social.module.odd p.note a {
+  color: #f7262b;
+}
+
+div#main.system.docs.index.region .social.module.odd p.note a:hover,
+.news.module.group .userstuff a:hover {
+  border: #f7262b 1px solid;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border-radius: 10px;
+}
+
+.news.module.group .userstuff a {
+  border-color: #f7262b !important;
+}
+
+div#footer a:hover {
+  color: #070132 !important;
+}
+
+div#main.bookmarks-index.region form {
+  border-radius: 0px;
+  box-shadow: none !important;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 90%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+div#main.skins-index.dashboard.region ul.actions a,
+legend .action:link,
+a.hidden.showme,
+li.user.pseud.picture.blurb.group ul.actions a,
+p.narrow-shown.hidden.actions a,
+form#inbox-form fieldset.actions a,
+li.comment ul.actions a,
+li.comment ul.actions label,
+div#main.works-new.region ul.rtf-html-switch.actions a,
+div#main.works-new.region p.actions a,
+div#main.external_works-new.region p.submit.actions a,
+div#main.media-index.region p.actions a,
+.dynamic form p.submit.actions a,
+div#main.system.docs.support.faq.index ul.showme.hidden.actions a,
+div#main.system.docs.support.faq.index label,
+div#main.pseuds-show.dashboard ul.navigation.actions a,
+div#main.pseuds-show.dashboard p.actions a,
+div#main.pseuds-show.dashboard ul.actions a,
+div#main.skins-show.region ul.actions a,
+.thread .comment fieldset p.submit.actions a,
+div#main.admin_posts-index.dashboard.region ul.navigation.actions label,
+div#main.admin_posts-index.dashboard.region .news.module.group ul.actions a,
+div#main.admin_posts-index.dashboard.region .primary.header.module ul.actions a,
+div#main.admin_posts-show.dashboard.region .primary.header.module ul.actions a,
+div#collection-page ul.actions a {
+  border: 1px solid #fff !important;
+  background: #000000 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+div#main.skins-index.dashboard.region ul.actions a:hover,
+legend .action:link:hover,
+a.hidden.showme:hover,
+li.user.pseud.picture.blurb.group ul.actions a:hover,
+p.narrow-shown.hidden.actions a:hover,
+form#inbox-form fieldset.actions a:hover,
+li.comment ul.actions a:hover,
+li.comment ul.actions label:hover,
+div#main.works-new.region ul.rtf-html-switch.actions a:hover,
+div#main.works-new.region p.actions a:hover,
+div#main.external_works-new.region p.submit.actions a:hover,
+div#main.media-index.region p.actions a:hover,
+.dynamic form p.submit.actions a:hover,
+div#main.system.docs.support.faq.index ul.showme.hidden.actions a:hover,
+div#main.system.docs.support.faq.index label:hover,
+div#main.pseuds-show.dashboard ul.navigation.actions a:hover,
+div#main.pseuds-show.dashboard p.actions a:hover,
+div#main.pseuds-show.dashboard ul.actions a:hover,
+div#main.skins-show.region ul.actions a:hover,
+.thread .comment fieldset p.submit.actions a:hover,
+div#main.admin_posts-index.dashboard.region .news.module.group ul.actions a:hover,
+div#main.admin_posts-index.dashboard.region .primary.header.module ul.actions a:hover,
+div#main.admin_posts-show.dashboard.region .primary.header.module ul.actions a:hover,
+div#collection-page ul.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border-radius: 0px !important;
+  border: #f7262b solid 1px !important;
+}
+
+div.dynamic p.close.actions a,
+fieldset span.actions.cancel a,
+p.close.actions a {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+}
+
+div.dynamic p.close.actions a:hover,
+fieldset span.actions.cancel a:hover,
+p.close.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+  color: #f7262b !important;
+}
+
+dl.subscription.index.group dt:before {
+  content: "◈";
+}
+
+div#modal a.action.modal-closer {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+}
+
+div#modal a.action.modal-closer:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+}
+
+li.comment span.unread {
+  background: #4a0c10 !important;
+  border-radius: 0px;
+  border: solid 1px #f7262b;
+}
+
+div#main.users-change_password.dashboard.region input,
+div#main.users-change_username.dashboard.region input#password,
+div#main.users-change_email.dashboard.region input {
+  border: solid 1px #660831;
+  background: #030018;
+}
+
+div#main.users-show.dashboard.region div.user.home .group.listbox ul.actions a {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+div#main.users-show.dashboard.region div.user.home .group.listbox ul.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+span.action.top {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+  color: fff;
+}
+
+span.action.top a {
+  color: #fff;
+  border: solid 1px #fff;
+}
+
+.search [role=tooltip] {
+  background: transparent !important;
+  border: 1px solid #f75826;
+  color: #f75826 !important;
+  box-shadow: #f75826 1px 1px 9px 1px !important;
+}
+
+#header h1.heading span,
+#header h1.heading sup,
+#header h1.heading img.logo {
+  visibility: hidden;
+}
+
+div#main.bookmarks-index.dashboard.filtered.region form#bookmark-filters.narrow-hidden.filters fieldset {
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+#header input#site_search {
+  border: 1px solid #fff !important;
+  background: rgb(0 0 21) !important;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+#header input#site_search:focus {
+  border: 1px solid #f7262b !important;
+  background: rgb(0 0 21) !important;
+  border-radius: 0px;
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+}
+
+div#error {
+  border: 1px solid #f75826;
+  color: #f75826 !important;
+  box-shadow: #f75826 1px 1px 11px 1px inset !important;
+  border-radius: 0px;
+  background: rgba(0, 0, 21, 0.20) !important;
+}
+
+span.error {
+  border: 1px solid #f75826;
+  color: #f75826 !important;
+  box-shadow: #f75826 1px 1px 2px 1px !important;
+  border-radius: 0px;
+  background: rgba(0, 0, 21, 0.20) !important;
+}
+
+.LV_invalid {
+  border: 1px solid #f75826;
+  color: #f75826 !important;
+  box-shadow: #f75826 1px 1px 5px 1px inset !important;
+  border-radius: 0px;
+  background: rgb(0 0 21) !important;
+}
+
+div#main.owned_tag_sets-index ul.navigation.actions fieldset {
+  background: none !important;
+}
+
+div#main.owned_tag_sets-new.region fieldset dl {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+div#main.owned_tag_sets-new.region ul.options.index.group.many {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div#main.owned_tag_sets-new.region ul.options.index.group.many label.action {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+  border-radius: 0px;
+}
+
+div#main.owned_tag_sets-new.region ul.options.index.group.many label.action:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff !important;
+  border-radius: 0px;
+}
+
+div#main.owned_tag_sets-new.region a.check_none {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+  border-radius: 0px;
+}
+
+div#main.owned_tag_sets-new.region a.check_all {
+  border: 1px solid #fff;
+  box-shadow: none;
+  background: rgba(0, 0, 21, 0.9) !important;
+  border-radius: 0px;
+}
+
+div#main.owned_tag_sets-new.region a.check_all:hover,
+div#main.owned_tag_sets-new.region a.check_none:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  border-radius: 0px;
+}
+
+li.tagset.picture.blurb.group {
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div.tagset.home .listbox .index {
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div.tagset.home dl.meta {
+  border: solid 1px #fff;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group {
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div#main.owned_tag_sets-index.region ul.index.group {
+  background: none !important;
+}
+
+div.tagset.home ol.tagset.index.group {
+  background: none;
+}
+
+ol.tagset.index.group button.expand.hidden,
+ol.tagset.index.group button.contract.hidden,
+ol.tagset.index.group button.shuffle.hidden {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+  color: #f7262b;
+}
+
+ol.tagset.index.group button.expand.hidden:hover,
+ol.tagset.index.group button.contract.hidden:hover,
+ol.tagset.index.group button.shuffle.hidden:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+}
+
+.tag.tagset ul.actions fieldset {
+  border: none !important;
+  box-shadow: none !important;
+}
+
+div#main.owned_tag_sets-index ul.navigation.actions fieldset input#query.text {
+  border: 1px solid #fff !important;
+  background: rgb(0 0 21) !important;
+  border-radius: 0px;
+  box-shadow: none;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.contract_all,
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.expand_all {
+  border: 1px solid #fff !important;
+  background: #000000 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+  color: #f7262b !important;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.contract_all:hover,
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.expand_all:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border-radius: 0px !important;
+  border: #f7262b solid 1px !important;
+  color: #fff !important;
+}
+
+.flash.notice a.action {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+}
+
+.flash.notice a.action:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b;
+  color: #fff !important;
+}
+
+div#main.collection_items-new.region a {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+}
+
+div#main.collection_items-new.region dd.submit.actions a:hover,
+div#main.collection_items-new.region dd.submit.actions input:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+  border: solid 1px #f7262b;
+}
+
+a.rtf-link.current,
+a.html-link.current {
+  color: #f7262b !important;
+}
+
+div#main.bookmarks-show.region div#bookmark-form,
+div#main.bookmarks-show.region div#bookmark-form fieldset fieldset,
+div#main.bookmarks-show.region div#bookmark-form form,
+div#main.bookmarks-show.region,
+div#main.bookmarks-show.region div.dynamic {
+  background: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+div#main.invitations-index.dashboard.region form dl {
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
+}
+
+div#main.invitations-manage.dashboard.region table {
+  background: linear-gradient(100deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
+}
+
+div#main.invitations-manage.dashboard.region th {
+  border: 1px solid #f7262b !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+div#main.invitations-manage.dashboard.region thead {
+  border-bottom-color: #f7262b !important;
+  border: 1px;
+}
+
+div#main.invitations-manage.dashboard.region td:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  background: linear-gradient(181deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+}
+
+div#main.invitations-manage.dashboard.region tr:hover {
+  background: #030014 !important;
+  border-right-color: #f7262b !important;
+  border-bottom: #fff solid 1px;
+}
+
+.kudos_error,
+div.error,
+.comment_error {
+  border: 1px solid #f75826;
+  color: #f75826 !important;
+  box-shadow: #f75826 1px 1px 9px 1px !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  text-shadow: 2px 4px 9px;
+}
+
+.flash.error a:hover,
+div#main.system.docs.index.region div#reply-to-comment h4.heading a:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  border-radius: 10px;
+}
+
+form#new_pseud dl {
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
+}
+
+::selection {
+  background: #ffedc5;
+  border-color: #988352;
+  color: #111;
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+}
+
+span.current {
+  font-family: Georgia, serif;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: Georgia, serif;
+  font-weight: 400;
+}
+
+body,
+p,
+input,
+#header ul.menu.dropdown-menu li a,
+button.expander,
+#header a.dropdown-toggle,
+select,
+ul.expandable.secondary a,
+textarea,
+blockquote.userstuff {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+}
+
+#header ul.user.navigation.actions a.dropdown-toggle,
+#header ul.user.navigation.actions a {
+  text-shadow: 1px 1px 1px #000;
+}
+
+kbd,
+tt,
+code,
+var,
+pre,
+samp {
+  font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace;
+}
+
+div.skins.home .parents.module {
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
+  margin-top: 4px;
+}
+
+div.skins.home .parents.module ul.index.group {
+  background-color: transparent !important;
+}
+
+div#footer:after {
+  content: "proship with love ♥";
+}
+
+div.skins.home .parents.module ul.index.group li:before {
+  content: "◈ ";
+}
+
+div.skins.home .parents.module ul.index.group a:hover {
+  color: #f75826 !important;
+}
+
+span.series .position + .divider:after,
+span.series .previous + .divider:before {
+  content: " ✞ " !important;
+  color: #f75826;
+}
+
+span.replied {
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+  color: #eee;
+}
+
+div.work ul.work.navigation.actions button,
+div#main.works-show.region button,
+div#main.collections-show ul.navigation.actions button,
+li.collection.picture.blurb.group button,
+button[type=submit] {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+  color: #fff !important;
+}
+
+div.work ul.work.navigation.actions button:hover,
+div#main.works-show.region button:hover,
+div#main.collections-show ul.navigation.actions button:hover,
+li.collection.picture.blurb.group button:hover,
+button[type=submit]:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+}
+
+#footer button {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+  color: #fff;
+}
+
+#footer button:hover {
+  color: #070132 !important;
+  background: #ffedc5;
+  border-color: #988352;
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+}
+
+.own.user.module.group a.tag,
+.user.module.group a.tag {
+  font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace;
+  color: #f7262b;
+}
+
+.user.module.group ul.meta.commas li a:hover {
+  color: #f7262b !important;
+}
+
+.own.user.module.group a.tag:before,
+.user.module.group a.tag:before {
+  content: "#";
+}
+
+.own.user.module.group a.tag:hover,
+.user.module.group a.tag:hover {
+  color: #fff;
+}
+
+div#main.skins-edit.region form textarea,
+div#main.skins-new.region form textarea {
+  color: #f75826 !important;
+  font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace !important;
+}
+
+.own.user.module.group h6.meta,
+.user.module.group h6.meta,
+.user.module.group ul.meta.commas {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+}
+
+#dashboard ul,
+dl.meta,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+form blockquote.userstuff,
+div.comment,
+li.comment,
+.toggled form,
+form.single fieldset,
+#inner .module .heading,
+.bookmark .status span,
+.splash .news li,
+.filters .group dt.bookmarker {
+  border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
+  border-width: 1px;
+}
+
+div.work ul.work.navigation.actions button,
+div#main.works-show.region button,
+li.collection.picture.blurb.group button,
+button[type=submit] {
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+}
+
+.flash.comment_notice {
+  background: rgba(0, 0, 21, 0.9) !important;
+  border: 1px solid #fff;
+  border-radius: 0px;
+}
+
+.filters [type="radio"]:checked + .indicator:before {
+  content: "◈" !important;
+  font-size: 22px;
+  background: none;
+  border: none;
+}
+
+.filters [type="radio"] + .indicator:before {
+  content: "◇" !important;
+  background: none;
+  border: none;
+  color: #f75826 !important;
+  font-size: 22px;
+}
+
+.filters [type="checkbox"] + .indicator:before {
+  content: "□" !important;
+  background: none;
+  border: none;
+  color: #f75826 !important;
+}
+
+.filters [type="checkbox"]:checked + .indicator:before,
+.filters .exclude [type="checkbox"]:checked + .indicator:before {
+  content: "▣" !important;
+  background: none;
+  border: none;
+  color: #f75826 !important;
+  font-size: 19px;
+}
+
+button.showme.action:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+button.showme.action {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
+}
+
+div#admin-banner blockquote.userstuff p {
+  font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace !important;
+  text-shadow: #f75826 0px 0px 3px;
+}
+
+div#admin-banner blockquote.userstuff {
+  background: transparent !important;
+  border: none;
+  color: #f77526 !important;
+  box-shadow: none;
+}
+
+div#admin-banner blockquote.userstuff a {
+  color: #f77526;
+}
+
+div#admin-banner blockquote.userstuff a:hover {
+  color: #999;
+  text-shadow: none;
+}
+
+div#admin-banner {
+  background: rgba(0, 0, 21, 0.9) !important;
+}

@@ -1,0 +1,381 @@
+ul.required-tags,
+.bookmark .status span,
+.blurb .icon {
+  opacity: 1 !important;
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  box-sizing: border-box;
+  content: url("https://i.ibb.co/bMPMMcyh/zerafina-icon-user-default-01.png");
+  background-color: #6e6e6e;
+  border: 1.5px solid #ddd;
+}
+
+.comment .icon .anonymous {
+  box-sizing: border-box;
+  background: url(https://i.imgur.com/EZx4P2Z.png);
+  background-size: contain;
+  background-color: #586d55;
+  border: 1.5px solid #00000025;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.comment .icon .visitor {
+  background: url(https://i.imgur.com/obRguI5.png) !important;
+  display: block;
+  background-size: contain !important;
+  background-position: center !important;
+  background-color: #fff4e9 !important;
+  border-color: #fff4e9;
+  background-repeat: no-repeat !important;
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  box-sizing: border-box;
+  content: url("https://i.ibb.co/Z6Vw4X7R/zerafina-icon-collection-01.png");
+  background-image: linear-gradient(transparent, #ffffff50 45% 55%, transparent);
+  background-color: #616c90;
+  border: 1.5px solid #00000025;
+}
+
+.tagset .primary .icon,
+.tag .primary .icon,
+.index .tagset .icon {
+  box-sizing: border-box;
+  background: url("https://i.ibb.co/Y4QDmRvt/zerafina-icon-tag-01.png"), 
+    linear-gradient(transparent, #ffffff50 45% 55%, transparent);
+  background-size: cover;
+  background-color: #900;
+  border: 1.5px solid #00000025;
+}
+
+.index .mystery .icon {
+  box-sizing: border-box;
+  background: url(https://i.imgur.com/gnXrfam.png) !important;
+  background-color: #fff4e9 !important;
+  background-size: contain !important;
+  border: 2.5px solid #5d5751;
+}
+
+.admin .primary .icon {
+  box-sizing: border-box;
+  background: url("https://i.ibb.co/HTz7zh4K/zerafina-icon-admin-01.png")  no-repeat, 
+    linear-gradient(#ffffff40, transparent);
+  background-size: cover;
+  background-color: #900;
+  border: 1.5px solid #00000099;
+}
+
+.skins .primary .icon:not(:has(a .icon)),
+.index .skins .icon:not(:has(a .icon)) {
+  box-sizing: border-box;
+  background: url("https://i.ibb.co/k6gSr1MS/zerafina-icon-skins-01.png");
+  background-size: cover;
+  background-color: #900;
+  border: 1.5px solid #ddd;
+}
+
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  width: 0 !important;
+  height: 0 !important;
+  padding: 25px 0 0 25px;
+}
+
+.blurb ul.required-tags li span,
+.bookmark .status span:not(.status .private),
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  background-size: cover;
+  background-origin: border-box;
+  box-sizing: border-box;
+  border: 1px solid;
+}
+
+.required-tags .rating-notrated,
+.required-tags .category-none,
+.required-tags .warning-no,
+.status .count,
+img[src$="/images/skins/iconsets/default/rating-notrated.png"],
+img[src$="/images/skins/iconsets/default/category-none.png"],
+img[src$="/images/skins/iconsets/default/warning-no.png"] {
+  background: #ffffffcc;
+  color: #00000040;
+}
+
+.required-tags .rating-general-audience,
+img[src$="/images/skins/iconsets/default/rating-general-audience.png"] {
+  background: url("https://i.ibb.co/cXk9HdYH/zerafina-icon-rating-gen-01.png");
+  background-color: #5c924b;
+  color: #0000001a;
+}
+
+.required-tags .rating-teen,
+img[src$="/images/skins/iconsets/default/rating-teen.png"] {
+  background: url("https://i.ibb.co/xSmwW6CN/zerafina-icon-rating-teen-01.png");
+  background-color: #ddb244;
+  color: #0000001a;
+}
+
+.required-tags .rating-mature,
+img[src$="/images/skins/iconsets/default/rating-mature.png"] {
+  background: url("https://i.ibb.co/chYzvd2w/zerafina-icon-rating-mature-01.png");
+  background-color: #df6a2f;
+  color: #0000001a;
+}
+
+.required-tags .rating-explicit,
+img[src$="/images/skins/iconsets/default/rating-explicit.png"] {
+  background: url("https://i.ibb.co/Kp2nk21k/zerafina-icon-rating-explicit-01.png");
+  background-color: #b65829;
+  color: #0000001a;
+}
+
+.required-tags .category-femslash,
+img[src$="/images/skins/iconsets/default/category-femslash.png"] {
+  background: url("https://i.ibb.co/JwHx18Ht/zerafina-icon-category-ff-01.png");
+  background-color: #b1244b;
+  color: #0000001a;
+}
+
+.required-tags .category-het,
+img[src$="/images/skins/iconsets/default/category-het.png"] {
+  background: url("https://i.ibb.co/0yD62BY2/zerafina-icon-category-mf-01.png");
+  background-color: #816ebb;
+  color: #0000001a;
+}
+
+.required-tags .category-gen,
+img[src$="/images/skins/iconsets/default/category-gen.png"] {
+  background: url("https://i.ibb.co/8gwHmMQX/zerafina-icon-category-gen-01.png");
+  background-color: #5c924b;
+  color: #0000001a;
+}
+
+.required-tags .category-slash,
+img[src$="/images/skins/iconsets/default/category-slash.png"] {
+  background: url("https://i.ibb.co/GQ2YZ686/zerafina-icon-category-mm-01.png");
+  background-color: #5da5a2;
+  color: #0000001a;
+}
+
+.required-tags .category-multi,
+img[src$="/images/skins/iconsets/default/category-multi.png"] {
+  background: conic-gradient(from 270deg, #5c924b 25%, #816ebb 25% 50%, #5da5a2 50% 75%, #b65829 75%);
+  color: #0000001a;
+}
+
+.required-tags .category-other,
+img[src$="/images/skins/iconsets/default/category-other.png"] {
+  background: url("https://i.ibb.co/MD6r4zyH/zerafina-icon-category-other-01.png");
+  background-color: #5d5751;
+  color: #0000001a;
+}
+
+.required-tags .warning-choosenotto,
+img[src$="/images/skins/iconsets/default/warning-choosenotto.png"] {
+  background: url("https://i.ibb.co/m5Yk1TtQ/zerafina-icon-warning-choosenotto-01.png");
+  background-color: #df6a2f;
+  color: #0000001a;
+}
+
+.required-tags .warning-yes,
+img[src$="/images/skins/iconsets/default/warning-yes.png"] {
+  background: url("https://i.ibb.co/Jj9yFqFq/zerafina-icon-warning-yes-01.png");
+  background-color: #b65829;
+  color: #0000001a;
+}
+
+.required-tags .external-work,
+img[src$="/images/skins/iconsets/default/warning-external-work.png"] {
+  background: url("https://i.ibb.co/GQG1C3vw/zerafina-icon-warning-external-work-01.png");
+  background-color: #5da5a2;
+  color: #0000001a;
+}
+
+.required-tags .complete-no,
+img[src$="/images/skins/iconsets/default/complete-no.png"] {
+  background: url("https://i.ibb.co/pYzPL49/zerafina-icon-complete-no-01.png");
+  background-color: #b65829;
+  color: #0000001a;
+}
+
+.required-tags .complete-yes,
+img[src$="/images/skins/iconsets/default/complete-yes.png"] {
+  background: url("https://i.ibb.co/6JBN1vhz/zerafina-icon-complete-yes-01.png");
+  background-color: #5c924b;
+  color: #0000001a;
+}
+
+.status .rec,
+img[src$="/images/skins/iconsets/default/bookmark-rec.png"] {
+  background: url("https://i.ibb.co/jPq89bqP/zerafina-icon-bookmark-rec-01.png");
+  background-color: #5c924b;
+  color: #0000001a;
+}
+
+.status .public,
+img[src$="/images/skins/iconsets/default/bookmark-public.png"] {
+  background: url("https://i.ibb.co/07Wtk6D/zerafina-icon-bookmark-public-01.png");
+  background-color: #586d55;
+  color: #0000001a;
+}
+
+.status .private .text,
+img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
+  font-size: inherit;
+  text-indent: -9999px;
+  white-space: nowrap;
+  background: url("https://i.ibb.co/4gSvnrkb/zerafina-icon-bookmark-locked-01.png");
+  background-color: #5d5751;
+  color: #00000040;
+}
+
+.status .hidden,
+img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
+  background: url("https://i.ibb.co/4gSvnrkb/zerafina-icon-bookmark-locked-01.png");
+  background-color: #b65829;
+  color: #00000040;
+}
+
+a.rss span {
+  padding: 0;
+  background: none;
+}
+
+.actions li a.rss {
+  display: inline-flex;
+  align-content: center;
+  align-items: center;
+  column-gap: 0.3em;
+}
+
+.actions li a.rss::before {
+  content: "";
+  height: 0.85em;
+  width: 0.85em;
+  background-image: url("https://i.ibb.co/35VLs1PW/zerafina-icon-rss-01.png");
+  background-size: cover;
+  background-color: #df6a2f;
+  box-shadow: inset 0 0 0 1px;
+  border-radius: 2px;
+  color: #00000025;
+}
+
+p.kudos {
+  background: none;
+}
+
+div:has(> p.kudos)::before {
+  content: "";
+  height: 55px;
+  width: 55px;
+  position: absolute;
+  background-image: url("https://i.ibb.co/8gxgCYb4/zerafina-icon-kudos-01.png");
+  background-size: cover;
+  filter: invert(18%) sepia(86%) saturate(2463%) hue-rotate(345deg) brightness(88%) contrast(95%);
+}
+
+img[src$="/images/lockblue.png"] {
+  content: url("https://i.ibb.co/kVCsBwzY/zerafina-icon-lock-01.png");
+  filter: invert(12%) sepia(100%) saturate(4991%) hue-rotate(244deg) brightness(71%) contrast(144%);
+}
+
+#header .logo {
+  content: url("/images/logo.png");
+}
+
+.blurb ul.required-tags li span,
+.bookmark .status span:not(.status .private),
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  border-radius: 0.25em;
+}
+
+.required-tags .warning-no {
+  background: #ddd8be !important;
+  color: #ddd8be !important;
+}
+
+.bookmark .count a {
+  color: #586d55;
+}
+
+.bookmark .count a:hover {
+  color: #e5e6c5;
+  border-radius: 0.25em;
+}
+
+span.count {
+  background: #e5e6c5 !important;
+  border-color: #e5e6c5 !important;
+}
+
+span.category-none.category,
+span.rating-notrated.rating {
+  background: #ddd8be !important;
+  color: #ddd8be !important;
+}
+
+img[src$="/images/skins/iconsets/default/rating-notrated.png"],
+img[src$="/images/skins/iconsets/default/category-none.png"],
+img[src$="/images/skins/iconsets/default/warning-no.png"],
+img[src$="/images/skins/iconsets/default/category-none.png"] {
+  background: #e5e6c5;
+  color: #e5e6c5;
+}
+
+.tagset .primary .icon,
+.tag .primary .icon,
+.index .tagset .icon {
+  background: url(https://i.imgur.com/YsWHZMW.png) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center;
+  border-color: transparent;
+}
+
+.skins .primary .icon:not(:has(a .icon)),
+.index .skins .icon:not(:has(a .icon)) {
+  box-sizing: border-box;
+  background-image: url(https://i.imgur.com/UAPsncX.png) !important;
+  background-size: cover !important;
+  border: 2.5px solid transparent;
+  background: #fff4e9;
+}
+
+.admin .primary .icon {
+  box-sizing: border-box;
+  background: url(https://i.imgur.com/6Am6HEW.png) no-repeat, linear-gradient(#ffffff40, transparent);
+  background-size: cover;
+  background-color: #fff4e9;
+  border: 2.5px solid #5d5751;
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  box-sizing: border-box;
+  content: url(https://i.imgur.com/egaJKgX.png);
+  background-image: linear-gradient(transparent, #ffffff50 45% 55%, transparent);
+  background-color: #fff4e9;
+  border: 2.5px solid #5d5751;
+}
+
+img[src$="/images/lockblue.png"] {
+  content: url(https://i.imgur.com/6yYiBRX.png);
+  filter: none !important;
+}
+
+li.skins.own.picture.blurb.group .icon {
+  background-image: none !important;
+}
+
+div:has(> p.kudos)::before {
+  content: "";
+  height: 48px;
+  width: 48px;
+  position: absolute;
+  background-image: url(https://i.imgur.com/IT9SSTc.png);
+  background-size: cover;
+  filter: none;
+}

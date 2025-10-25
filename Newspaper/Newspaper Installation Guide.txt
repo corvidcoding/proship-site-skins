@@ -1,0 +1,18 @@
+Installation Guide
+
+Fonts
+Platypi
+https://fonts.google.com/specimen/Platypi?query=plat
+Funnel Display 
+https://fonts.google.com/specimen/Funnel+Display?query=funn
+
+Monofonto (Optional/This is just a font for code)
+https://www.dafont.com/monofonto.font
+
+Additional Required Skins
+(add in parent group)
+
+Dyslexic Friendly Mobile Dark Version
+Follow Instructions here:
+https://archiveofourown.org/works/30918077/chapters/76349072
+

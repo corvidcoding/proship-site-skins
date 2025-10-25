@@ -1,0 +1,2082 @@
+#header h1.heading span,
+.primary.header.module h2.heading {
+  font-family: Fleuron mixed, sans-serif;
+  font-weight: normal;
+}
+
+div#outer,
+div#inner,
+#header {
+  background: #efe8db !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: Platypi, Georgia, serif !important;
+  border-bottom: none;
+  font-weight: 700;
+  color: #5d5751 !important;
+}
+
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+blockquote,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.bookmark .user .meta,
+.datetime,
+a.work,
+span.symbol,
+.splash .news .meta,
+select,
+span.unread {
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+#footer li,
+.comment .userstuff,
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+textarea,
+p.type,
+.meta dd,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#header h1,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+#modal,
+.filters .expander,
+.qtip-content,
+h5,
+h6,
+h4.viewed,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  font-size: 1.05em;
+}
+
+.home .header h2,
+.preface h3,
+.faq .categories h3,
+.userstuff h3,
+#footer a {
+  border-bottom: none;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#inner.wrapper,
+#modal,
+h3,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.userstuff li,
+.userstuff ul,
+.userstuff p,
+.userstuff h2,
+.userstuff h1,
+.userstuff h3,
+.userstuff h4,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  line-height: 1.8em;
+}
+
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 0.84em;
+}
+
+h4.heading {
+  font-size: 1.640625em;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 1.3125em;
+}
+
+h4.heading .datetime {
+  padding: 5px;
+  font-size: 0.5376em;
+}
+
+.preface a:hover {
+  text-decoration: none;
+}
+
+#header {
+  font-size: 1.05em;
+}
+
+.news h4.heading {
+  margin: 0;
+}
+
+code,
+pre {
+  font-family: Miracode, "Courier New", Courier, Monospace;
+  font-size: 1.05em;
+  padding: 1em 0.5em;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 100%;
+}
+
+h1,
+h2 {
+  font-size: 2.05078125em;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.640625em;
+}
+
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+p.type,
+.meta dd,
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander {
+  word-spacing: 0.21em;
+}
+
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea,
+p.type,
+.meta dd,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander {
+  letter-spacing: 0.02em;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+div#comments_placeholder,
+.blurb dl.stats,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  text-align: left;
+}
+
+#workskin {
+  text-align: left !important;
+}
+
+div#comments_placeholder,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  width: 70%;
+  max-width: 45em;
+}
+
+.comment .userstuff {
+  width: 95%;
+}
+
+.blurb .userstuff {
+  padding: 20px 0;
+}
+
+.userstuff p {
+  margin: 2em auto;
+}
+
+u,
+acronym[title],
+abbr[title] {
+  border-bottom: 2px solid #5c924b;
+  padding-bottom: 4px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+i,
+em,
+cite {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.userstuff blockquote {
+  border-inline-start: 2px solid #5c924b;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.dynamic form,
+.ui-draggable form,
+#header .primary,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form,
+.listbox .index,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+span.question,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.delete a,
+span.delete,
+#header ul.primary,
+.ui-sortable li,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  box-shadow: none;
+}
+
+.announcement blockquote.userstuff,
+#footer,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.autocomplete a:hover,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  background-image: none;
+}
+
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  -webkit-appearance: none;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.toggled form,
+.dynamic form,
+.ui-draggable form {
+  border: none;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  border: none;
+}
+
+input {
+  width: 96%;
+  border: 1px solid;
+}
+
+.actions a:hover,
+a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+#dashboard .current,
+#outer .current,
+#header .current,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover,
+#header .primary .menu .current {
+  border-color: initial;
+  box-shadow: none !important;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label {
+  border-bottom: none;
+}
+
+.listbox .index,
+.dashboard .listbox .index,
+.splash .news li,
+form dt,
+.picture .header {
+  border: none;
+  border-bottom: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff {
+  filter: none;
+}
+
+.autocomplete input,
+.autocomplete .dropdown ul li {
+  min-width: 10px;
+}
+
+fieldset.work.meta .fandom.required ul.autocomplete {
+  background: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+.listbox .index,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+.comment h4.byline,
+dl.index dd,
+form blockquote.userstuff,
+table,
+tr,
+th,
+td,
+thead,
+tfoot,
+.reading h4.viewed,
+li.relationships a,
+#bookmark_form_placement form,
+#collection-form form,
+.nomination dt {
+  background: transparent;
+}
+
+.secondary,
+dl.meta,
+li.post.group,
+.faq .example,
+.guideline .example,
+tr:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+#bookmark_form_placement form,
+#collection-form form {
+  border: 2px solid;
+  border-radius: 3px;
+}
+
+th,
+thead,
+tbody tr {
+  border: 2px solid;
+}
+
+li.post.group {
+  padding: 10px;
+}
+
+.splash .news li:last-of-type {
+  border-bottom: 2px solid;
+  border-radius: 5px;
+}
+
+tr,
+th,
+td,
+thead,
+tfoot {
+  vertical-align: middle;
+}
+
+col.name {
+  background: transparent;
+}
+
+.bookmark .user,
+.filters dl,
+.filters dt,
+dl.index dd,
+div.comment,
+#modal,
+#dashboard.own,
+#dashboard ul,
+.autocomplete div.dropdown ul,
+.event .userstuff,
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover,
+.alert .userstuff {
+  border: none;
+}
+
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover {
+  border-top: none;
+  border-bottom: none;
+}
+
+span.symbol {
+  color: initial;
+  border: 1px solid;
+  vertical-align: middle;
+}
+
+.blurb .header img,
+#workskin h2.heading img {
+  vertical-align: baseline;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.icon {
+  height: 80px;
+  width: 80px;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url(/images/imageset.png) -10px -285px;
+}
+
+.skins .primary .icon {
+  background: url(/images/imageset.png) -10px -185px;
+}
+
+.comment h4.byline {
+  padding: 0.25em;
+}
+
+.abbreviated h4.byline {
+  padding-left: 0.25em;
+}
+
+.comment div.icon {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.comment .icon .visitor {
+  background: url(/images/imageset.png) no-repeat -10px -85px;
+  display: block;
+}
+
+.comment .posted {
+  display: block;
+  float: none;
+}
+
+.fandom .group.listbox {
+  width: 100%;
+}
+
+form.inbox {
+  overflow-x: initial;
+}
+
+#dashboard {
+  border-color: transparent;
+}
+
+.LV_invalid,
+.qtip-content {
+  background: #b65829;
+  border: 2px solid #b65829;
+  color: #f7f7f9;
+  border-radius: 5px;
+  box-shadow: none;
+  z-index: 1;
+}
+
+.qtip-content {
+  border-radius: 0 5px 5px;
+}
+
+.LV_invalid:before {
+  border-color: #b65829 transparent;
+  border-width: 0 0.643em 0.643em;
+}
+
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active {
+  border-color: #b65829;
+}
+
+#bookmark-form,
+#collection-form {
+  margin-top: 20px;
+}
+
+div#comments_placeholder,
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  margin: auto;
+}
+
+#outer.wrapper,
+#header {
+  line-height: normal;
+}
+
+#header .logo,
+#header .heading sup,
+#greeting p.icon {
+  display: none;
+}
+
+#header .heading {
+  margin-left: 2em;
+}
+
+#header h1 {
+  font-weight: 700;
+}
+
+#login,
+#greeting {
+  margin-top: 10px;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu {
+  width: 25em;
+}
+
+.news .wrapper,
+#main.system h2.heading,
+#main.system h3.heading,
+#header h2.collections,
+#header h2 {
+  text-align: center;
+}
+
+.userstuff img {
+  max-width: 90%;
+}
+
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img {
+  display: block;
+}
+
+#header h2.collections,
+#header h2 {
+  border-top: none;
+}
+
+.home .header .userstuff,
+.home .header dl.stats,
+.home .header .type {
+  margin-left: initial;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link {
+  display: inline-block;
+  padding: 3px 7px;
+  margin: 4px 0px;
+  border: 2px solid #5c924b;
+  border-radius: 5px;
+}
+
+.commas li:after {
+  content: "";
+}
+
+h5.fandoms.heading {
+  color: transparent;
+}
+
+.favorite a.tag {
+  border: none;
+}
+
+.blurb dl.stats {
+  float: initial;
+}
+
+.meta ul li {
+  padding-left: 0;
+}
+
+#header .primary a {
+  color: #f7f7f9;
+}
+
+.blurb ul li,
+.blurb dd ul li,
+.meta dd ul li {
+  display: inline;
+  margin: 0;
+}
+
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited {
+  text-decoration: underline;
+}
+
+.filters fieldset {
+  padding: 0px;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  padding: 0px;
+  font-size: 1.05em;
+  background: none;
+}
+
+.filters .expander::before {
+  content: "➙";
+}
+
+.filters .expanded .expander::before {
+  content: "➘";
+}
+
+.filters input:checked + .indicator + span {
+  font-weight: inherit;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  width: 0.9em;
+  height: 0.9em;
+}
+
+input[type=radio] {
+  border-radius: 50%;
+}
+
+.filters [type=radio] + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #e4e4eb;
+  border: none;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #5c924b;
+  border: none;
+}
+
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #e4e4eb;
+  border: none;
+}
+
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #5c924b;
+  border: none;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #b65829;
+}
+
+input[type=checkbox],
+input[type=radio],
+.actions input[type=checkbox],
+label.action input[type=checkbox] {
+  background-color: #e4e4eb;
+  border: 2px solid #5c924b;
+}
+
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  display: inline-block;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked {
+  background-color: #5c924b;
+  border: none;
+}
+
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover,
+.filters [type=checkbox]:hover + .indicator:before,
+.filters [type=radio]:hover + .indicator:before,
+.filters .exclude [type=checkbox]:hover + .indicator:before {
+  background-color: #a6b0a0;
+  border: none;
+}
+
+.filters dt {
+  min-width: auto;
+}
+
+.filters {
+  font-size: 90%;
+}
+
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea {
+  border-top-color: #e4e4eb;
+  border-color: #e4e4eb;
+  background-color: #fff4e9;
+  border-radius: 3px;
+}
+
+p input,
+input[type=checkbox] {
+  border-top-color: #a6b0a0;
+  border-color: #a6b0a0;
+  background-color: #e1e7dd;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  border: #a6b0a0 2px solid;
+  background-color: #e1e7dd;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #b65829;
+}
+
+.javascript {
+  background-color: #fff4e9 !important;
+}
+
+#header .user .open a:focus {
+  color: #5c924b !important;
+}
+
+.announcement input[type=submit],
+.announcement .action {
+  border: 1px solid #5c924b;
+}
+
+.ui-draggable form {
+  box-shadow: 0 0 3px #e4e4eb;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  border: 2px solid #5c924b;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#header a,
+#header a:visited,
+#header .current,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2,
+.alert .userstuff,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.userstuff h1,
+.userstuff h2,
+.userstuff h3,
+.userstuff h4,
+.userstuff h5,
+.userstuff h6,
+span.unreviewed.symbol,
+ul.notes li::marker,
+a.tag,
+a.tag:visited,
+a.tag:link,
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.listbox > .heading,
+.listbox .heading a:visited,
+form dd.required,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+#header .primary .menu a,
+#header .primary .menu .current,
+#outer .current,
+label,
+.autocomplete li.added,
+.post .meta dd ul li.added,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+.statistics .index li:nth-of-type(even),
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.ui-sortable li:hover,
+.ui-sortable li,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea,
+p input,
+input[type=checkbox],
+.announcement input[type=submit],
+.announcement .action {
+  color: #373a3c;
+}
+
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.announcement input[type=submit],
+.announcement .action {
+  background-color: #f7f7f9;
+  background: #f7f7f9;
+}
+
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+.statistics .index li:nth-of-type(even),
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.secondary,
+.ui-sortable li:hover,
+.ui-sortable li,
+#dashboard .current,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header #search input,
+tr:hover,
+#outer .current {
+  background-color: #fff4e9;
+  background: #fff4e9;
+}
+
+a,
+a:link,
+a:visited,
+a.tag,
+a.tag:visited,
+a.tag:link,
+.listbox .index a:link,
+.listbox .index a:visited,
+.listbox .index a,
+#header .heading a,
+.splash .module h3,
+.blurb h4 a:link,
+.blurb h4 a,
+.blurb h4 a:visited,
+#dashboard a,
+#dashboard span,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+li::marker,
+.draggable,
+.droppable {
+  color: #5c924b;
+}
+
+#footer,
+a:hover,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:hover,
+a:visited:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited,
+.listbox .index a:hover,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+.filters .expander,
+.filters .expanded .expander {
+  background-color: #5c924b;
+}
+
+#header .primary {
+  background: #5c924b;
+}
+
+#footer,
+a:hover,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:hover,
+a:visited:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited,
+.listbox .index a:hover,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+li.dropdown,
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited,
+.filters .expander,
+.filters .expanded .expander {
+  color: #f7f7f9;
+}
+
+::-moz-selection,
+::selection,
+::-webkit-selection {
+  background-color: #5c924b;
+  color: #f7f7f9;
+}
+
+::selection {
+  background: #586d55 !important;
+  color: #f3f9ef !important;
+}
+
+label.action input {
+  border-color: #a6b0a0 !important;
+}
+
+.tagset.home span.actions button {
+  border: none;
+  color: #586d55 !important;
+  background: #d8d3ba !important;
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2,
+.alert .userstuff {
+  background: #e3d9c1;
+  color: #5d5751 !important;
+}
+
+.required,
+.error,
+.alert.flash,
+.nominations .rejected,
+.alert .userstuff {
+  color: #f85552;
+}
+
+a.modal.help:hover {
+  background-color: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+.secondary,
+th,
+thead,
+tbody tr,
+.wrapper,
+li.blurb,
+fieldset,
+form dl,
+dl.meta,
+li.post.group,
+.splash .news li:last-of-type,
+li.comment,
+.faq .example,
+.guideline .example,
+#bookmark_form_placement form,
+#collection-form form {
+  border-color: #5d5751;
+}
+
+span.offered.requested {
+  color: #b65829;
+}
+
+span.offered,
+.replied,
+.nominations .approved {
+  color: #75BD57;
+}
+
+span.requested,
+.nominations .rejected {
+  color: #b1244b;
+}
+
+.thread .even {
+  background-color: #e4e4eb;
+}
+
+#outer .pagination .current {
+  color: #5c924b;
+  background: #f2f2f6;
+}
+
+#footer .heading,
+#footer a,
+#footer {
+  color: #f7f7f9;
+}
+
+div.user.home .primary.header.module h2.heading {
+  font-family: Orotund, "Trebuchet MS", Calibri, sans-serif !important;
+  text-shadow: #070707 -1px 3px;
+  color: #5c924b !important;
+}
+
+div.news.admin.home .primary.header.module h2.heading a {
+  font-family: Orotund, "Trebuchet MS", Calibri, sans-serif !important;
+  text-shadow: #070707 -1px 3px;
+  color: #5c924b !important;
+}
+
+div#dashboard ul.expandable.secondary a {
+  background: none !important;
+}
+
+div#dashboard ul.expandable.secondary {
+  color: #5d5751 !important;
+  background: #fff4e9 !important;
+}
+
+div#dashboard ul.navigation.actions a {
+  color: #5d5751 !important;
+}
+
+div#dashboard ul.navigation.actions a:hover {
+  color: #f7f7f9 !important;
+}
+
+span.current {
+  background: #d8d3ba !important;
+}
+
+.header.module h4.heading a {
+  color: #586d55 !important;
+}
+
+.header.module h4.heading a:hover {
+  background: #d8d3ba;
+  color: #5d5751 !important;
+}
+
+.header.module h4.heading a:hover {
+  background: #829181;
+  color: #e1e7dd !important;
+}
+
+li.work,
+li.bookmark {
+  border-color: #939f91;
+  border-radius: 3px;
+}
+
+span.symbol.question {
+  background: #829181;
+  border-color: transparent;
+  color: #e5e6c5;
+}
+
+.blurb dl.stats a {
+  color: #829181;
+}
+
+.blurb dl.stats a:hover {
+  color: #e5e6c5;
+  background: #a6b0a0;
+}
+
+#header ul.primary ul.menu.dropdown-menu li a:hover {
+  background: #d8d3ba;
+  color: #5d5751;
+}
+
+#header ul.primary ul.menu.dropdown-menu li {
+  border: none;
+}
+
+.latest.news.module ul.news.index.group li.post.group,
+.latest.messages.module li.comment {
+  border-color: #5d5751;
+  border-radius: 3px;
+  background: #fff4e9;
+}
+
+#footer {
+  background: #fff4e9;
+  color: #5d5751;
+  border-top: none !important;
+}
+
+#footer h4.heading {
+  color: #5c924b !important;
+}
+
+#footer a:hover {
+  color: #b65829;
+}
+
+#footer a {
+  color: #586d55;
+}
+
+#header #search .button:hover {
+  color: #586d55;
+  background: #e1e7dd;
+}
+
+#header #search .button {
+  border-radius: 3px;
+}
+
+#header .menu li {
+  border-bottom: 1px solid #5d5751;
+}
+
+p.close.actions a:hover,
+span.actions.cancel a.hidden.showme:hover,
+span.delete a:hover,
+span.actions.cancel a:hover {
+  background-color: #b65829;
+  color: #fff4e9;
+}
+
+p.close.actions,
+span.actions.cancel a.hidden.showme,
+span.delete a,
+span.actions.cancel a {
+  color: #b65829;
+  border-radius: 3px;
+}
+
+div.dynamic form {
+  border: #5d5751 solid 2px;
+  border-radius: 3px;
+}
+
+fieldset.listbox.group span.delete a {
+  color: #b65829;
+}
+
+fieldset.listbox.group span.delete a:hover {
+  background-color: #b65829;
+  color: #fff4e9;
+}
+
+div.dynamic form textarea,
+div.dynamic form input[type=text] {
+  border: #939f91 solid 2px !important;
+  font-family: National Park,"Trebuchet MS", Calibri, sans-serif !important;
+  border-radius: 3px;
+}
+
+div.dynamic form dl {
+  border-color: transparent;
+}
+
+fieldset.warnings,
+div#main.works-new.region fieldset fieldset {
+  background: #fff4e9;
+  border-radius: 3px;
+  border-color: transparent;
+}
+
+legend.required {
+  background-color: #b65829 !important;
+  color: #fff4e9;
+  border-color: transparent !important;
+}
+
+hr {
+  color: #5d5751;
+}
+
+div#main.collection_items-new.region form,
+.tag.tagset form.simple.search fieldset {
+  border: none;
+}
+
+div#main.media-index.region h3.heading a:hover {
+  color: #fff4e9;
+}
+
+div#main.media-index.region h3.heading a {
+  color: #5d5751;
+}
+
+ul.showme.hidden.actions a {
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+div#dashboard ul.expandable.secondary a:hover {
+  color: #5c924b !important;
+}
+
+.dashboard form.single.simple.post legend {
+  border: 2px solid #5d5751;
+  border-radius: 3px;
+}
+
+#header h2.collections {
+  color: #fff4e9 !important;
+  background: #5c924b;
+}
+
+form.single fieldset {
+  background: transparent;
+  border: 2px solid #5d5751;
+  box-shadow: none;
+  border-color: #5d5751;
+}
+
+span.unread {
+  outline: 2px solid #b65829;
+  color: #fff4e9;
+  border: none;
+  background: #b65829;
+  outline-offset: -1px;
+}
+
+kbd,
+tt,
+code,
+var,
+pre,
+samp {
+  margin: auto;
+  font-family: Fragment Mono, Google Sans Code, "Courier New", Courier, Monospace !important;
+}
+
+ol.pagination span.current,
+#outer .pagination .current {
+  color: #586d55 !important;
+  background: #d8d3ba !important;
+}
+
+input[type=text],
+textarea {
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+div#footer:after {
+  content: "proship with love ♥";
+  color: #b65829;
+}
+
+.search [role="tooltip"] {
+  border: none !important;
+  color: #e5e6c5;
+  background: #a6b0a0;
+  border-radius: 14px;
+}
+
+.thread .even {
+  background: #e5e6c5;
+}
+
+.chapter .preface {
+  border-top: 1px solid #5d5751;
+}
+
+.LV_invalid_field {
+  border: 2px solid #b65829;
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+div#modal,
+#modal.tall {
+  background: #e5e6c5;
+  border-radius: 13px;
+}
+
+div#main.works-search.region form dl,
+div#main.people-search.region form dl,
+div#main.bookmarks-search.region form dl,
+div#main.tags-search.region form dl {
+  border: #939f91 solid 2px !important;
+}
+
+a.tag {
+  border-radius: 18px !important;
+}
+
+h5.fandoms.heading a.tag {
+  background: #ddd8be;
+  border-color: #ddd8be;
+  color: #829181;
+}
+
+h5.fandoms.heading a.tag:hover {
+  background: #d8d3ba;
+  border-color: #d8d3ba;
+  color: #5d5751 !important;
+}
+
+Select,
+textarea,
+input[type=text] {
+  background: #fff4e9;
+  border: none;
+}
+
+legend {
+  background: #d8d3ba !important;
+  border-color: #5d5751 !important;
+}
+
+ul.work.navigation.actions .secondary {
+  background: #d8d3ba;
+  border-color: #5d5751;
+  border-radius: 15px;
+}
+
+span.replied {
+  background: #5c924b;
+  color: #fff4e9;
+  border: none;
+}
+
+select#selected_id select {
+  background: #fff4e9 !important;
+}
+
+.filters fieldset [type=radio] + .indicator:before {
+  border: transparent !important;
+}
+
+.relationships a:before {
+  content: url(https://i.imgur.com/oPFBsKF.png);
+}
+
+div#modal dd dl {
+  background: #d4dbc5;
+  border-color: #d4dbc5;
+  border-radius: 6px;
+}
+
+#modal .content {
+  border-bottom: 1px solid #586d55;
+}
+
+textarea#embed_code {
+  background: #d4dbc5;
+}
+
+#footer h4.heading {
+  font-family: Orotund, "Trebuchet MS", Calibri, sans-serif !important;
+  text-shadow: #070707 -1px 3px;
+  color: #5c924b !important;
+}
+
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  background: #b65829;
+  border-color: #b65829;
+  box-shadow: 1px 1px 2px;
+  color: #fff4e9;
+  font-family: National Park Semibold, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+table thead {
+  background: #d8d3ba;
+  color: #5d5751 !important;
+}
+
+td a {
+  color: #586d55 !important;
+}
+
+td a:hover {
+  color: #e1e7dd !important;
+}
+
+table tr:hover {
+  background: #e1e7dd;
+}
+
+ul.options.index.group.many label.action {
+  border-color: #5d5751 !important;
+  border: solid 2px;
+  border-radius: 3px;
+}
+
+ul.options.index.group.many label.action:hover {
+  border-color: #5c924b !important;
+  color: #5c924b;
+  background: #fff4e9 !important;
+}
+
+div.flash.notice a.action {
+  background: #a6b0a0;
+}
+
+div.flash.notice a.action:hover {
+  background: #5c924b;
+}
+
+span.series .position + .divider:after,
+span.series .previous + .divider:before {
+  content: " ✱ " !important;
+  color: #A6B0A0;
+}
+
+a.tag,
+.search [role="tooltip"] {
+  font-family: National Park Semibold, "Trebuchet MS", Calibri, sans-serif !important;
+}
+
+div#workskin p {
+  font-family: Platypi, Georgia, serif !important;
+}
+
+li.blurb blockquote.userstuff.summary,
+a.tag,
+.news.module.group .userstuff,
+nav#dashboard.admin.region a,
+ul.news.index.group li.post.group p {
+  font-family: Platypi, Georgia, serif !important;
+}
+
+div.work ul.work.navigation.actions button,
+div#main.works-show.region button,
+ul.navigation.actions button,
+li.collection.picture.blurb.group button,
+button[type=submit] {
+  background: #fff4e9;
+  box-shadow: none;
+  border: none;
+  color: #373a3c;
+}
+
+div.work ul.work.navigation.actions button:hover,
+div#main.works-show.region button:hover,
+ul.navigation.actions button:hover,
+li.collection.picture.blurb.group button:hover,
+button[type=submit]:hover {
+  background-color: #5c924b;
+  box-shadow: none;
+  border: none;
+  color: #f7f7f9;
+}
+
+#footer button {
+  color: #586d55;
+  text-decoration: underline;
+}
+
+#footer button:hover {
+  color: #b65829;
+}
+
+.flash.notice a {
+  color: #5c924b;
+}
+
+.flash.notice a:hover {
+  color: #f7f7f9;
+}
+
+input[value="Unsubscribe"]:hover {
+  background: #829181;
+  color: #e1e7dd;
+  border-radius: 0.25em;
+}
+
+input[value="Unsubscribe"] {
+  background: #5c924b;
+  color: #f7f7f9;
+  border-radius: 0.25em;
+}
+
+input[value="Subscribe"] {
+  background: #829181;
+  color: #e1e7dd;
+  border-radius: 0.25em;
+}
+
+div.flash.notice a.action {
+  color: #e1e7dd;
+}
+
+.filters button.expander {
+  background: #586d55 !important;
+  border-color: #586d55 !important;
+}
+
+.filters .expanded .expander:hover,
+.filters button.expander:hover {
+  background-color: #5c924b !important;
+  border-color: #5c924b !important;
+  color: #f7f7f9;
+}
+
+.filters .expanded .expander {
+  background-color: #d8d3ba !important;
+  border-color: #d8d3ba !important;
+  color: #586d55;
+}
+
+.filters fieldset [type=radio] + .indicator:before {
+  border: #a6b0a0 2px solid !important;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  border-color: transparent !important;
+}
+
+button.showme.action {
+  background: #5c924b;
+  color: #fff4e9;
+}
+
+button.showme.action:hover {
+  background: #b65829;
+}
+
+div#admin-banner blockquote.userstuff {
+  background: #fff4e9;
+}
+
+div#admin-banner blockquote.userstuff a,
+.caution.notice a {
+  color: #586d55;
+}
+
+div#admin-banner blockquote.userstuff a:hover,
+.caution.notice a:hover {
+  color: #b65829;
+  background: none;
+}
+
+h5.fandoms.heading a.tag:hover {
+  background: #d8d3ba !important;
+}
+
+div#admin-banner blockquote.userstuff {
+  border: 2px solid;
+  border-radius: 2px;
+  color: #5d5751 !important;
+}
+
+div#admin-banner a {
+  background: none !important;
+  color: #5d5751 !important;
+}
+
+div#admin-banner a:hover {
+  color: #b65829 !important;
+}

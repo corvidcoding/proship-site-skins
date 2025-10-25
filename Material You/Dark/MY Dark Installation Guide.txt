@@ -1,0 +1,17 @@
+Installation Guide
+
+Fonts
+Poppins
+https://fonts.google.com/specimen/Poppins?query=popp
+
+Google Sans Code (Optional/This is just a font for code)
+https://fonts.google.com/specimen/Google+Sans+Code?query=goog
+
+Additional Required Skins
+(add in parent group, add them in the order below)
+
+Dyslexic Friendly Mobile Dark Version
+Follow Instructions here:
+https://archiveofourown.org/works/30918077/chapters/76349072
+
+Material You Dark Icons (Included in the Folder)

@@ -1,0 +1,18 @@
+/*Optional Highlight for intense tags
+Note: This doesn't block tags, this just highlights them so you can have a heads up before jumping into a fic. Below are just examples, feel free to modify or add for certain tags to your liking. */
+
+/* the "%20" between words means a "space between", like if you want to highlight warnings for "Cool Beans", you write something like Cool%20Beans */
+
+a.tag[href*="Noncon"]:not([href*="Dark"]),
+a.tag[href*="Dead%20Dove"]:not([href*="Dark"]) {
+  color: #272727;
+  background: #ed44315c;
+  border-color: #272727;
+}
+
+
+
+
+
+
+

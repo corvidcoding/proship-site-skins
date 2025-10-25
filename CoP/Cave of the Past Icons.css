@@ -1,0 +1,294 @@
+ul.required-tags,
+.bookmark .status span,
+.blurb .icon {
+  opacity: 1 !important;
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  box-sizing: border-box;
+  content: url("https://i.ibb.co/bMPMMcyh/zerafina-icon-user-default-01.png");
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+}
+
+.comment .icon .anonymous {
+  box-sizing: border-box;
+  background: url("https://i.imgur.com/GLnTbNB.png");
+  background-size: contain;
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+}
+
+.comment .icon .visitor {
+  box-sizing: border-box;
+  background: url("https://i.ibb.co/1GL4vLkM/zerafina-icon-user-visitor-01.png");
+  background-size: cover;
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  box-sizing: border-box;
+  content: url("https://i.imgur.com/7dm6SXe.png");
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+}
+
+.tagset .primary .icon,
+.tag .primary .icon,
+.index .tagset .icon {
+  box-sizing: border-box;
+  background: url("https://i.ibb.co/Y4QDmRvt/zerafina-icon-tag-01.png"), 
+    linear-gradient(transparent, #ffffff50 45% 55%, transparent);
+  background-size: cover;
+  background-color: #900;
+  border: 1.5px solid #313830;
+}
+
+.index .mystery .icon {
+  box-sizing: border-box;
+  background: url("https://i.imgur.com/hh2TZc3.png");
+  background-size: contain;
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+  box-shadow: inset 0 0 0 3px #a2c0a9;
+}
+
+.admin .primary .icon {
+  box-sizing: border-box;
+  background: url("https://i.imgur.com/9CF14zt.png")  no-repeat;
+  background-size: cover;
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+}
+
+.skins .primary .icon:not(:has(a .icon)),
+.index .skins .icon:not(:has(a .icon)) {
+  box-sizing: border-box;
+  background: url("https://i.imgur.com/1IzeHEH.png");
+  background-size: cover;
+  background-color: #a2c0a9;
+  border: 1.5px solid #313830;
+}
+
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  width: 0 !important;
+  height: 0 !important;
+  padding: 25px 0 0 25px;
+}
+
+.blurb ul.required-tags li span,
+.bookmark .status span:not(.status .private),
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  background-size: cover;
+  background-origin: border-box;
+  box-sizing: border-box;
+  border: 1px solid;
+}
+
+.required-tags .rating-notrated,
+.required-tags .category-none,
+.required-tags .warning-no,
+.status .count,
+img[src$="/images/skins/iconsets/default/rating-notrated.png"],
+img[src$="/images/skins/iconsets/default/category-none.png"],
+img[src$="/images/skins/iconsets/default/warning-no.png"] {
+  background: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .rating-general-audience,
+img[src$="/images/skins/iconsets/default/rating-general-audience.png"] {
+  background: url("https://i.imgur.com/SqDLtwU.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .rating-teen,
+img[src$="/images/skins/iconsets/default/rating-teen.png"] {
+  background: url("https://i.imgur.com/fojl8hC.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .rating-mature,
+img[src$="/images/skins/iconsets/default/rating-mature.png"] {
+  background: url("https://i.imgur.com/ombYQUS.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .rating-explicit,
+img[src$="/images/skins/iconsets/default/rating-explicit.png"] {
+  background: url("https://i.imgur.com/l8khhN5.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .category-femslash,
+img[src$="/images/skins/iconsets/default/category-femslash.png"] {
+  background: url("https://i.imgur.com/GbayS0e.png");
+  background-color: #a2c0a9;
+  color: #313830;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.required-tags .category-het,
+img[src$="/images/skins/iconsets/default/category-het.png"] {
+  background: url("https://i.imgur.com/lsU6N7H.png");
+  background-color: #a2c0a9;
+  color: #313830;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.required-tags .category-gen,
+img[src$="/images/skins/iconsets/default/category-gen.png"] {
+  background: url("https://i.imgur.com/JhHRAZN.png");
+  background-color: #a2c0a9;
+  color: #313830;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.required-tags .category-slash,
+img[src$="/images/skins/iconsets/default/category-slash.png"] {
+  background: url("https://i.imgur.com/S3IBk0p.png");
+  background-color: #a2c0a9;
+  color: #313830;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.required-tags .category-multi,
+img[src$="/images/skins/iconsets/default/category-multi.png"] {
+  background: conic-gradient(from 270deg, #c4e3cc 25%, #313830 25% 50%, #b2d1b9 50% 75%, #a2c0a9 75%);
+  color: #313830;
+}
+
+.required-tags .category-other,
+img[src$="/images/skins/iconsets/default/category-other.png"] {
+  background: url("https://i.imgur.com/S3uFznZ.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .warning-choosenotto,
+img[src$="/images/skins/iconsets/default/warning-choosenotto.png"] {
+  background: url("https://i.imgur.com/SMjB9TI.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .warning-yes,
+img[src$="/images/skins/iconsets/default/warning-yes.png"] {
+  background: url("https://i.imgur.com/Ba2YeJ6.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .external-work,
+img[src$="/images/skins/iconsets/default/warning-external-work.png"] {
+  background: url("https://i.imgur.com/kfn0F7s.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .complete-no,
+img[src$="/images/skins/iconsets/default/complete-no.png"] {
+  background: url("https://i.imgur.com/yDFqOvK.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.required-tags .complete-yes,
+img[src$="/images/skins/iconsets/default/complete-yes.png"] {
+  background: url("https://i.imgur.com/YzI9bsR.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.status .rec,
+img[src$="/images/skins/iconsets/default/bookmark-rec.png"] {
+  background: url("https://i.imgur.com/xLd7WP8.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.status .public,
+img[src$="/images/skins/iconsets/default/bookmark-public.png"] {
+  background: url("https://i.imgur.com/kEciVyc.png");
+  background-color: #a2c0a9;
+  color: #313830;
+}
+
+.status .private .text,
+img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
+  font-size: inherit;
+  text-indent: -9999px;
+  white-space: nowrap;
+  background: url("https://i.ibb.co/4gSvnrkb/zerafina-icon-bookmark-locked-01.png");
+  background-color: #000;
+  color: #00000040;
+}
+
+.status .hidden,
+img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
+  background: url("https://i.ibb.co/4gSvnrkb/zerafina-icon-bookmark-locked-01.png");
+  background-color: #b0021f;
+  color: #00000040;
+}
+
+a.rss span {
+  padding: 0;
+  background: none;
+}
+
+.actions li a.rss {
+  display: inline-flex;
+  align-content: center;
+  align-items: center;
+  column-gap: 0.3em;
+}
+
+.actions li a.rss::before {
+  content: "";
+  height: 0.85em;
+  width: 0.85em;
+  background-image: url("https://i.ibb.co/35VLs1PW/zerafina-icon-rss-01.png");
+  background-size: cover;
+  background-color: #ef851c;
+  box-shadow: inset 0 0 0 1px;
+  border-radius: 2px;
+  color: #00000025;
+}
+
+p.kudos {
+  background: none;
+}
+
+div:has(> p.kudos)::before {
+  content: "";
+  height: 55px;
+  width: 55px;
+  position: absolute;
+  background-image: url("https://i.imgur.com/ORKzgHI.png");
+  background-size: cover;
+  filter: none !important;
+}
+
+img[src$="/images/lockblue.png"] {
+  content: url("https://i.imgur.com/BXTpbyL.png");
+  filter: none !important;
+}
+
+#header .logo {
+  content: url("/images/logo.png");
+}

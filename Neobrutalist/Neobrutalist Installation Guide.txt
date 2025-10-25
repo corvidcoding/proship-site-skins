@@ -1,0 +1,24 @@
+Base Installation Guide
+
+Fonts
+Space Grotesk
+https://fonts.google.com/specimen/Space+Grotesk?query=space
+
+
+Brutalist Mono (Optional/This is just a font for code)
+https://github.com/BRUTALISM/Brutalist
+
+Additional Required Skins
+(add in parent group, add them in the order below)
+
+Neobrutalist Icons (Included in the Folder)
+
+
+// Mobile Skin Installation Guide
+
+Under Advanced @Media
+check for "Only screen and (max-width: 42em)"
+
+
+Parent group
+Neobrutalist Skin
