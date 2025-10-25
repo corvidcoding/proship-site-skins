@@ -11,5 +11,10 @@ Dyslexic Friendly Mobile Dark Version
 Follow Instructions here:
 https://archiveofourown.org/works/30918077/chapters/76349072
 
-Kanagawa Icons Site Skins
-Included in the folder
+Kanagawa Icons Site Skin
+It's included in the folder
+
+Once you have both Skins, You add both to The main Kanagawa skin in the Parent group in the order of,
+The Dyslexic Mobile Skin,
+The Icons
+
