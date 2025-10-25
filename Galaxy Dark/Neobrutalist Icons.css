@@ -1,0 +1,210 @@
+.required-tags .rating-general-audience,
+img[src$="/images/skins/iconsets/default/rating-general-audience.png"] {
+  background: url(https://i.imgur.com/1WHeBnD.png);
+  background-size: contain;
+}
+
+.required-tags .rating-teen,
+img[src$="/images/skins/iconsets/default/rating-teen.png"] {
+  background: url(https://i.imgur.com/pV9k4R2.png);
+  background-size: contain;
+}
+
+.required-tags .rating-mature,
+img[src$="/images/skins/iconsets/default/rating-mature.png"] {
+  background: url(https://i.imgur.com/LUoDLTA.png);
+  background-size: contain;
+}
+
+.required-tags .rating-explicit,
+img[src$="/images/skins/iconsets/default/rating-explicit.png"] {
+  background: url(https://i.imgur.com/Jsqf1rT.png);
+  background-size: contain;
+}
+
+span.category-femslash.category,
+img[src$="/images/skins/iconsets/default/category-femslash.png"] {
+  background: url(https://i.imgur.com/cPm6UMZ.png);
+  background-size: contain;
+}
+
+.required-tags .category-het,
+img[src$="/images/skins/iconsets/default/category-het.png"] {
+  background: url(https://i.imgur.com/B0yvRTp.png);
+  background-size: contain;
+}
+
+.required-tags .category-slash,
+img[src$="/images/skins/iconsets/default/category-slash.png"] {
+  background: url(https://i.imgur.com/I8eXgxK.png);
+  background-size: contain;
+}
+
+.required-tags .external-work,
+img[src$="/images/skins/iconsets/default/warning-external-work.png"] {
+  background: url(https://i.imgur.com/hwqHlbx.png);
+  background-size: contain;
+}
+
+.required-tags .warning-yes,
+img[src$="/images/skins/iconsets/default/warning-yes.png"] {
+  background: url(https://i.imgur.com/m0ysfYP.png);
+  background-size: contain;
+}
+
+.required-tags .warning-choosenotto,
+img[src$="/images/skins/iconsets/default/warning-choosenotto.png"] {
+  background: url(https://i.imgur.com/iKGNpne.png);
+  background-size: contain;
+}
+
+.required-tags .complete-yes,
+img[src$="/images/skins/iconsets/default/complete-yes.png"] {
+  background: url(https://i.imgur.com/L1ZwprS.png);
+  background-size: contain;
+}
+
+.required-tags .complete-no,
+img[src$="/images/skins/iconsets/default/complete-no.png"] {
+  background: url(https://i.imgur.com/6gb1CGg.png);
+  background-size: contain;
+}
+
+.admin .primary .icon {
+  background: url(https://i.imgur.com/6x192GO.png);
+  background-size: contain;
+}
+
+.skins .primary .icon {
+  background: url(https://i.imgur.com/sPrwKA7.png);
+  background-size: contain;
+}
+
+.comment .icon .anonymous {
+  background: url(https://i.imgur.com/p1h8JtU.png);
+  display: block;
+  background-size: contain;
+}
+
+.index .mystery .icon {
+  background: url(https://i.imgur.com/p1h8JtU.png);
+  background-size: contain;
+}
+
+.required-tags .rating-notrated,
+.required-tags .category-none,
+.required-tags .warning-no,
+.status .count,
+img[src$="/images/skins/iconsets/default/rating-notrated.png"],
+img[src$="/images/skins/iconsets/default/category-none.png"],
+img[src$="/images/skins/iconsets/default/warning-no.png"] {
+  background: url(https://i.imgur.com/J9pr01J.png) !important;
+  background-size: contain !important;
+}
+
+.required-tags .category-other,
+img[src$="/images/skins/iconsets/default/category-other.png"] {
+  background: url(https://i.imgur.com/EfkzpgN.png);
+  background-size: contain;
+}
+
+p.kudos {
+  background: url(https://i.imgur.com/bI2yviv.png) no-repeat !important;
+}
+
+.status .public {
+  background: url(https://i.imgur.com/qEY3FYV.png);
+  background-size: contain;
+}
+
+.status .rec {
+  background: url(https://i.imgur.com/YBhwuu4.png);
+  background-size: contain;
+}
+
+.required-tags .category-gen,
+img[src$="/images/skins/iconsets/default/category-gen.png"] {
+  background: url(https://i.imgur.com/wGk5hUG.png);
+  background-size: contain;
+}
+
+.index .tag .icon,
+.index .tagset .icon {
+  background: url(https://i.imgur.com/7SEsSAZ.png);
+  background-size: contain;
+}
+
+.blurb ul.required-tags li span {
+  padding: 1px !important;
+}
+
+.required-tags .category-multi,
+img[src$="/images/skins/iconsets/default/category-multi.png"] {
+  background: conic-gradient(#CC5DE8 90deg, #5C7CFA 90deg 180deg, #FA5252 180deg 270deg, #2DD838 270deg) !important;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.status .private .text {
+  background: url(https://i.imgur.com/JN6qy2h.png);
+  background-size: contain;
+}
+
+.status .hidden {
+  background: url(https://i.imgur.com/poY8Efk.png);
+  background-size: contain;
+}
+
+.index .skins .icon {
+  background: transparent;
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  box-sizing: border-box;
+  content: url("https://i.imgur.com/untxYUK.png");
+  background-color: #20C997;
+  border: 1.5px solid transparent;
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  box-sizing: border-box;
+  content: url(https://i.imgur.com/GFjfoMn.png) !important;
+  background-color: #20C997;
+  border-radius: 17px;
+}
+
+img[src$="/images/lockblue.png"] {
+  content: url("https://i.imgur.com/W17I5De.png");
+}
+
+.comment .icon .visitor {
+  background: url(https://i.imgur.com/GFjfoMn.png) !important;
+  display: block;
+  background-size: contain !important;
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  content: url(https://i.imgur.com/GyRQ6Nr.png) !important;
+}
+
+div#user-bookmarks span.count,
+.bookmark span.count {
+  background-image: none !important;
+}
+
+.skins .primary .icon {
+  background: url(https://i.imgur.com/Da2O7Bs.png) !important;
+  background-size: contain !important;
+}
+
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  width: 0 !important;
+  height: 0 !important;
+  padding: 25px 0 0 25px;
+}
+
+ul.required-tags,
+.bookmark .status span,
+.blurb .icon {
+  opacity: 1 !important;
+}
