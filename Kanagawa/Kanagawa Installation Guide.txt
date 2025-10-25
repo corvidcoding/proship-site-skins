@@ -1,0 +1,15 @@
+Installation Guide
+
+Fonts
+Platypi
+https://fonts.google.com/specimen/Platypi?query=plat
+Miracode (Optional/This is just a font for code)
+https://github.com/IdreesInc/Miracode
+
+Additional Required Skins
+Dyslexic Friendly Mobile Dark Version
+Follow Instructions here:
+https://archiveofourown.org/works/30918077/chapters/76349072
+
+Kanagawa Icons Site Skins
+Included in the folder

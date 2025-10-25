@@ -1,0 +1,416 @@
+.required-tags .rating-notrated,
+.required-tags .rating-general-audience,
+.required-tags .rating-explicit,
+.required-tags .rating-mature,
+.required-tags .rating-teen,
+.required-tags .category-femslash,
+.required-tags .category-gen,
+.required-tags .category-slash,
+.required-tags .category-none,
+.required-tags .category-het,
+.required-tags .category-multi,
+.required-tags .category-other,
+.required-tags .complete-no,
+.required-tags .complete-yes,
+.required-tags .warning-yes,
+.required-tags .warning-no,
+.required-tags .warning-choosenotto,
+.required-tags .external-work,
+.status .private .text,
+.status .public,
+.status .hidden,
+.status .rec,
+.status .count,
+.index .skins .icon,
+.index .mystery .icon,
+.index .tag .icon,
+.index .tagset .icon,
+.comment .icon .anonymous,
+.comment .icon .visitor,
+.abbreviated .icon .anonymous,
+.abbreviated .icon .visitor,
+.skins .primary .icon,
+.admin .primary .icon,
+.tagset .primary .icon,
+.tag .primary .icon,
+a.rss span,
+a.rss span::before,
+p.kudos,
+p.kudos::before,
+#symbols-key dl img,
+#bookmark-symbols-key img,
+img[src$="/images/skins/iconsets/default/icon_user.png"],
+img[src$="/images/skins/iconsets/default/icon_collection.png"],
+img[src$="/images/lockblue.png"] {
+  background-image: url("https://images.squidge.org/images/2024/11/16/AO3_imageset_transparent.png");
+  background-size: 200px 835px;
+}
+
+ul.required-tags,
+.bookmark .status span,
+.blurb .icon {
+  opacity: 1 !important;
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  padding: 100px 0 0 100px;
+  width: 0 !important;
+  height: 0 !important;
+  background-position: 0px -75px;
+  background-color: #727169;
+  box-shadow: inset 0 0 0 1.5px;
+  color: #ddd;
+}
+
+.index:not(.comment) .abbreviated img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  padding: 75px 0 0 75px;
+  background-position: 0px -375px;
+}
+
+.index:not(.comment) img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  padding: 55px 0 0 55px;
+  background-position: 0px -525px;
+}
+
+#greeting img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  background-size: 201.5%;
+  padding: 1.786em 0 0 1.786em;
+  background-position: 0px -19.1px;
+}
+
+.comment .icon .anonymous {
+  background-color: #717C7C;
+  box-shadow: inset 0 0 0 1.5px;
+  color: rgba(0, 0, 0, 0.15);
+}
+
+.comment .icon .visitor {
+  background-color: #727169;
+  box-shadow: inset 0 0 0 1.5px;
+  color: rgba(0, 0, 0, 0.15);
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  padding: 100px 0 0 100px;
+  width: 0 !important;
+  height: 0 !important;
+  background-position: -100px -175px;
+  background-color: #616C90;
+  box-shadow: inset 0 0 0 1.5px;
+  color: rgba(0, 0, 0, 0.15);
+}
+
+.collection.index img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  padding: 55px 0 0 55px;
+  background-position: -55px -525px;
+}
+
+.index .tagset .icon,
+.tagset .primary .icon,
+.tag .primary .icon {
+  background-color: #900;
+  box-shadow: inset 0 0 0 1.5px;
+  color: rgba(0, 0, 0, 0.15);
+}
+
+.index .mystery .icon {
+  background-color: #252535;
+  box-shadow: inset 0 0 0 1.5px #ddd, inset 0 0 0 3px #fff;
+}
+
+.admin .primary .icon {
+  background-color: #E46876;
+  box-shadow: inset 0 0 0 2px;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.skins .primary .icon,
+.index .skins .icon {
+  background-color: #E46876;
+  box-shadow: inset 0 0 0 1.5px;
+  color: #DCD7BA;
+}
+
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  width: 0 !important;
+  height: 0 !important;
+  padding: 25px 0 0 25px;
+}
+
+.blurb ul.required-tags li span,
+.bookmark .status span:not(.status .private),
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  box-sizing: border-box;
+  box-shadow: inset 0 0 0 1.5px;
+}
+
+.required-tags .rating-notrated,
+.required-tags .category-none,
+.required-tags .warning-no,
+.status .count,
+img[src$="/images/skins/iconsets/default/rating-notrated.png"],
+img[src$="/images/skins/iconsets/default/category-none.png"],
+img[src$="/images/skins/iconsets/default/warning-no.png"] {
+  background-position: -150px 0px;
+  background-color: #54546D;
+  color: #54546D;
+}
+
+.required-tags .rating-general-audience,
+img[src$="/images/skins/iconsets/default/rating-general-audience.png"] {
+  background-position: -50px -25px;
+  background-color: #98BB6C;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .rating-teen,
+img[src$="/images/skins/iconsets/default/rating-teen.png"] {
+  background-position: 0px -25px;
+  background-color: #DCA561;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .rating-mature,
+img[src$="/images/skins/iconsets/default/rating-mature.png"] {
+  background-position: -75px -25px;
+  background-color: #FFA066;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .rating-explicit,
+img[src$="/images/skins/iconsets/default/rating-explicit.png"] {
+  background-position: -25px -25px;
+  background-color: #FF5D62;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .category-femslash,
+img[src$="/images/skins/iconsets/default/category-femslash.png"] {
+  background-position: -25px 0px;
+  background-color: #D27E99;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .category-het,
+img[src$="/images/skins/iconsets/default/category-het.png"] {
+  background-position: -75px 0px;
+  background-color: #957FB8;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .category-gen,
+img[src$="/images/skins/iconsets/default/category-gen.png"] {
+  background-position: -50px 0;
+  background-color: #6A9589;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .category-slash,
+img[src$="/images/skins/iconsets/default/category-slash.png"] {
+  background-position: 0px 0px;
+  background-color: #7FB4CA;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .category-multi,
+img[src$="/images/skins/iconsets/default/category-multi.png"] {
+  background: conic-gradient(#957FB8 90deg, #2D4F67 90deg 180deg, #D27E99 180deg 270deg, #6A9589 270deg) !important;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .category-other,
+img[src$="/images/skins/iconsets/default/category-other.png"] {
+  background-position: -125px 0px;
+  background-color: #252535;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .warning-choosenotto,
+img[src$="/images/skins/iconsets/default/warning-choosenotto.png"] {
+  background-position: -125px -25px;
+  background-color: #FF9E3B;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .warning-yes,
+img[src$="/images/skins/iconsets/default/warning-yes.png"] {
+  background-position: -150px -25px;
+  background-color: #E82424;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .external-work,
+img[src$="/images/skins/iconsets/default/warning-external-work.png"] {
+  background-position: -75px -50px;
+  background-color: #7E9CD8;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .complete-no,
+img[src$="/images/skins/iconsets/default/complete-no.png"] {
+  background-position: -100px -25px;
+  background-color: #C34043;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.required-tags .complete-yes,
+img[src$="/images/skins/iconsets/default/complete-yes.png"] {
+  background-position: -175px -25px;
+  background-color: #76946A;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.status .rec,
+img[src$="/images/skins/iconsets/default/bookmark-rec.png"] {
+  background-position: -100px -50px;
+  background-color: #6A9589;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.status .public,
+img[src$="/images/skins/iconsets/default/bookmark-public.png"] {
+  background-position: -125px -50px;
+  background-color: #7E9CD8;
+  color: rgba(0, 0, 0, 0.1);
+}
+
+.status .private .text,
+img[src$="/images/skins/iconsets/default/bookmark-private.png"] {
+  font-size: inherit;
+  text-indent: -9999px;
+  white-space: nowrap;
+  background-position: -175px -50px;
+  background-color: #1F1F28;
+  color: #717C7C;
+}
+
+.status .hidden,
+img[src$="/images/skins/iconsets/default/bookmark-hidden.png"] {
+  background-position: -150px -50px;
+  background-color: #FF5D62;
+  color: #ddd;
+}
+
+a.rss span,
+p.kudos {
+  background: none;
+}
+
+a.rss span::before {
+  content: "";
+  height: 14px;
+  width: 14px;
+  position: absolute;
+  background-position: -150px -275px;
+  border-radius: 2px;
+  margin: 1px 0 0 -18px;
+  background-color: #FFA066;
+  box-shadow: inset 0 0 0 1px;
+  color: rgba(0, 0, 0, 0.15);
+}
+
+p.kudos::before {
+  content: "";
+  height: 55px;
+  width: 55px;
+  position: absolute;
+  background-position: -110px -580px;
+  margin: -0.5em -0.5em -0.5em -60px;
+  filter: invert(18%) sepia(86%) saturate(2463%) hue-rotate(345deg) brightness(88%) contrast(95%);
+}
+
+img[src$="/images/lockblue.png"] {
+  width: 0 !important;
+  padding: 30px 0 0 30px;
+  background-image: url(https://i.imgur.com/5bNkMCe.png) !important;
+  background-size: contain;
+  filter: none !important;
+}
+
+.skins .primary .icon {
+  background-image: url(https://i.imgur.com/hiJ7J9P.png) !important;
+  background-size: contain !important;
+  background-position: center !important;
+}
+
+#header .logo {
+  content: url("/images/logo.png");
+}
+
+.bookmark .count a {
+  border-bottom: none;
+  color: #D27E99 !important;
+  font-weight: bold;
+}
+
+.index .mystery .icon {
+  box-shadow: inset 0 0 0 1.5px #DCD7BA, inset 0 0 0 3px #DCD7BA !important;
+}
+
+.index .mystery .icon {
+  background-image: url(https://i.imgur.com/jOKUn4q.png) !important;
+  background-position: center;
+  background-size: contain;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon,
+.index .tagset .icon {
+  background: url(https://i.imgur.com/lpS6ozp.png) -10px -285px !important;
+  background-position: center;
+  background-size: contain;
+}
+
+.comment .icon .anonymous {
+  background-image: url(https://i.imgur.com/jOKUn4q.png) !important;
+  background-position: center;
+  background-size: contain;
+}
+
+img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  background-image: url(https://i.imgur.com/vZdCnAD.png) !important;
+  background-position: center;
+  background-size: contain;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background-position-y: -111px !important;
+}
+
+.index .tagset .icon {
+  background-size: cover !important;
+  background-position: center !important;
+}
+
+img[src$="/images/skins/iconsets/default/icon_user.png"] {
+  background-image: url(https://i.imgur.com/MC4Peh1.gif) !important;
+  background-size: 60px 60px !important;
+  background-position: center !important;
+  background-color: #DCD7BA !important;
+  background-repeat: no-repeat;
+  padding: 80px 0 0 80px !important;
+}
+
+.comment .icon .visitor {
+  background: url(https://i.imgur.com/It6A1oj.png) no-repeat;
+  display: block;
+  background-image: url(https://i.imgur.com/MC4Peh1.gif) !important;
+  background-size: 60px 60px !important;
+  background-position: center !important;
+  background-color: #717C7C !important;
+  background-blend-mode: soft-light;
+}
+
+li.collection.picture.blurb.group img[src$="/images/skins/iconsets/default/icon_collection.png"] {
+  background-image: url(https://i.imgur.com/vZdCnAD.png) !important;
+  background-position: center;
+  background-size: contain;
+}
+
+.skins .primary .icon {
+  background: url(https://i.imgur.com/hiJ7J9P.png);
+  background-size: contain;
+}
