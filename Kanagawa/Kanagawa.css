@@ -2021,3 +2021,6 @@ div#admin-banner a:hover {
   color: #C8C093 !important;
 }
 
+img[src$="/images/lockblue.png"] {
+    background-repeat: no-repeat !important;
+}
