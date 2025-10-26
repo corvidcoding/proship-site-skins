@@ -1,0 +1,2752 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: Motherish, Verdana, "Trebuchet MS", Calibri, sans-serif;
+  border-bottom: none;
+  font-weight: bolder;
+}
+
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+blockquote,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.bookmark .user .meta,
+.datetime,
+a.work,
+span.symbol,
+.splash .news .meta,
+select {
+  font-family: Motherish, Verdana, "Trebuchet MS", Calibri, sans-serif;
+}
+
+#footer li,
+.comment .userstuff,
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+textarea,
+p.type,
+.meta dd,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#header h1,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+#modal,
+.filters .expander,
+h5,
+h6,
+h4.viewed,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  font-size: 1.05em;
+}
+
+.home .header h2,
+.preface h3,
+.faq .categories h3,
+.userstuff h3,
+#footer a {
+  border-bottom: none;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#inner.wrapper,
+#modal,
+h3,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.userstuff h2,
+.userstuff h1,
+.userstuff h3,
+.userstuff h4,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  line-height: 1.8em;
+}
+
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 0.84em;
+}
+
+h4.heading {
+  font-size: 1.640625em;
+  font-weight: bolder;
+}
+
+h4 {
+  font-size: 1.3125em;
+}
+
+h4.heading .datetime {
+  padding: 5px;
+  font-size: 0.5376em;
+}
+
+.preface a:hover {
+  text-decoration: none;
+}
+
+#header {
+  font-size: 1.05em;
+}
+
+.news h4.heading {
+  margin: 0;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 100%;
+}
+
+h1,
+h2 {
+  font-size: 2.05078125em;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.640625em;
+}
+
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+p.type,
+.meta dd,
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander {
+  word-spacing: 0.15em;
+}
+
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea,
+p.type,
+.meta dd,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander {
+  letter-spacing: 0.04em;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+div#comments_placeholder,
+.blurb dl.stats,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  text-align: left;
+}
+
+#workskin {
+  text-align: left !important;
+}
+
+div#comments_placeholder,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  width: 70%;
+  max-width: 45em;
+}
+
+.comment .userstuff {
+  width: 95%;
+}
+
+.blurb .userstuff {
+  padding: 20px 0;
+}
+
+.userstuff p {
+  margin: 2em auto;
+}
+
+u,
+acronym[title],
+abbr[title] {
+  border-bottom: none;
+  padding-bottom: 4px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+i,
+em,
+cite {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.userstuff blockquote {
+  border-inline-start: 2px solid #656565 !important;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.dynamic form,
+.ui-draggable form,
+#header .primary,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form,
+.listbox .index,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+span.question,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.delete a,
+span.delete,
+#header ul.primary,
+.ui-sortable li,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  box-shadow: none;
+}
+
+.announcement blockquote.userstuff,
+#footer,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.autocomplete a:hover,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  background-image: none;
+}
+
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  -webkit-appearance: none;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.toggled form,
+.dynamic form,
+.ui-draggable form {
+  border: none;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  border: none;
+}
+
+input {
+  width: 96%;
+  border: 1px solid;
+}
+
+.actions a:hover,
+a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+#dashboard .current,
+#outer .current,
+#header .current,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover,
+#header .primary .menu .current {
+  border-color: initial;
+  box-shadow: none !important;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label {
+  border-bottom: none;
+}
+
+.listbox .index,
+.dashboard .listbox .index,
+.splash .news li,
+form dt,
+.picture .header {
+  border: none;
+  border-bottom: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff {
+  filter: none;
+}
+
+.autocomplete input,
+.autocomplete .dropdown ul li {
+  min-width: 10px;
+}
+
+fieldset.work.meta .fandom.required ul.autocomplete {
+  background: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+.listbox .index,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+.comment h4.byline,
+dl.index dd,
+form blockquote.userstuff,
+table,
+tr,
+th,
+td,
+thead,
+tfoot,
+.reading h4.viewed,
+li.relationships a {
+  background: transparent;
+}
+
+.secondary,
+dl.meta,
+li.post.group,
+.faq .example,
+.guideline .example,
+tr:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment {
+  border: none;
+  border-radius: 5px;
+}
+
+th,
+thead,
+tbody tr {
+  border: none;
+}
+
+li.post.group {
+  padding: 10px;
+}
+
+.splash .news li:last-of-type {
+  border-bottom: none;
+  border-radius: 5px;
+}
+
+tr,
+th,
+td,
+thead,
+tfoot {
+  vertical-align: middle;
+}
+
+.bookmark .user,
+.filters dl,
+.filters dt,
+dl.index dd,
+div.comment,
+#modal,
+#dashboard.own,
+#dashboard ul,
+.autocomplete div.dropdown ul,
+.event .userstuff,
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover {
+  border: none;
+}
+
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover {
+  border-top: none;
+  border-bottom: none;
+}
+
+span.symbol {
+  color: initial;
+  border: 1px solid;
+  vertical-align: middle;
+}
+
+.blurb .header img,
+#workskin h2.heading img {
+  vertical-align: baseline;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.icon {
+  height: 80px;
+  width: 80px;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url(/images/imageset.png) -10px -285px;
+}
+
+.skins .primary .icon {
+  background: url(/images/imageset.png) -10px -185px;
+}
+
+.comment h4.byline {
+  padding: 0.25em;
+}
+
+.abbreviated h4.byline {
+  padding-left: 0.25em;
+}
+
+.comment div.icon {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.comment .icon .visitor {
+  background: url(/images/imageset.png) no-repeat -10px -85px;
+  display: block;
+}
+
+.comment .posted {
+  display: block;
+  float: none;
+}
+
+.group.listbox {
+  border: 1px solid transparent;
+}
+
+.fandom .group.listbox {
+  width: 100%;
+}
+
+form.inbox {
+  overflow-x: initial;
+}
+
+#dashboard {
+  border-color: transparent;
+}
+
+.LV_invalid {
+  background: #f00010;
+  border: none #f00010;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: none;
+}
+
+.LV_invalid:before {
+  border-color: #f00010 transparent;
+  border-width: 0 0.643em 0.643em;
+}
+
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active {
+  border-color: #f00010;
+  border: #f00010 solid 2px;
+}
+
+div#comments_placeholder,
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  margin: auto;
+}
+
+#outer.wrapper,
+#header {
+  line-height: normal;
+}
+
+#header .logo,
+#header .heading sup,
+#greeting p.icon {
+  display: none;
+}
+
+#header .heading {
+  margin-left: 2em;
+}
+
+#header h1 {
+  font-weight: 700;
+}
+
+#login,
+#greeting {
+  margin-top: 10px;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu {
+  width: 25em;
+}
+
+.news .wrapper,
+#main.system h2.heading,
+#main.system h3.heading,
+#header h2.collections,
+#header h2 {
+  text-align: center;
+}
+
+.userstuff img {
+  max-width: 90%;
+}
+
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img {
+  display: block;
+}
+
+#header h2.collections,
+#header h2 {
+  border-top: none;
+}
+
+.home .header .userstuff,
+.home .header dl.stats,
+.home .header .type {
+  margin-left: initial;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link {
+  display: inline-block;
+  padding: 4px 7px;
+  margin: 4px 0px;
+  border: 2px solid #3aacff;
+  border-radius: 5px;
+}
+
+.commas li:after {
+  content: "";
+}
+
+.favorite a.tag {
+  border: none;
+}
+
+.blurb dl.stats {
+  float: initial;
+}
+
+.meta ul li {
+  padding-left: 0;
+}
+
+#header .primary a {
+  color: #edf1f9;
+}
+
+.blurb ul li,
+.blurb dd ul li,
+.meta dd ul li {
+  display: inline;
+  margin: 0;
+}
+
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited {
+  text-decoration: underline;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  padding: 0px;
+  font-size: 1.05em;
+  background: none;
+}
+
+.filters .expander::before {
+  content: "➙";
+}
+
+.filters .expanded .expander::before {
+  content: "➘";
+}
+
+.filters input:checked + .indicator + span {
+  font-weight: inherit;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  width: 0.9em;
+  height: 0.9em;
+}
+
+input[type=radio] {
+  border-radius: 50%;
+}
+
+.filters [type=radio] + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #43566b;
+  border: none;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #3aacff;
+  border: none;
+}
+
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #43566b;
+  border: none;
+}
+
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #3aacff;
+  border: none;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #f64e5b;
+}
+
+input[type=checkbox],
+input[type=radio],
+.actions input[type=checkbox],
+label.action input[type=checkbox] {
+  background-color: #fff;
+  border: solid 1px #000;
+}
+
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  display: inline-block;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  background-color: #000;
+  border: solid #fff 1px;
+  border-radius: 2px;
+}
+
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea {
+  border-top-color: #000;
+  border-color: #000;
+  background-color: #000;
+  border-radius: 5px;
+}
+
+p input,
+input[type=checkbox] {
+  border-top-color: #000;
+  border-color: #000;
+  background-color: #fff;
+  border: solid 2px #000;
+  border-radius: 2px;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  background-color: #000;
+  border: #fff solid 1px;
+}
+
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  border: #fff solid 1px !important;
+  background: #fff !important;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #f64e5b;
+}
+
+.javascript {
+  background-color: #000 !important;
+}
+
+.announcement input[type=submit],
+.announcement .action {
+  border: 1px solid #a8b5c4;
+}
+
+.ui-draggable form {
+  box-shadow: 0 0 3px #43566b;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  border: none #3aacff;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#header a,
+#header a:visited,
+#header .current,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.userstuff h1,
+.userstuff h2,
+.userstuff h3,
+.userstuff h4,
+.userstuff h5,
+.userstuff h6,
+a.tag,
+a.tag:visited,
+a.tag:link,
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.listbox > .heading,
+.listbox .heading a:visited,
+form dd.required,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+#header .primary .menu a,
+#header .primary .menu .current,
+#outer .current,
+label,
+.autocomplete li.added,
+.post .meta dd ul li.added,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+.statistics .index li:nth-of-type(even),
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.ui-sortable li:hover,
+.ui-sortable li,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea,
+p input,
+input[type=checkbox],
+.announcement input[type=submit],
+.announcement .action {
+  color: #edf1f9;
+}
+
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.announcement input[type=submit],
+.announcement .action {
+  background-color: #181818;
+  background: #1a1a1a;
+}
+
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+.statistics .index li:nth-of-type(even),
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.secondary,
+.ui-sortable li:hover,
+.ui-sortable li,
+#dashboard .current,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header #search input,
+tr:hover,
+#outer .current {
+  background-color: #2b2b2b;
+  background: #2b2b2b;
+  border: solid 2px #000;
+  border-radius: 6px;
+}
+
+a,
+a:link,
+a:visited,
+a.tag,
+a.tag:visited,
+a.tag:link,
+.listbox .index a:link,
+.listbox .index a:visited,
+.listbox .index a,
+#header .heading a,
+.splash .module h3,
+.blurb h4 a:link,
+.blurb h4 a,
+.blurb h4 a:visited,
+#dashboard a,
+#dashboard span,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+li::marker,
+.draggable,
+.droppable {
+  color: #f9f6b3;
+}
+
+#footer,
+a:hover,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:hover,
+a:visited:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited,
+.listbox .index a:hover,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+.filters .expander,
+.filters .expanded .expander {
+  background-color: #f9f6b3;
+}
+
+#header .primary {
+  background: #f00010;
+}
+
+#footer,
+a:hover,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:hover,
+a:visited:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited,
+.listbox .index a:hover,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+li.dropdown,
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited,
+.filters .expander,
+.filters .expanded .expander {
+  color: #1c232d;
+}
+
+::-moz-selection,
+::selection,
+::-webkit-selection {
+  background-color: #f9f6b3;
+  color: #1c232d;
+}
+
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2 {
+  background-color: #bbe1fe;
+}
+
+.required,
+.error,
+.alert.flash,
+.nominations .rejected {
+  color: #f64e5b;
+}
+
+a.modal.help:hover {
+  background-color: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+.secondary,
+th,
+thead,
+tbody tr,
+.wrapper,
+li.blurb,
+fieldset,
+form dl,
+dl.meta,
+li.post.group,
+.splash .news li:last-of-type,
+li.comment,
+.faq .example,
+.guideline .example {
+  border-color: #a8b5c4;
+}
+
+span.offered.requested {
+  color: #faad14;
+}
+
+span.offered,
+.replied,
+.nominations .approved {
+  color: #00ad97;
+}
+
+span.requested,
+.nominations .rejected {
+  color: #f64e5b;
+}
+
+fieldset,
+li.blurb,
+.wrapper,
+li.comment,
+#main li.blurb,
+div#user-fandoms,
+.draft,
+li.post.group,
+.fandom .group.listbox {
+  background-color: #2b2b2b;
+  border-radius: 5px;
+}
+
+form.verbose legend {
+  background-color: #888689;
+  border: solid 2px #000;
+  border-radius: 7px;
+}
+
+.notice,
+.announcement,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2 {
+  color: #1c232d;
+}
+
+.thread .even {
+  background-color: #43566b;
+}
+
+#footer .heading,
+#footer a {
+  color: #fff;
+}
+
+.blurb .header img {
+  background-color: #edf1f9;
+}
+
+.comment fieldset {
+  background-color: #f9f6b3;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000;
+}
+
+a:hover,
+#dashboard a:hover,
+.actions a:hover,
+a:visited:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3;
+}
+
+header#header .actions a:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+#header .primary .menu a:hover {
+  background-color: #f9f6b3;
+}
+
+li.skins.own.picture.blurb.group,
+li.user.pseud.picture.blurb.group {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+div#main.preferences-index.dashboard.region fieldset {
+  background-color: #f9f6b3;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+}
+
+div#main.preferences-index.dashboard.region fieldset label {
+  color: #000;
+}
+
+li.skins.own.picture.blurb.group a,
+li.skins.own.picture.blurb.group a:visited,
+li.skins.own.picture.blurb.group .blurb h4 a,
+li.skins.own.picture.blurb.group .blurb h4 a:visited,
+li.user.pseud.picture.blurb.group h4.heading a,
+li.user.pseud.picture.blurb.group h4.heading,
+li.user.pseud.picture.blurb.group p {
+  color: #000;
+}
+
+.comment fieldset textarea {
+  background: #101010;
+  color: #fff;
+  font-family: Motherish, Verdana, "Trebuchet MS", Calibri, sans-serif;
+}
+
+div#footer {
+  background: #f00010;
+}
+
+.thread .even,
+.thread .odd,
+li.comment {
+  background: #101010 !important;
+}
+
+.comment h4.byline {
+  padding: 0.25em;
+  background: #888689;
+  border-top-left-radius: 8px;
+  border: solid 2px #000;
+  border-bottom-color: transparent !important;
+}
+
+.comment h4.byline a {
+  color: #ffffff;
+}
+
+.comment h4.heading .datetime {
+  color: #2b2b2b;
+}
+
+dl.meta,
+#main li.blurb,
+li.post.group {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+a.tag,
+a.tag:link,
+a.tag:visited {
+  background: #888689;
+  border: solid 2px #000;
+  border-radius: 6px;
+  color: #fff !important;
+}
+
+dl.meta a,
+#main li.blurb a {
+  color: #2b2b2b;
+}
+
+.thread .even .actions a,
+.thread .even .actions a:link,
+.thread .odd .actions a,
+.thread .odd .actions a:link,
+li.comment .actions a,
+.li.comment .actions a:link {
+  background: #2b2b2b;
+  border: solid 2px #000;
+  border-radius: 6px;
+  color: #fff !important;
+}
+
+.thread .even .actions a:hover,
+.thread .even .actions a:link:hover,
+.thread .odd .actions a:hover,
+.thread .odd .actions a:link:hover,
+li.comment .actions a:hover,
+.li.comment .actions a:link:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+li.post.group a {
+  color: #2b2b2b;
+}
+
+ul.actions .action:hover {
+  color: #000 !important;
+}
+
+#main li.blurb ul.actions a {
+  color: #fff;
+}
+
+#main li.blurb ul.actions a:hover {
+  color: #000;
+}
+
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus {
+  background: #f9f6b3;
+}
+
+ul#chapter_index {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+ul#chapter_index a,
+ul#chapter_index input {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+ul.work.navigation.actions ul.expandable.secondary {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #fff !important;
+}
+
+ul.work.navigation.actions ul.expandable.secondary a {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #fff !important;
+  background-color: #888689;
+}
+
+ul.work.navigation.actions ul.expandable.secondary a:hover {
+  background: #f9f6b3;
+  color: #000;
+}
+
+select#selected_id {
+  background: #000;
+  color: #fff !important;
+  border: 2px solid #000;
+}
+
+input[type=textbox] {
+  background: #000;
+  color: #fff !important;
+  border: 2px solid #000;
+}
+
+fieldset select {
+  background: #000;
+  color: #fff !important;
+  border: 2px solid #000;
+}
+
+input[type=submit]:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+fieldset input[type=submit] {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+#header #search .button {
+  background: #f00010;
+  color: #fff !important;
+}
+
+#header #search .button:hover {
+  text-decoration: underline;
+  outline: none;
+  text-decoration-thickness: 2px;
+}
+
+a.current {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+.filters .expanded .expander,
+.filters .expander {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+.filters .expanded .expander:hover,
+.filters .expander:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+.notice,
+.announcement,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a:hover {
+  color: #fff !important;
+  background-color: #888689 !important;
+}
+
+.splash .favorite li:nth-of-type(odd) a.tag {
+  color: #fff !important;
+  background-color: #888689 !important;
+}
+
+a.html-link.current {
+  border-radius: 7px;
+  border: solid 2px #000;
+}
+
+input[type=checkbox]:checked {
+  background: #000;
+}
+
+#main li.blurb a.tag:hover {
+  background: #888689;
+}
+
+input[type=text],
+input[type=combobox],
+select[type=combobox],
+textarea {
+  background: #000 !important;
+  border: 1px solid #fff;
+}
+
+ul.tags.index.group a.tag:hover {
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+span.action.top,
+span.action.top a {
+  background: none;
+  color: #fff;
+}
+
+span.action.top a:hover {
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+ul.tags.cloud.index.group a.tag:hover {
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+span#site_search_tooltip {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+form.search input[type=text] {
+  border: 1px #fff solid !important;
+}
+
+input[type=radio] {
+  background: #fff;
+  border: solid 1px #000;
+  border-radius: 2px;
+}
+
+dd.datetime select,
+input#pseud_icon,
+input#password,
+input#email_confirmation,
+input#new_email,
+select#bookmark_pseud_id,
+input#collection_icon,
+select#language_id,
+input#skin_icon,
+select#tag,
+input#password_confirmation,
+input#password_check,
+.comment form h4.heading select {
+  background: #000 !important;
+  color: #fff !important;
+  border: solid 1px #fff;
+}
+
+#header h2.collections,
+#header h2 {
+  background: #f00010 !important;
+  color: #fff !important;
+}
+
+.heading .actions,
+textarea {
+  font-family: Motherish, Verdana, "Trebuchet MS", Calibri, sans-serif;
+}
+
+blockquote.userstuff.summary b {
+  color: #656565 !important;
+}
+
+.splash .news li:last-of-type {
+  border: solid 2px #000 !important;
+}
+
+div#main.skins-edit.region ul.options.index.group.many {
+  background: #000;
+}
+
+span.unread {
+  font-family: Motherish, Verdana, "Trebuchet MS", Calibri, sans-serif;
+  background: #f00010 !important;
+  color: #fff !important;
+  border-color: transparent;
+}
+
+li.comment label li.comment label {
+  background: #888689;
+  border: solid 2px #000;
+  border-radius: 6px;
+  color: #fff !important;
+}
+
+li.comment label:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+li.bookmark form {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+p.close.actions a {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+li.bookmark form label {
+  color: #000;
+}
+
+.comment form {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+  box-shadow: 0px 0px 0px 2px #fff inset;
+}
+
+.comment form fieldset {
+  outline: none;
+}
+
+.comment form h4.heading a {
+  color: #2b2b2b;
+}
+
+fieldset li.actions a.hidden.showme,
+span.actions.cancel a.hidden.showme,
+span.delete a,
+a.advanced_skin_close.action.hidden {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+fieldset li.actions a.hidden.showme:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+span.delete a:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+dd.listbox.group label.action:hover,
+a.advanced_skin_close.action.hidden:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+.toggled form label {
+  color: #000;
+}
+
+.toggled form {
+  background-color: #f9f6b3;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000;
+}
+
+div#main.works-new.region .required .autocomplete,
+div#main.external_works-new.region .required .autocomplete {
+  border: none !important;
+  outline: none !important;
+  background: none !important;
+}
+
+ul.media.fandom.index.group a.tag:hover {
+  background-color: #f9f6b3;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+}
+
+.news.module.group div.userstuff {
+  background-color: #f9f6b3;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  padding: 6px;
+}
+
+.news.module.group div.userstuff a,
+.news.module.group div.userstuff a:link,
+.news.module.group div.userstuff h3,
+.news.module.group div.userstuff h4 {
+  color: #414141;
+  font-weight: 600;
+}
+
+.news dl.meta {
+  border: none;
+  outline: none;
+  background: transparent !important;
+  color: #fff;
+}
+
+.news.module.group div.userstuff a,
+.news.module.group div.userstuff a:link {
+  color: #414141;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: #414141 !important;
+  text-decoration-thickness: 2px !important;
+  text-decoration-line: underline !important;
+}
+
+li.comment a:hover {
+  outline: none !important;
+  border: none;
+  background: none !important;
+}
+
+li.comment ul.actions a:hover {
+  background-color: #f9f6b3 !important;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+}
+
+div#main.inbox-show.dashboard.region fieldset {
+  outline: none !important;
+}
+
+header#header h1.heading a:hover {
+  outline: none !important;
+}
+
+#main li.blurb h4.heading a:hover,
+.blurb dl.stats a:hover {
+  border: none;
+  outline: none;
+  background: #1a1a1a;
+  color: #fff !important;
+  border-radius: 0px;
+}
+
+.error,
+.comment_error,
+.kudos_error,
+.alert.flash {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+ol.pagination.actions a {
+  border: solid 2px #000;
+  border-radius: 6px;
+}
+
+ol.pagination.actions span.current {
+  background-color: #f9f6b3 !important;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+}
+
+li.comment img.icon {
+  border: solid #000 2px;
+  border-radius: 9px;
+}
+
+form#inbox-filters.narrow-hidden.filters fieldset,
+form#bookmark-filters fieldset,
+form#work-filters fieldset,
+form#collection-filters fieldset {
+  border: solid 2px #000;
+  border-radius: 7px;
+}
+
+nav#dashboard.admin.region span.current {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+div#user-fandoms.fandom.listbox.group {
+  border: solid 2px #000;
+  border-radius: 7px;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+div#user-fandoms.fandom.listbox.group h3.heading,
+div#user-fandoms.fandom.listbox.group li a {
+  color: #000;
+}
+
+div#user-fandoms.fandom.listbox.group li a:hover {
+  border: solid 2px #000;
+  background: none;
+  border-radius: 5px;
+}
+
+header#header.region a,
+header#header.region actions a {
+  border: none !important;
+}
+
+header#header.region a:hover,
+header#header.region actions a:hover,
+header#header.region a:focus,
+header#header.region actions a:focus {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+header#header.region ul.menu.dropdown-menu {
+  border: none;
+  border-radius: 0px;
+}
+
+ol.alphabet.fandom.index.group span.action.top {
+  border: none;
+}
+
+.blurb ul.required-tags li span,
+.bookmark .status span:not(.status .private),
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  border-radius: 4px;
+}
+
+div#dashboard.region.own span.current,
+div#dashboard.region span.current {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+#header .dropdown:has(.menu :hover)>a {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff !important;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+div.work ul li.work.blurb.group.work,
+div.work li.bookmark.blurb.group {
+  outline: none !important;
+}
+
+#header .user .open a:focus {
+  color: #f9f6b3 !important;
+}
+
+li.user.pseud.picture.blurb.group img.icon,
+li.collection.picture.blurb.group img.icon,
+.mystery.header.picture.module div.icon {
+  border: solid #000 2px;
+  border-radius: 9px;
+}
+
+div#main.works-new.region fieldset.work.text {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+  box-shadow: 0px 0px 0px 2px #fff inset;
+}
+
+div#main.works-new.region fieldset.work.text legend.required {
+  background: #f00010;
+  color: #fff;
+}
+
+div#footer {
+  background-image: url(https://i.imgur.com/yJ4z3lD.png);
+  background-size: contain;
+  background-blend-mode: overlay;
+  background-position: right;
+  background-repeat: no-repeat;
+}
+
+#dashboard .secondary {
+  background: #2b2b2b !important;
+}
+
+header#header h1.heading {
+  background-image: url(https://i.imgur.com/kypvs0g.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
+header#header h1.heading span {
+  visibility: hidden;
+}
+
+header#header h1.heading a:hover {
+  background: none !important;
+  border: none !important;
+}
+
+fieldset#advanced_skin_fieldset span.actions.cancel a {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+div#modal-wrap.modal-closer div#modal {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+  box-shadow: 0px 0px 0px 2px #fff inset;
+}
+
+div#modal-wrap.modal-closer .content.userstuff {
+  border: none !important;
+}
+
+a.action.modal-closer {
+  background: #2b2b2b;
+  border: solid 2px #000;
+  border-radius: 6px;
+  color: #fff !important;
+}
+
+a.action.modal-closer:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background-color: #f9f6b3;
+}
+
+div#main.system.docs.index.region div#reply-to-comment,
+div#main.inbox-show.dashboard.region div#reply-to-comment {
+  background: none;
+}
+
+div#main.system.docs.index.region div#reply-to-comment .comment form fieldset {
+  outline: none !important;
+}
+
+.flash.notice a.action {
+  background: none !important;
+}
+
+div#main.bookmarks-index.region div.dynamic {
+  background: none;
+}
+
+div#main.bookmarks-index.region div.dynamic form {
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+div#main.bookmarks-index.region div.dynamic form label {
+  color: #000;
+}
+
+div#footer li a:hover {
+  text-decoration: underline;
+  outline: none;
+  text-decoration-thickness: 2px;
+}
+
+kbd,
+tt,
+code,
+var,
+pre,
+samp {
+  font-family: Miracode, Departure Mono, 'Courier New', Courier, monospace;
+}
+
+div#main.owned_tag_sets-index ul.navigation.actions fieldset {
+  background: none !important;
+}
+
+div#main.owned_tag_sets-new.region ul.notes ::marker {
+  color: #000 !important;
+}
+
+div#main.owned_tag_sets-new.region ul.options.index.group.many {
+  background-color: #000;
+  border-radius: 5px;
+}
+
+div#main.owned_tag_sets-new.region label.action:hover {
+  outline: solid 2px #fff;
+  outline-offset: -2px;
+  border: solid 2px #000;
+}
+
+div#main.owned_tag_sets-new.region a.check_none {
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+div#main.owned_tag_sets-new.region a.check_all {
+  color: #000 !important;
+  background-color: #f9f6b3 !important;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group h3.heading {
+  color: #000 !important;
+}
+
+ol.tagset.index.group button.expand.hidden,
+ol.tagset.index.group button.contract.hidden,
+ol.tagset.index.group button.shuffle.hidden {
+  border: solid 2px #000 !important;
+  border-radius: 7px !important;
+  color: #000 !important;
+  background: #f9f6b3 !important;
+}
+
+ol.tagset.index.group button.expand.hidden:hover,
+ol.tagset.index.group button.contract.hidden:hover,
+ol.tagset.index.group button.shuffle.hidden:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background: #f9f6b3 !important;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.contract_all,
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.expand_all {
+  border: solid 2px #000 !important;
+  border-radius: 7px !important;
+  color: #000 !important;
+  background: #f9f6b3 !important;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.contract_all:hover,
+.tagset.home ol.tagset.index.group .listbox.group span.actions button.expand_all:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000 !important;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000 !important;
+  background: #f9f6b3 !important;
+}
+
+.tagset.home ol.tagset.index.group .listbox.group h4.heading {
+  color: #000 !important;
+}
+
+.flash.error a {
+  color: #1a1a1a;
+  font-weight: 600;
+}
+
+.flash.error {
+  border-radius: 16px;
+}
+
+a.rtf-link.current,
+a.html-link.current {
+  background-color: #f9f6b3 !important;
+  color: #000 !important;
+}
+
+div#main.invitations-index.dashboard.region form {
+  background-color: #2b2b2b;
+  background: #2b2b2b;
+  border: solid 2px #000;
+  border-radius: 6px;
+}
+
+div#main.bookmarks-show.region .bookmark .dynamic {
+  background: none !important;
+}
+
+div#main.invitations-manage.dashboard.region table {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+div#main.invitations-manage.dashboard.region thead {
+  padding: 0.25em;
+  color: #fff !important;
+  background: #888689;
+  border-top-left-radius: 8px;
+  border: solid 2px #000;
+  border-bottom-color: #000 !important;
+}
+
+div#main.invitations-manage.dashboard.region tbody td a {
+  color: #000 !important;
+}
+
+div#main.invitations-manage.dashboard.region tbody td a:hover {
+  border: none !important;
+  outline: none !important;
+  background: #000 !important;
+  color: #fff !important;
+  border-radius: 0px !important;
+}
+
+div#main.invitations-manage.dashboard.region tr:hover {
+  border-radius: 7px;
+  border: solid 2px #000;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+div#main.invitations-manage.dashboard.region td:hover {
+  border-radius: 7px !important;
+  border: solid 2px #000;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+span.symbol {
+  color: #f1791c !important;
+  border: 2px solid #000;
+  background: #fff !important;
+  border-radius: 7px;
+}
+
+.tox.tox-tinymce {
+  border: #000 solid 2px;
+  border-radius: 5px;
+}
+
+.tox:not([dir=rtl]) .tox-toolbar__group:not(:last-of-type) {
+  border-right: 2px solid #000;
+}
+
+.tox-toolbar {
+  border-bottom: #000 solid 2px !important;
+}
+
+.tox:not([dir=rtl]) .tox-toolbar__group:not(:last-of-type) {
+  border-right: 2px solid #000 !important;
+}
+
+::selection {
+  background: #000 !important;
+  color: #fff !important;
+}
+
+form#new_pseud dl {
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3 !important;
+}
+
+ul.notes ::marker,
+form#new_pseud dl label {
+  color: #000;
+}
+
+form#new_pseud dl dd.submit.actions input[type="submit"] {
+  background-color: #f9f6b3;
+}
+
+#main li.blurb ul.actions a {
+  background-color: #f9f6b3 !important;
+  color: #000 !important;
+}
+
+li.user.pseud.picture.blurb.group ul.actions a {
+  background-color: #f9f6b3 !important;
+  color: #000 !important;
+}
+
+div#main.chapters-show.region ul.expandable.secondary {
+  background-color: #f9f6b3 !important;
+  color: #000 !important;
+}
+
+div#main.works-show.region ul.expandable.secondary {
+  background-color: #f9f6b3 !important;
+  color: #000 !important;
+}
+
+li.skins.own.picture.blurb.group ul.actions a {
+  background-color: #f9f6b3 !important;
+  color: #000 !important;
+}
+
+.profile .primary {
+  float: none;
+  background-image: url(https://i.imgur.com/kBUXwFm.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 145px;
+}
+
+div#modal.tall dl#symbols-key dl {
+  border: solid 2px #000 !important;
+  border-radius: 5px;
+}
+
+div#modal.tall h4 {
+  color: #000 !important;
+}
+
+span.replied {
+  background: #2b2b2b;
+  border: solid 2px #000;
+  border-radius: 6px;
+  color: #fff !important;
+}
+
+div#modal a.action.modal-closer {
+  background: #f9f6b3;
+  color: #000 !important;
+}
+
+div#modal a.action.modal-closer:hover {
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+}
+
+ul.work.navigation.actions ul.expandable.secondary a:hover {
+  color: #000 !important;
+}
+
+.news.admin.home .primary.header.module {
+  background: #f00010;
+  border-radius: 9px;
+  background-image: url(https://i.imgur.com/yJ4z3lD.png);
+  background-size: 180px;
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.news.admin.home .primary.header.module a {
+  color: #fff !important;
+}
+
+.news.admin.home .primary.header.module ul.navigation.actions label,
+.news.admin.home .primary.header.module ul.navigation.actions input,
+.news.admin.home .primary.header.module ul.navigation.actions a,
+.news.admin.home .primary.header.module ul.actions a {
+  background: none !important;
+  border: none !important;
+}
+
+.news.admin.home .primary.header.module ul.navigation.actions input:hover,
+.news.admin.home .primary.header.module ul.navigation.actions a.rss:hover,
+.news.admin.home .primary.header.module ul.actions a:hover {
+  text-decoration: underline !important;
+  text-decoration-thickness: 2px !important;
+  outline: none !important;
+  color: #fff !important;
+}
+
+div#modal dl img {
+  border: solid 2px #000;
+  border-radius: 5px;
+}
+
+ul.media.fandom.index.group h3.heading a:hover {
+  color: #000;
+}
+
+.splash h3.heading {
+  color: #edf1f9;
+}
+
+li.comment img.icon {
+  padding: 0px !important;
+}
+
+form.ajax-remove {
+  background: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
+div#modal h4 {
+  color: #000;
+}
+
+div#footer:after {
+  content: "proship with love ♥";
+  color: #fff;
+}
+
+#main.errors p {
+  text-align: center;
+  margin-right: inherit;
+}
+
+div#bookmark-form.post.bookmark li.added.tag {
+  background: #888689;
+  border: solid 2px #000;
+  border-radius: 6px;
+  color: #fff !important;
+}
+
+div.work ul.work.navigation.actions button,
+div#main.works-show.region button,
+div#main.collections-show ul.navigation.actions button,
+li.collection.picture.blurb.group button,
+button[type=submit] {
+  background: #2b2b2b;
+  border: solid 2px #000;
+  color: #edf1f9;
+}
+
+div.work ul.work.navigation.actions button:hover,
+div#main.works-show.region button:hover,
+div#main.collections-show ul.navigation.actions button:hover,
+li.collection.picture.blurb.group button:hover,
+button[type=submit]:hover {
+  box-shadow: none;
+  border-radius: 7px;
+  border: solid 2px #000;
+  outline: solid 2px #fff;
+  outline-offset: -4px;
+  color: #000;
+  background-color: #f9f6b3;
+  background: #f9f6b3;
+}
+
+#footer button:hover {
+  text-decoration: underline;
+  outline: none;
+  text-decoration-thickness: 2px;
+}
+
+button.showme.action {
+  border-radius: 7px;
+}
+
+.announcement {
+  background: none !important;
+  outline: none;
+  border: none !important;
+}
+
+div#admin-banner blockquote.userstuff {
+  background: #f00010 !important;
+  color: #fff;
+  border-color: #f00010;
+}
+
+div#admin-banner blockquote.userstuff a {
+  color: #fff;
+}
+
+div#admin-banner blockquote.userstuff a:hover {
+  color: #2e2e2e;
+}
+
+::selection {
+  background: #f00010 !important;
+}
+
+div#admin-banner a:hover {
+  outline: none !important;
+  background: none !important;
+  color: #fff !important;
+  border: none !important;
+  text-decoration-thickness: 2px;
+}
+
+div#admin-banner a {
+  background: none !important;
+}

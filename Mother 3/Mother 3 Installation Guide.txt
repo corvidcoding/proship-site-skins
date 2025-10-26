@@ -1,0 +1,19 @@
+Installation Guide
+
+Fonts
+Motherish (Note: Personal Use Only Font)
+https://artsyomni.gumroad.com/l/motherish
+
+Miracode (Optional/This is just a font for code)
+https://github.com/IdreesInc/Miracode
+
+Additional Required Skins (add them to Parent group on the order below)
+Dyslexic Friendly Mobile Dark Version
+Follow Instructions here:
+https://archiveofourown.org/works/30918077/chapters/76349072
+
+Ao3 Icons 2.0 by ZerafinaCSS
+https://archiveofourown.org/works/57331222/chapters/156317044
+
+Mother 3 Orange Icons Site Skins
+Included in the folder
