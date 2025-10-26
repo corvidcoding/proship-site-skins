@@ -1,0 +1,19 @@
+Base Installation Guide
+
+Fonts
+Eskool (Note: Personal Use Only)
+https://www.1001fonts.com/eskool-font.html
+
+Additional Required Skins
+Utopian Scholastic Part 2
+
+
+// Mobile Skin Installation Guide
+
+Under Advanced @Media
+check for "Only screen and (max-width: 42em)"
+
+Parent group
+Utopian Scholastic
+
+Click Use

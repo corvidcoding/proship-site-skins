@@ -1,0 +1,3440 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  border-bottom: none;
+  font-weight: normal;
+}
+
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+blockquote,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.bookmark .user .meta,
+.datetime,
+a.work,
+span.symbol,
+.splash .news .meta,
+select {
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+}
+
+.qtip-content,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  font-size: 1em;
+}
+
+.home .header h2,
+.preface h3,
+.faq .categories h3,
+.userstuff h3,
+#footer a {
+  border-bottom: none;
+}
+
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.userstuff li,
+.userstuff ul,
+.userstuff p,
+.userstuff h2,
+.userstuff h1,
+.userstuff h3,
+.userstuff h4,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  line-height: 1.5;
+}
+
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 0.8333333333em;
+}
+
+h4.heading {
+  font-size: 1.44em;
+  font-weight: normal;
+}
+
+h4 {
+  font-size: 1.2em;
+}
+
+h4.heading .datetime {
+  padding: 5px;
+  font-size: 0.5787037037em;
+}
+
+.preface a:hover {
+  text-decoration: none;
+}
+
+#header {
+  font-size: 0.8333333333em;
+}
+
+.news h4.heading {
+  margin: 0;
+}
+
+code,
+pre {
+  font-family: "Courier New", Courier, Monospace;
+  font-size: 1em;
+  padding: 1em 0.5em;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 100%;
+}
+
+#header {
+  margin: 0px;
+  padding: 0.8em;
+  border-bottom: 1px solid;
+  border-color: #e8e8e8;
+}
+
+#header .search {
+  float: none;
+}
+
+input#site_search {
+  width: 60px;
+}
+
+#header #search .text {
+  margin: 0;
+}
+
+input#site_search:focus {
+  width: auto;
+}
+
+#header .heading {
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+  padding: 0;
+  margin-left: 0.5em;
+}
+
+#login,
+#greeting {
+  float: right;
+  position: relative;
+  display: inline-block;
+  padding: 0.5em;
+  margin-right: 0.5em;
+}
+
+#header .primary {
+  position: relative;
+  display: block;
+  float: none;
+  background: none;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  box-shadow: none;
+}
+
+#header .primary a {
+  color: currentColor;
+}
+
+#header .logo,
+#header .heading sup,
+#greeting p.icon {
+  display: none;
+}
+
+#header li {
+  display: inline-block;
+  float: none;
+  position: relative;
+}
+
+#header input,
+#header #search > *,
+#header #search .submit {
+  display: inline;
+  float: none;
+  vertical-align: middle;
+}
+
+#header .user {
+  padding: 0px;
+}
+
+#header h1 {
+  vertical-align: sub;
+}
+
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current {
+  color: currentColor;
+  border-radius: 0px;
+}
+
+#footer {
+  background-image: none;
+  border-top: none;
+}
+
+#inner.wrapper {
+  min-height: 80vh;
+}
+
+#main {
+  padding-top: 2em;
+}
+
+#main.dashboard {
+  margin-top: 0px;
+}
+
+#header .menu li {
+  border-bottom: none;
+  margin: 0;
+}
+
+#header .open .menu,
+#header .dropdown:hover .menu,
+.open + #small_login,
+#header .menu li {
+  border-radius: 5px;
+}
+
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited {
+  text-decoration: underline;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.dynamic form,
+.ui-draggable form,
+#header .primary,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form,
+.listbox .index,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+span.question,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.delete a,
+span.delete,
+#header ul.primary,
+.ui-sortable li,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  box-shadow: none;
+}
+
+#footer,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.autocomplete a:hover,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  background-image: none;
+}
+
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  -webkit-appearance: none;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.toggled form,
+.dynamic form,
+.ui-draggable form {
+  border: none;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  border: none;
+}
+
+input {
+  width: 96%;
+  border: 1px solid;
+}
+
+.actions a:hover,
+a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+#dashboard .current,
+#outer .current,
+#header .current,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover,
+#header .primary .menu .current {
+  border-color: initial;
+  box-shadow: none !important;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label {
+  border-bottom: none;
+}
+
+.listbox .index,
+.dashboard .listbox .index,
+.splash .news li,
+form dt,
+.picture .header {
+  border: none;
+  border-bottom: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff {
+  filter: none;
+}
+
+.autocomplete input,
+.autocomplete .dropdown ul li {
+  min-width: 10px;
+}
+
+fieldset.work.meta .fandom.required ul.autocomplete {
+  background: transparent;
+}
+
+.filters fieldset {
+  padding: 0px;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  padding: 0px;
+  font-size: 1.05em;
+  background: none;
+}
+
+.filters .expander::before {
+  content: "➙";
+}
+
+.filters .expanded .expander::before {
+  content: "➘";
+}
+
+.filters input:checked + .indicator + span {
+  font-weight: inherit;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  width: 0.8em;
+  height: 0.8em;
+}
+
+input[type=radio] {
+  border-radius: 50%;
+}
+
+.filters [type=radio] + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #ebebeb;
+  border: #474747 solid 1px !important;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #d84549;
+  border: #474747 solid 1px !important;
+}
+
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #ebebeb;
+  border: #474747 solid 1px !important;
+}
+
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #d84549;
+  border: #474747 solid 1px !important;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #bd203a;
+}
+
+input[type=checkbox],
+input[type=radio],
+.actions input[type=checkbox],
+label.action input[type=checkbox] {
+  background-color: #ebebeb;
+  border: #474747 solid 1px !important;
+}
+
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  display: inline-block;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked {
+  background-color: #d84549;
+  border: #474747 solid 1px !important;
+}
+
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover,
+.filters [type=checkbox]:hover + .indicator:before,
+.filters [type=radio]:hover + .indicator:before,
+.filters .exclude [type=checkbox]:hover + .indicator:before {
+  background-color: #e0878a;
+  border: #474747 solid 1px !important;
+}
+
+.filters dt {
+  min-width: auto;
+}
+
+.filters {
+  font-size: 90%;
+}
+
+div#inner {
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 100em;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+.listbox .index,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+.comment h4.byline,
+dl.index dd,
+form blockquote.userstuff,
+table,
+tr,
+th,
+td,
+thead,
+tfoot,
+.reading h4.viewed,
+li.relationships a,
+#bookmark_form_placement form,
+#collection-form form,
+.nomination dt {
+  background: transparent;
+}
+
+.secondary,
+dl.meta,
+li.post.group,
+.faq .example,
+.guideline .example,
+tr:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+#bookmark_form_placement form,
+#collection-form form {
+  border: 1px solid;
+  border-radius: 5px;
+}
+
+th,
+thead,
+tbody tr {
+  border: 1px solid;
+}
+
+li.post.group {
+  padding: 10px;
+}
+
+.splash .news li:last-of-type {
+  border-bottom: 1px solid;
+  border-radius: 5px;
+}
+
+tr,
+th,
+td,
+thead,
+tfoot {
+  vertical-align: middle;
+}
+
+col.name {
+  background: transparent;
+}
+
+.bookmark .user,
+.filters dl,
+.filters dt,
+dl.index dd,
+div.comment,
+#modal,
+#dashboard.own,
+#dashboard ul,
+.autocomplete div.dropdown ul,
+.event .userstuff,
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover,
+.alert .userstuff {
+  border: none;
+}
+
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover {
+  border-top: none;
+  border-bottom: none;
+}
+
+span.symbol {
+  color: initial;
+  border: 1px solid;
+  vertical-align: middle;
+}
+
+.blurb .header img,
+#workskin h2.heading img {
+  vertical-align: baseline;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.icon {
+  height: 80px;
+  width: 80px;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url(/images/imageset.png) -10px -285px;
+}
+
+.skins .primary .icon {
+  background: url(/images/imageset.png) -10px -185px;
+}
+
+.comment h4.byline {
+  padding: 0.25em;
+}
+
+.abbreviated h4.byline {
+  padding-left: 0.25em;
+}
+
+.comment div.icon {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.comment .icon .visitor {
+  background: url(/images/imageset.png) no-repeat -10px -85px;
+  display: block;
+}
+
+.comment .posted {
+  display: block;
+  float: none;
+}
+
+.fandom .group.listbox {
+  width: 100%;
+}
+
+form.inbox {
+  overflow-x: initial;
+}
+
+#dashboard {
+  border-color: transparent;
+}
+
+.LV_invalid,
+.qtip-content {
+  background: #bd203a;
+  border: 1px solid #bd203a;
+  color: #fafafa;
+  border-radius: 5px;
+  box-shadow: none;
+  z-index: 1;
+}
+
+.qtip-content {
+  border-radius: 0 5px 5px;
+}
+
+.LV_invalid:before {
+  border-color: #bd203a transparent;
+  border-width: 0 0.643em 0.643em;
+}
+
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active {
+  border-color: #bd203a;
+}
+
+#bookmark-form,
+#collection-form {
+  margin-top: 20px;
+}
+
+#stat_chart svg rect:first-of-type {
+  opacity: 0%;
+}
+
+#stat_chart g[clip-path^=url] > g:nth-of-type(2) rect,
+#stat_chart svg g:nth-of-type(2) > g rect:last-of-type,
+#stat_chart g[clip-path^=url] > g:nth-of-type(2) rect:first-of-type {
+  filter: hue-rotate(222deg);
+  opacity: 70% !important;
+}
+
+#stat_chart svg text {
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+}
+
+#stat_chart g[clip-path^=url] > g:nth-of-type(2) rect:hover {
+  filter: hue-rotate(217deg);
+}
+
+a.dropdown-toggle[href*="/works/new"] {
+  background: url(https://64.media.tumblr.com/6a480ec874a2d8405884dca4c4359f0e/8b704f26c7323545-70/s100x200/404cbc9fc50f83963444b551b20f4ddd06d23f53.png) !important;
+  background-size: 15px 15px !important;
+  text-indent: -9999px;
+  display: block-inline;
+  width: 15px !important;
+  height: 15px !important;
+  padding: 0px !important;
+}
+
+a[href*="/users/logout"] {
+  background: url(https://64.media.tumblr.com/28db0028536206eb80f4f6238634738f/8b704f26c7323545-9b/s100x200/4519ffcbaeeee4c8dd80799e98111f8ef459fc83.png) !important;
+  background-size: 15px 15px !important;
+  text-indent: -9999px;
+  display: block-inline;
+  width: 15px !important;
+  height: 15px !important;
+  padding: 0px !important;
+}
+
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.autocomplete div.dropdown ul {
+  color: #2e2e2e;
+  background-color: #fafafa;
+}
+
+li.blurb,
+.dashboard li.own,
+li.skins.own,
+.listbox,
+fieldset,
+li.post.group,
+li.comment,
+.wrapper dl.meta,
+form dl,
+#bookmark_form_placement form,
+#collection-form form {
+  background-color: transparent;
+}
+
+::-moz-selection,
+::selection,
+::-webkit-selection {
+  background-color: #d84549;
+  color: #fafafa;
+}
+
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.listbox > .heading,
+.listbox .heading a:visited,
+form dd.required,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+#header .primary .menu a,
+#header .primary .menu .current,
+input[type=radio] + label,
+input[type=checkbox] + label,
+.userstuff h1,
+.userstuff h2,
+.userstuff h3,
+.userstuff h4,
+.userstuff h5,
+.userstuff h6,
+dd.fandom li.added.tag,
+span.unreviewed.symbol,
+ul.notes li::marker {
+  color: #2e2e2e;
+}
+
+a,
+a:link,
+a:visited,
+a.tag,
+a.tag:link,
+a.tag:visited,
+.listbox .index a,
+.listbox .index a:link,
+.listbox .index a:visited,
+#header .heading a,
+#header .heading a:link,
+#header .heading a:visited,
+.splash .module h3,
+.blurb h4 a:link,
+.blurb h4 a,
+.blurb h4 a:link,
+.blurb h4 a:visited,
+#header a,
+#header a:link,
+#header a:visited,
+#header .current,
+#header .primary .open a,
+#header .primary .open a:link,
+#header .primary .open a:visited,
+#header .primary .dropdown a,
+#header .primary .dropdown a:link,
+#header .primary .dropdown a:visited,
+#header .primary .dropdown a:focus,
+#dashboard a,
+#dashboard a:link,
+#dashboard a:visited,
+#dashboard span,
+li::marker,
+.draggable,
+.droppable {
+  color: #d84549;
+}
+
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.action:visited,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+form.verbose legend {
+  color: #2e2e2e;
+  background-color: #f2f2f2;
+  transition: box-shadow 0.3s ease-out;
+}
+
+a:hover,
+a:visited:hover,
+a.tag:hover,
+a.tag:visited:hover,
+.listbox .heading a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+.listbox .index a:hover,
+.listbox .index a:visited:hover,
+#dashboard a:hover,
+#dashboard a:visited:hover,
+.actions a:hover,
+.actions a:visited:hover,
+.actions a:focus,
+.actions input:hover,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:visited:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:visited:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:visited:hover,
+.blurb h4 a:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:visited:hover,
+#header .dropdown .menu a:focus:hover,
+a[href*="/users/logout"],
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%);
+  color: #fafafa;
+  box-shadow: 1px 3px 10px -3px #c7c7c7;
+}
+
+a.tag:hover,
+a.tag:visited:hover,
+.listbox .heading a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+.actions a:hover,
+.actions a:visited:hover,
+.actions a:focus,
+.actions input:hover,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:visited:hover,
+.action:focus,
+input[type=submit]:hover {
+  box-shadow: 1px 3px 10px -3px #c7c7c7 !important;
+}
+
+#header .actions a.dropdown-toggle:hover {
+  box-shadow: none !important;
+}
+
+.blurb h4 a:visited {
+  color: #d84549 !important;
+}
+
+.pagination .current {
+  color: #7b7b7b;
+}
+
+#dashboard .current,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header #search input:focus,
+#header #search input,
+tr:hover,
+#outer .current,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+.statistics .index li:nth-of-type(even),
+.ui-sortable li {
+  background-color: #f2f2f2;
+  background: #f2f2f2;
+}
+
+.thread .even,
+.ui-sortable li:hover {
+  background-color: transparent;
+}
+
+.autocomplete .dropdown ul li:hover,
+li.selected {
+  background-color: #d84549;
+  color: #fafafa;
+}
+
+a.modal.help:hover,
+li.relationships a {
+  background-color: transparent;
+}
+
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.comment_error,
+.alert.flash,
+.alert .userstuff,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2 {
+  background-color: #d1e9eb;
+  color: #2e2e2e;
+}
+
+.notice a,
+.notice a:link,
+.notice a:visited,
+.caution a,
+.caution a:link,
+.caution a:visited {
+  color: #2e2e2e;
+  text-decoration: underline;
+}
+
+.error {
+  background-color: #d1e9eb;
+  color: #2e2e2e;
+}
+
+#footer {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%);
+}
+
+#footer a,
+#footer .heading,
+#footer li {
+  color: #fafafa;
+}
+
+#footer {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%);
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+.secondary,
+th,
+thead,
+tbody tr,
+.filters fieldset,
+.wrapper,
+li.blurb,
+dl.meta,
+.faq .example,
+.guideline .example,
+li.post.group,
+li.comment,
+.splash .news li:last-of-type,
+.ui-sortable li,
+#bookmark_form_placement form,
+#collection-form form {
+  border-color: #e8e8e8;
+}
+
+.required,
+.alert.flash,
+.nominations .rejected {
+  color: #bd203a !important;
+}
+
+p.required.notice {
+  color: #2e2e2e !important;
+}
+
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea {
+  color: #2e2e2e;
+  border-top-color: #ebebeb;
+  border-color: #ebebeb;
+  background-color: #ebebeb;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  background-color: #ebebeb;
+}
+
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #d84549;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #bd203a;
+}
+
+.secondary {
+  background-color: #fafafa;
+}
+
+.javascript {
+  background-color: #fafafa !important;
+}
+
+.announcement input[type=submit],
+.announcement .action {
+  background: #fafafa;
+  border: 1px solid #e8e8e8;
+  color: #2e2e2e;
+}
+
+.ui-draggable form {
+  box-shadow: 0 0 3px #ebebeb;
+}
+
+.userstuff blockquote {
+  border-inline-start: 2px solid #d84549;
+}
+
+span.offered.requested {
+  color: #F2AA4C;
+}
+
+span.offered,
+.replied,
+.nominations .approved {
+  color: #75BD57;
+}
+
+.chapter .preface {
+  border-color: #e8e8e8;
+}
+
+span.requested,
+.nominations .rejected {
+  color: #A62637;
+}
+
+.blurb .header h4.heading a:hover,
+.blurb .header h4.heading a:visited:hover {
+  color: #fafafa !important;
+}
+
+.blurb .header img,
+#workskin h2.heading img {
+  background-color: transparent;
+}
+
+tbody tr:hover {
+  border-color: #e8e8e8;
+}
+
+#header h2 {
+  border-color: #e8e8e8;
+}
+
+#workskin,
+.system .userstuff,
+.collection blockquote.userstuff {
+  width: 70%;
+  max-width: 45em;
+}
+
+.blurb blockquote {
+  text-align: left;
+}
+
+.comment blockquote.userstuff {
+  margin-block-start: 0;
+}
+
+.splash .comment .userstuff {
+  width: 95%;
+  margin: auto;
+}
+
+#main.system h2.heading {
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
+::selection {
+  background-color: #d84549;
+  color: #fafafa;
+}
+
+h5.fandoms.heading {
+  color: transparent;
+}
+
+.blurb h4.heading {
+  text-align: center;
+  padding: 10px 0;
+  line-height: 150%;
+}
+
+.blurb h4.heading a {
+  display: inline-block;
+  font-size: 100%;
+  border-radius: 5px;
+}
+
+.blurb h4.heading a:first-of-type {
+  display: block;
+  font-size: 140%;
+  margin-bottom: 10px;
+}
+
+.blurb .header .heading {
+  margin: 0.375em 5.25em;
+}
+
+h5.fandoms.heading {
+  text-align: center;
+}
+
+.splash blockquote.userstuff.summary {
+  width: 95%;
+  margin: auto 10px;
+}
+
+dl.stats dt {
+  display: none;
+}
+
+.skins .header dl.stats dt {
+  display: inline-block;
+}
+
+dl.stats dd:nth-of-type(1)::before {
+  background: url(https://i.imgur.com/DsUfDCn.png);
+}
+
+dl.stats dd:nth-of-type(2)::before {
+  background: url(https://i.imgur.com/UqfHYQ9.png);
+}
+
+dl.stats dd.language::before {
+  display: none !important;
+}
+
+dl.stats dd.kudos::before {
+  background: url(https://i.imgur.com/wZequWK.png);
+}
+
+dl.stats dd.words::before {
+  background: url(https://i.imgur.com/tTy84CO.png);
+}
+
+dl.stats dd.chapters::before {
+  background: url(https://i.imgur.com/ZTEQqZg.png);
+}
+
+dl.stats dd.comments::before {
+  background: url(https://i.imgur.com/hgHuQQl.png);
+}
+
+dl.stats dd.bookmarks::before,
+dl.stats dd a[href$=bookmarks]::before {
+  background: url(https://i.imgur.com/KT3oTXS.png);
+}
+
+dl.stats dd.hits::before {
+  background: url(https://i.imgur.com/FGpcktb.png);
+}
+
+dl.stats dd.collections::before {
+  background: url(https://i.imgur.com/UqfHYQ9.png);
+}
+
+dl.work dl.stats dd.published::before {
+  background: url(https://i.imgur.com/DsUfDCn.png);
+}
+
+dl.work dl.stats dd.status::before {
+  background: url(https://i.imgur.com/9k1B0V7.png);
+}
+
+ul.statistics dl.stats dd.subscriptions::before {
+  background: url(https://64.media.tumblr.com/64db76a65209eff79515dfc23842eb54/fd0b10e0262ddb71-14/s250x400/921de73c3d5bb819f4e3c58c7c45bd4c6edfe55f.png);
+}
+
+dl.stats dd.published::before,
+dl.stats dd.status::before {
+  width: 0px;
+  margin-right: 0px;
+}
+
+li.collection dl.stats dd a[href$=collections]::before {
+  background: url(https://64.media.tumblr.com/ae825c2ad8071426c298c5b52970e294/b2e751421a20aa0c-18/s100x200/d1eb5dd259e2db588cda2100057c2c8fd9efaaf0.png);
+}
+
+li.collection dl.stats dd a[href$=works]::before {
+  background: url(https://64.media.tumblr.com/f835b437a474b4b672a8d4ebe61402b8/8979adde76f2ff05-fb/s100x200/8f86556b6896e96427f5a4a54f0de7be38ddba75.png);
+}
+
+li.collection dl.stats dd a[href$=bookmarks]::before {
+  background: url(https://64.media.tumblr.com/9b95d189a57699762d2262536e922ece/b2e751421a20aa0c-2a/s100x200/1aabb2ad7b90746f0469aefaa39af5b83728f8b9.png);
+}
+
+li.collection dl.stats dd a[href$=fandoms]::before {
+  background: url(https://64.media.tumblr.com/0a2f3d28fb850907a859726916e04e6f/8979adde76f2ff05-48/s250x400/926b1499363f66438d02fdc8bbea5ce610a75395.png);
+}
+
+ul.statistics dl.stats dd::before,
+li.work dl.stats dd::before,
+li.bookmark dl.stats dd::before,
+dl.work dl.stats dd::before,
+.collection dl.stats dd a[href$=collections]::before,
+li.collection dl.stats dd a[href$=works]::before,
+li.collection dl.stats dd a[href$=bookmarks]::before,
+li.collection dl.stats dd a[href$=fandoms]::before,
+li.series dl.stats dd:not(.language):not(.words):not(.chapters):not(.collections):not(.comments):not(.kudos):not(.bookmarks):not(.hits):not(.published):not(.subscriptions):nth-of-type(1)::before,
+li:not(.collection) dl.stats dd:not(.language):not(.words):not(.chapters):not(.collections):not(.comments):not(.kudos):not(.bookmarks):not(.hits):not(.published):not(.subscriptions):nth-of-type(2)::before,
+dl.stats dd:not(.bookmarks) a[href$=bookmarks]::before {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  content: " ";
+  background-size: 14px 14px !important;
+  margin-right: 5px;
+}
+
+a.tag:hover,
+li.relationships a.tag:hover,
+li.characters a.tag:hover {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%) !important;
+  box-shadow: 1px 3px 10px -3px #c7c7c7 !important;
+}
+
+a.tag {
+  background: #f2f2f2 !important;
+  padding: 2px 10px;
+  margin: 4px 0px;
+  border-radius: 0 15px 15px;
+  display: inline-block;
+}
+
+li.relationships a.tag {
+  background: #eed8d9 !important;
+}
+
+li.characters a.tag {
+  background: #f0e6e6 !important;
+}
+
+.commas li:after {
+  content: "";
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  display: none;
+}
+
+h2.heading a.tag {
+  font-size: 75%;
+}
+
+a.tag {
+  transition: color 0.5s ease-out, box-shadow 0.3s;
+}
+
+div#inner .actions li input[type="submit"] {
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background-image: url(https://i.imgur.com/EgB2eVP.gif) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #7fffe6;
+  background-blend-mode: luminosity;
+  border-color: transparent !important;
+}
+
+div#inner .actions li input[type="submit"]:hover {
+  background-blend-mode: hard-light;
+}
+
+li.skins.own.picture.blurb.group {
+  border: solid 19px;
+  border-image: url(https://i.imgur.com/skcZFbF.gif) !important;
+  border-image-repeat: round !important;
+  border-image-slice: 26% !important;
+}
+
+.comment h4.heading.byline {
+  background: linear-gradient(-180deg, rgb(67 78 165) 43%, rgb(233 156 74) 115%);
+  color: #fff;
+  text-shadow: #000000 1px 2px 5px;
+}
+
+li.comment {
+  background-image: url(https://i.imgur.com/6X4qgBR.gif) !important;
+  color: #393838;
+  border: 1px solid #393838 !important;
+  background-color: #7ac3ff4a !important;
+  background-blend-mode: color-dodge;
+}
+
+li.comment p {
+  margin-top: 6px !important;
+}
+
+ul#chapter_index input[type="submit"] {
+  background-color: #ffbf36 !important;
+  background-blend-mode: hard-light;
+}
+
+ul#chapter_index a {
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background-image: url(https://i.imgur.com/EgB2eVP.gif) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffbf36 !important;
+  background-blend-mode: hard-light;
+}
+
+ul#chapter_index a:hover,
+ul#chapter_index input[type="submit"]:hover {
+  background-blend-mode: exclusion !important;
+}
+
+div.work h3.byline.heading a {
+  text-shadow: #000000 1px 1px 0px;
+}
+
+p.kudos {
+  text-shadow: #000000 1px 1px 0px;
+  color: #fff;
+}
+
+dl.work.meta.group {
+  background-image: url(https://i.imgur.com/ghnSIXF.jpeg) !important;
+  background-color: #d2d7e3 !important;
+  background-blend-mode: multiply;
+  border-radius: 0px !important;
+}
+
+
+
+span.symbol.question {
+  content: url(https://i.imgur.com/C9gdgO0.gif);
+  border-radius: 0px;
+}
+
+.filters button {
+  color: #fff !important;
+  text-shadow: #000000 0px 1px 3px;
+  background: linear-gradient(126deg, #4967bb 0%, #e7414100 100%) !important;
+}
+
+.filters input[type=submit] {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 2px;
+  border-radius: 0px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #d7d7d7 !important;
+  box-shadow: #04040491 0px 1px 5px !important;
+}
+
+.filters input[type=submit]:hover {
+  border-style: inset !important;
+}
+
+div#main.collections-new.region legend {
+  background-image: url(https://i.imgur.com/maEd8y3.png);
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 2px;
+  border-radius: 0px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #637d59 !important;
+  box-shadow: #04040491 0px 1px 5px !important;
+}
+
+div#main.collections-new.region dl {
+  background-image: url(https://i.imgur.com/TZDcXnP.jpeg);
+  border-radius: 0px;
+  background-color: #1c1b0d;
+  background-blend-mode: luminosity;
+  text-shadow: none;
+  color: #2e2e2e;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border-color: #a99975de;
+  border-style: ridge;
+  border-width: 3px;
+}
+
+div#main.works-new.region fieldset dl {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  border-radius: 0px;
+  background-color: #aeb2ff;
+  background-blend-mode: overlay;
+  border-color: transparent;
+  box-shadow: #04040491 1px 2px 4px !important;
+}
+
+div#main.works-new.region fieldset dl dd label {
+  color: #fff;
+}
+
+div#main.works-new.region fieldset fieldset {
+  border-color: #e8e8e8;
+}
+
+div#main.works-new.region legend {
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 2px;
+  border-radius: 0px;
+  border-color: transparent;
+  box-shadow: #04040491 1px 2px 2px !important;
+  background: #d93e42;
+}
+
+form.filters dl {
+  border-radius: 0px !important;
+}
+
+div#main.works-new.region fieldset {
+  background: linear-gradient(45deg, #002ac5, transparent);
+  border-radius: 0px;
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 1px;
+}
+
+li.comment label,
+li.comment ul.actions a {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  color: #fff;
+  text-shadow: #000000 -1px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  border: solid 1px #676767;
+}
+
+li.comment ul.actions a:hover {
+  box-shadow: #1c1c1c 1px 1px 4px inset !important;
+}
+
+.comment h4.heading.byline a {
+  text-shadow: #000000 1px 2px 1px;
+}
+
+div#dashboard span.current {
+  background-image: url(https://i.imgur.com/oQUYX9p.gif);
+  background-size: cover;
+  color: #fff;
+  text-shadow: #000000 -1px 1px 3px;
+  background-color: #d5d8ff;
+  background-blend-mode: hard-light;
+}
+
+.notice,
+.comment_notice,
+ul.notes {
+  background-color: #d1e9eb;
+  color: #fff;
+  background-image: url(https://i.imgur.com/agIeOCb.png);
+  text-shadow: #000000 0px 0px 4px !important;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  border-radius: 0px;
+  border: 3px solid #d84549;
+}
+
+div.primary.header.module ul.navigation.actions a {
+  background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #bbad83;
+}
+
+div.primary.header.module ul.navigation.actions a:hover {
+  border-style: inset !important;
+  text-shadow: #000000 2px 2px 3px;
+}
+
+div#main div.navigation.actions.module ul.user.navigation.actions a,
+div#main ul.navigation.actions a {
+  background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #bbad83 !important;
+  border-radius: 0px;
+}
+
+div#main div.navigation.actions.module ul.user.navigation.actions a:hover,
+div#main ul.navigation.actions a:hover {
+  border-style: inset !important;
+  text-shadow: #000000 2px 2px 3px;
+}
+
+h5.fandoms.heading a.tag {
+  font-family: PP Editorial Old, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+}
+
+.notes.module p,
+div.work .summary.module p,
+.notes.module a,
+div.work .summary.module a,
+.notes.module li,
+div.work .summary.module li,
+textarea {
+  font-family: Eskool, shantell sans, sans-serif;
+}
+
+.afterword.preface.group div#series h3.heading,
+.afterword.preface.group span {
+  color: #fff;
+  text-shadow: #000000 1px 1px 2px;
+}
+
+div.work ul.work.navigation.actions a {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg) !important;
+}
+
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:has(.menu :hover)>a {
+  background: #d84549;
+}
+
+#header input.button {
+  background-image: url(https://i.imgur.com/QxzU58k.gif) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-color: #5d62c7 !important;
+  background-blend-mode: luminosity;
+  text-shadow: #232323 1px 1px 2px;
+  box-shadow: #272727 0px 0px 2px !important;
+}
+
+#header input.button:hover {
+  background-blend-mode: normal !important;
+}
+
+div#main.works-navigate.region a {
+  text-shadow: #000000 1px 1px 1px;
+}
+
+div#main.works-navigate.region ol.chapter.index.group {
+  background-image: url(https://i.imgur.com/ghnSIXF.jpeg);
+  padding: 1px;
+  margin-top: 10px;
+}
+
+div#main.works-navigate.region ol.chapter.index.group {
+  background-image: url(https://i.imgur.com/ghnSIXF.jpeg);
+  padding: 1px;
+  margin-top: 10px;
+  box-shadow: #1c1c1c 1px 2px 4px !important;
+}
+
+div#main.works-navigate.region ol.chapter.index.group li a {
+  text-shadow: none;
+}
+
+div#main.works-navigate.region ol.chapter.index.group li a:hover {
+  text-shadow: #000000 1px 1px 1px;
+}
+
+div#modal {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  border-style: outset !important;
+  border-width: 5px !important;
+  border-color: #d9d9d9 !important;
+  border-radius: 0px;
+  box-shadow: #1c1c1c 1px 2px 4px !important;
+}
+
+div#main.works-navigate.region ol.chapter.index.group li {
+  margin-left: 10px;
+}
+
+ul#chapter_index.expandable.secondary a {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg) !important;
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  border: solid 1px #676767;
+  background-blend-mode: normal !important;
+}
+
+div#bookmark-form p,
+div#bookmark-form label,
+div#bookmark-form h4.heading {
+  color: #fff !important;
+  text-shadow: #0000009c 1px 1px 2px;
+}
+
+div#bookmark-form form {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  border-radius: 0px;
+  border-color: #35353d;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border-style: outset !important;
+}
+
+div#bookmark-form input,
+div#bookmark-form select,
+div#bookmark-form textarea {
+  border: solid 1px #000;
+  box-shadow: #0000009c 0px 1px 2px;
+}
+
+#header h1.heading {
+  text-shadow: #0000009c 1px 1px 1px;
+}
+
+.navigation.actions.module span.current,
+div#main.skins-edit.region ul.navigation.actions span.current {
+  background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  text-shadow: #232323 1px 1px 2px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #aca4ad !important;
+}
+
+div#bookmark-form.post.bookmark li.added.tag {
+  border-radius: 0px !important;
+  box-shadow: #0c0c0ca8 1px 1px 2px !important;
+  background-image: url(https://i.imgur.com/YLWSHJx.gif) !important;
+  background-color: #ffffff6b !important;
+  background-blend-mode: overlay;
+}
+
+div#main.skins-index.dashboard.region span.current,
+div#main.users-index.dashboard.region span.current,
+div#main.collections-index span.current,
+div#main.readings-index ul.navigation.actions span.current,
+div#main.subscriptions-index ul.navigation.actions span.current,
+div#main.gifts-index.dashboard.region ul.navigation.actions span.current,
+div#main.challenge_claims-index ul.navigation.actions span.current,
+div#main.works-search.region ul.navigation.actions span.current,
+div#main.people-search.region ul.navigation.actions span.current,
+div#main.bookmarks-search.region ul.navigation.actions span.current,
+div#main.tags-search.region ul.navigation.actions span.current,
+div#main.tags-index.region ul.navigation.actions span.current {
+  background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  text-shadow: #232323 1px 1px 2px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #aca4ad !important;
+}
+
+.random.readings.module.odd span.title,
+.random.readings.module.odd span.link a,
+.random.readings.module.odd p.note,
+.latest.messages.module span.title,
+.latest.messages.module span.link a,
+.latest.messages.module p.note {
+  color: #fff;
+  text-shadow: #000000 1px 1px 5px;
+}
+
+div#main.external_works-new.region form {
+  background: none;
+  box-shadow: none !important;
+}
+
+div#main.external_works-new.region ul.autocomplete {
+  background: none;
+}
+
+div#main.external_works-new.region form fieldset {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  border-radius: 0px;
+  border-color: #35353d;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border-style: outset !important;
+}
+
+div#main.external_works-new.region form fieldset fieldset {
+  background-image: url(https://i.imgur.com/pu25oFJ.jpeg);
+}
+
+div#bookmark-form dt {
+  color: #fff !important;
+  text-shadow: #0000009c 1px 1px 2px;
+}
+
+div#bookmark-form dl {
+  box-shadow: 2px 2px 0px #000;
+  border-radius: 0px;
+  border: solid 2px #fffde0;
+}
+
+div#modal dl dl {
+  box-shadow: -2px 2px 0px inset #000;
+  padding-top: 8px;
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  color: #fff !important;
+  text-shadow: #000000e6 1px 1px 2px;
+}
+
+#symbols-key dl {
+  border: 1px solid #dddddd00 !important;
+}
+
+div#main.fandoms-index.region h3.heading {
+  text-shadow: #000000 1px 1px 3px;
+  color: #fff;
+}
+
+p.close.actions a,
+span.actions.cancel a.hidden.showme,
+span.actions.cancel a {
+  background-image: url(https://i.imgur.com/3rZi9dq.gif);
+  background-size: contain;
+  padding: 4px 10px;
+  border-radius: 0px;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border: solid 1px #292929;
+}
+
+p.close.actions a:hover,
+span.actions.cancel a.hidden.showme:hover,
+div#advanced_skin span.delete a:hover,
+span.actions.cancel a:hover {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%);
+  color: #fafafa;
+}
+
+div#advanced_skin span.delete a {
+  background-image: url(https://i.imgur.com/3rZi9dq.gif);
+  background-size: contain;
+  padding: 0px 5px;
+  border-radius: 0px;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border: solid 1px #292929;
+  color: crimson;
+}
+
+p.required.notice,
+p.notice {
+  text-shadow: #000000 1px 1px 2px !important;
+  background: linear-gradient(126deg, #d93e42 0%, #e16083 100%);
+  color: #fff !important;
+}
+
+p.notice a {
+  color: #fff !important;
+}
+
+p.notice a:hover {
+  color: #2e2e2e !important;
+  text-shadow: none;
+  background: #ffff57;
+}
+
+div#feedback div#bookmark-form form fieldset dl {
+  border: none !important;
+}
+
+div#workskin .userstuff.module {
+  padding-bottom: 1px;
+  margin-bottom: 10px;
+}
+
+div#modal textarea#embed_code {
+  font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", sans-serif;
+}
+
+ul#alphabet.alphabet.actions a {
+  border-style: outset !important;
+  border-width: 3px !important;
+  border-color: #ffffff;
+  border-radius: 0px;
+  background-color: gainsboro;
+  box-shadow: #272727c7 1px 2px 3px !important;
+}
+
+ul#alphabet.alphabet.actions a:hover {
+  border-style: inset !important;
+  background: gainsboro;
+  border-color: #cfcfcf;
+  color: #2e2e2e;
+  text-shadow: 1px 0px 0px #3b3b3b8c;
+  box-shadow: none !important;
+}
+
+div.tag.tagset li.search fieldset {
+  border: none;
+}
+
+div#bookmark-form legend {
+  border-radius: 0px !important;
+  box-shadow: #04040491 1px 2px 4px !important;
+  background: #fffbc1;
+  border-color: #fffbc1;
+}
+
+div.tag.tagset li.search fieldset {
+  border: none;
+}
+
+div.tag.tagset li.search fieldset input#query {
+  border-radius: 0px;
+}
+
+div#main.subscriptions-index.dashboard.region dl.subscription.index.group {
+  box-shadow: #272727c7 1px 2px 3px !important;
+  background: #d2d8e3 !important;
+}
+
+dl.subscription.index.group dt {
+  margin-left: 24px;
+  margin-top: 14px;
+}
+
+dl.subscription.index.group dt:before {
+  content: "➢";
+}
+
+ul.media.fandom.index.group p.actions a:hover {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%);
+  color: #fafafa;
+  box-shadow: #000000 1px 1px 0px;
+}
+
+ul.media.fandom.index.group p.actions a {
+  text-shadow: #000000 1px 1px 0px;
+  border-radius: 2px;
+  background-image: url(https://i.imgur.com/WnjGK9p.jpeg);
+  color: #fff;
+  box-shadow: #000000 1px 1px 0px;
+}
+
+div#main.works-search.region fieldset,
+div#main.people-search.region fieldset,
+div#main.bookmarks-search.region fieldset,
+div#main.tags-search.region fieldset {
+  background-image: url(https://i.imgur.com/JBehJIv.png);
+  border-radius: 0px;
+  border-color: #35353d;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border-style: outset !important;
+}
+
+div#main.works-search.region fieldset dl,
+div#main.people-search.region fieldset dl,
+div#main.bookmarks-search.region fieldset dl,
+div#main.tags-search.region fieldset dl {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  border-radius: 0px;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border-style: outset !important;
+}
+
+div#main.works-search.region fieldset dl input[type=text],
+div#main.people-search.region fieldset dl input[type=text],
+div#main.bookmarks-search.region fieldset dl input[type=text],
+div#main.tags-search.region fieldset dl input[type=text] {
+  border-radius: 0px;
+}
+
+div#main.works-search.region legend,
+div#main.people-search.region legend,
+div#main.bookmarks-search.region legend,
+div#main.tags-search.region legend {
+  border-radius: 0px !important;
+  box-shadow: #04040491 1px 2px 4px !important;
+  background: #d7d7d7 !important;
+  border-color: #d7d7d7 !important;
+}
+
+div#main.people-search.region fieldset {
+  background-color: #ead4ff;
+  background-blend-mode: luminosity;
+}
+
+div#main.bookmarks-search.region fieldset {
+  background-color: #83aaff;
+  background-blend-mode: luminosity;
+}
+
+div#main.tags-search.region fieldset {
+  background-color: #d19995;
+  background-blend-mode: luminosity;
+}
+
+div#main.tags-search.region fieldset fieldset {
+  background: #63636359;
+  border: none;
+  border-style: inset !important;
+  box-shadow: none !important;
+  border-color: #a3a3a3;
+  border-width: 1px;
+}
+
+div#main.skins-edit.region fieldset fieldset,
+div#main.skins-new.region fieldset fieldset {
+  background-image: url(https://i.imgur.com/pwgThLF.jpeg);
+  border-radius: 0px;
+  background-size: 90px;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  border-color: #569d9d;
+}
+
+div#main.skins-edit.region fieldset dl,
+div#main.skins-new.region fieldset dl {
+  background-image: url(https://i.imgur.com/6X4qgBR.gif);
+  border-radius: 0px;
+  box-shadow: #1c1c1c 0px 0px 4px !important;
+}
+
+div#main.skins-edit.region fieldset,
+div#main.skins-new.region fieldset {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  border-radius: 0px;
+  box-shadow: #000000 1px 1px 3px !important;
+  border-color: #2c314d;
+}
+
+div#main.skins-edit.region fieldset h3.heading label,
+div#main.skins-edit.region fieldset p.character_counter,
+div#main.skins-new.region fieldset h3.heading label,
+div#main.skins-new.region fieldset p.character_counter {
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+}
+
+div#main.skins-edit.region fieldset fieldset fieldset,
+div#main.skins-new.region fieldset fieldset fieldset {
+  background-image: url(https://i.imgur.com/6X4qgBR.gif);
+  background-size: 40px;
+  border-color: #e8e8e8;
+}
+
+div#main.skins-edit.region textarea,
+div#main.skins-new.region textarea {
+  font-family: brutalist mono, monospace;
+}
+
+div#main.skins-edit.region legend,
+div#main.skins-new.region legend {
+  background-image: url(https://i.imgur.com/PIA5QiT.png);
+  background-size: contain;
+  border-radius: 0px;
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #b57a7a;
+}
+
+div.skins.home dl.stats {
+  background: linear-gradient(126deg, #d8454900 0%, #e74141 100%);
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+}
+
+div.skins.home .css.module,
+.skins.home blockquote.userstuff {
+  color: #fff;
+  text-shadow: #000000 1px 1px 2px;
+}
+
+div.skins.home .css.module pre {
+  background: aliceblue;
+  box-shadow: #000000 1px 1px 3px !important;
+  text-shadow: none;
+  color: #2e2e2e;
+}
+
+div.skins.home .parents.module {
+  text-shadow: #000000 1px 1px 3px;
+}
+
+div.skins.home .parents.module {
+  color: #fff;
+}
+
+div.skins.home .parents.module li a {
+  text-shadow: #000000 1px 1px 1px;
+}
+
+form.filters fieldset ul span,
+form.filters fieldset h4.heading,
+form.filters fieldset label {
+  color: #fff;
+  text-shadow: 1px 1px 2px #000;
+}
+
+form.filters fieldset {
+  background-image: url(https://i.imgur.com/NyrEj01.jpeg);
+  border: none;
+  border-radius: 0px;
+  background-size: 80px;
+  box-shadow: #0c0c0c8a 0px 0px 6px !important;
+}
+
+dl.subscription.index.group input[type="submit"]:hover {
+  border-radius: 3px;
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #cf0e0e;
+  background: linear-gradient(0deg, rgb(232 104 104) 53%, rgb(173 32 32) 100%);
+}
+
+dl.subscription.index.group input[type="submit"] {
+  border-radius: 3px;
+  box-shadow: #00000033 2px 2px 6px !important;
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #e56e6e;
+  background: linear-gradient(0deg, rgb(153 28 28) 17%, rgb(255 129 123) 100%);
+}
+
+dl.subscription.index.group a {
+  color: #4a68d7;
+}
+
+dl.subscription.index.group a:hover {
+  color: #2e2e2e !important;
+  background: #ffff57;
+}
+
+div#main.series-show.region ul.navigation.actions span.current,
+div.collection.home span.current,
+div#main.users-edit.dashboard.region span.current,
+div#main.bookmarks-index.filtered.region ul.navigation.actions span.actions,
+div#main.users-change_password.dashboard.region span.current,
+div#main.users-change_email.dashboard.region span.current,
+div#main.users-change_username.dashboard.region span.current,
+div#main.invitations-index span.current,
+div#main.invitations-manage span.current,
+div#main.skins-new.region ul.navigation.actions span.current {
+  background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  text-shadow: #232323 1px 1px 2px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #aca4ad !important;
+}
+
+div#main.series-show.region dl.series.meta.group {
+  text-shadow: #000000 1px 1px 0px;
+  border-radius: 0px;
+  background-image: url(https://i.imgur.com/N2yQeUs.jpeg);
+  color: #fff;
+  box-shadow: #000000 1px 1px 0px;
+  border-color: #5157b1 !important;
+  border-style: outset !important;
+  border-width: 2px !important;
+}
+
+div#main.series-show.region dl.series.meta.group dt {
+  background: linear-gradient(126deg, #d84549 0%, #e7414100 100%);
+}
+
+a.tag[href*="Alternate%20Universe"]:not([href*="Dark"]):before,
+a.tag[href*="AU"]:not([href*="Dark"]):before {
+  content: url("https://i.imgur.com/VrPGi3d.png");
+}
+
+div.collection.home dl.meta.group {
+  background-image: url(https://i.imgur.com/WnjGK9p.jpeg);
+  border-radius: 0px;
+  color: #fff;
+  box-shadow: #1c1c1c 2px 2px 2px !important;
+  text-shadow: #232323 1px 1px 2px;
+  border: none;
+}
+
+div.collection.home .primary.header.module p {
+  color: #fff;
+  text-shadow: #232323 2px 1px 1px;
+}
+
+a.dropdown-toggle[href*="/works/new"] {
+  background: url(https://i.imgur.com/J7xS4W8.png) !important;
+  background-size: 20px 20px !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+a[href*="/users/logout"] {
+  background: url(https://i.imgur.com/DnwYsN2.png) !important;
+}
+
+a[href*="/users/logout"]:hover {
+  background: url(https://i.imgur.com/DnwYsN2.png), #6c5fd1 !important;
+  width: 18px !important;
+  height: 18px !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  border: 1px solid #000 !important;
+}
+
+.blurb dl.stats {
+  background: linear-gradient(126deg, #ffffff00 0%, #7694fd 100%);
+  color: #282828;
+}
+
+form.filters dt {
+  text-shadow: #232323 2px 2px 1px;
+  color: #f2f2f2;
+}
+
+form.filters fieldset {
+  background-color: #f5deb3a3;
+  background-blend-mode: hard-light;
+  border: solid 3px #c9b8b8;
+  border-style: ridge;
+}
+
+form.filters fieldset {
+  background-color: #f5deb3a3;
+  background-blend-mode: hard-light;
+  border: solid 3px #c9b8b8;
+  border-style: ridge;
+}
+
+div#dashboard ul.expandable.secondary {
+  background: linear-gradient(270deg, rgb(44 77 199) 10%, rgb(156 122 165) 100%);
+}
+
+span.unread {
+  background: #bf3438;
+  text-shadow: #232323 2px 2px 1px;
+  color: #f2f2f2;
+  outline: 3px solid #c76c64;
+  outline-style: inset;
+  border-radius: 0px;
+  border: none !important;
+  outline-offset: -2px;
+}
+
+span.replied {
+  background: #3b9f4d;
+  text-shadow: #232323 2px 2px 1px;
+  color: #f2f2f2;
+  outline: 3px solid #3b9f4d;
+  outline-style: outset;
+  border-radius: 0px;
+  border: none !important;
+  outline-offset: -2px;
+}
+
+div#main.users-edit.dashboard.region form dl,
+div#main.pseuds-edit.dashboard.region form dl {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  border-radius: 0px;
+  box-shadow: #3b3b3be8 0px 0px 6px !important;
+}
+
+div#main.bookmarks-index.filtered.region ul.bookmark.index.group li.blurb {
+  background: linear-gradient(269deg, #5349b1 -10%, rgb(118 148 253) 100%) !important;
+  text-shadow: #232323 1px 1px 0px;
+  color: #f2f2f2;
+  box-shadow: #3b3b3b61 2px 2px 2px !important;
+}
+
+div#main.bookmarks-index.filtered.region h2.heading a.tag {
+  text-shadow: #232323 1px 1px 0px;
+}
+
+.filters .group dt.bookmarker {
+  border-top: none !important;
+}
+
+ol.pagination.actions.pagy a,
+ol.pagination.actions.pagy span.disabled,
+ol.pagination.actions a,
+ol.pagination.actions span.disabled {
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+  background: none;
+}
+
+ol.pagination.actions.pagy a.current,
+ol.pagination.actions a.current,
+ol.pagination.actions span.current {
+  background: none !important;
+  border: 4px solid #c4c4c5 !important;
+  border-style: inset !important;
+  border-radius: 0px;
+}
+
+ol.pagination.actions.pagy a:hover,
+ol.pagination.actions a:hover {
+  background: none !important;
+  border: 4px solid #a6afeb !important;
+  border-style: outset !important;
+  border-radius: 0px;
+}
+
+div#main.collections-index.filtered.region form.filters dt {
+  background: linear-gradient(126deg, #4967bb 0%, #e7414100 100%) !important;
+}
+
+.notice a {
+  color: #fff !important;
+  text-shadow: #000000 2px 1px 1px !important;
+}
+
+p.notice a:hover {
+  text-shadow: none !important;
+}
+
+div#main.users-change_password.dashboard.region form dl,
+div#main.users-change_email.dashboard.region form dl,
+div#main.users-change_username.dashboard.region form dl {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  border-radius: 0px;
+  background-color: #979be5;
+  background-blend-mode: overlay;
+  border-color: transparent;
+  box-shadow: #040404b5 1px 2px 2px !important;
+  color: #fff !important;
+  text-shadow: #000000 2px 1px 1px !important;
+}
+
+div#main.collections-new.region fieldset {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg) !important;
+  border-radius: 0px;
+  background-color: #c5b3a2;
+  background-blend-mode: overlay;
+  border: solid 3px #b39595;
+  border-style: outset;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+}
+
+div#main.collections-new.region fieldset.profile p.note {
+  text-shadow: #000000 1px 1px 2px !important;
+  background: linear-gradient(126deg, #d93e42 0%, #e16083 100%);
+  color: #fff !important;
+  box-shadow: #040404b5 1px 2px 2px !important;
+}
+
+ul.notes {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg) !important;
+  border-radius: 0px;
+  background-color: #8497b7;
+  background-blend-mode: overlay;
+  border-color: transparent;
+  box-shadow: #040404b5 1px 2px 2px !important;
+}
+
+ul.notes li::marker {
+  color: #fff;
+}
+
+div.user.home div#user-works {
+  background-image: url(https://i.imgur.com/cyMFAHj.jpeg);
+  background-size: 70px;
+  border-radius: 0px;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  border: solid 1px #ffffff00;
+}
+
+div.user.home div#user-series {
+  background-image: url(https://i.imgur.com/MfsGdZD.png);
+  background-size: 70px;
+  border-radius: 0px;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  border: solid 1px #ffffff00;
+}
+
+div.user.home div#user-works h3.heading,
+div.user.home div#user-series h3.heading {
+  color: #fff;
+  text-shadow: #000000 1px 1px 5px;
+}
+
+div#main.works-show.region .notes.module {
+  background-image: url(https://i.imgur.com/wwEz2tO.jpeg);
+  padding: 3px !important;
+  box-shadow: #4f4f4f 0px 0px 4px !important;
+  margin-top: 10px !important;
+  margin-bottom: 30px !important;
+}
+
+li.comment .actions label input {
+  border-radius: 0px;
+}
+
+textarea {
+  border: solid 1px #000;
+}
+
+#footer {
+  background: #900 url(/images/skins/textures/tiles/red-ao3.png) !important;
+}
+
+h2.collections {
+  background-image: url(https://i.imgur.com/maEd8y3.png) !important;
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 2px;
+  border-radius: 0px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #637d59 !important;
+  box-shadow: #0404047a 1px 1px 2px !important;
+}
+
+div.tagset.home dl.meta dt {
+  background: linear-gradient(126deg, #d84549 0%, #e7414100 100%);
+}
+
+div.tagset.home dl.meta {
+  text-shadow: #000000 1px 1px 0px;
+  border-radius: 0px;
+  background-image: url(https://i.imgur.com/6HeYzow.jpeg);
+  color: #fff;
+  box-shadow: #000000 1px 1px 0px;
+  background-color: #566281;
+  background-blend-mode: multiply;
+  border-color: #59486d;
+}
+
+div.tagset.home li.media.listbox.group h3,
+div.tagset.home .group .group .group .group h4 {
+  text-shadow: #000000 1px 1px 0px;
+  color: #fff !important;
+}
+
+div.tagset.home li.media.listbox.group,
+div.tagset.home li.cast.listbox.group,
+div.tagset.home li.freeform.alphabet.listbox.group {
+  border-color: transparent;
+  background-image: url(https://i.imgur.com/agIeOCb.png);
+  border-radius: 0px;
+  outline: indianred solid 4px;
+  outline-offset: -4px;
+  box-shadow: #3b3b3b75 0px 0px 6px !important;
+}
+
+div.tagset.home .group .group .group .group {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%);
+  box-shadow: #232323 2px 1px 2px !important;
+  border-radius: 0px;
+}
+
+div#main.admin_posts-index,
+div#main.admin_posts-show {
+  background-image: url(https://i.imgur.com/ghnSIXF.jpeg);
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  margin-top: 20px;
+}
+
+div#main.admin_posts-index h2.heading,
+div#main.admin_posts-show h2.heading {
+  text-shadow: #000000 1px 1px 2px;
+}
+
+div#main.admin_posts-index ol.pagination.actions a,
+div#main.admin_posts-index ol.pagination.actions span,
+div#main.admin_posts-show ol.pagination.actions a,
+div#main.admin_posts-show ol.pagination.actions span {
+  color: #2e2e2e;
+  text-shadow: none;
+}
+
+div#main.admin_posts-index ol.pagination.actions a:hover,
+div#main.admin_posts-show ol.pagination.actions a:hover {
+  background: #dfdedd !important;
+  border: 4px solid #c4c4c5 !important;
+  border-style: outset !important;
+  border-radius: 0px;
+}
+
+div#collection-works {
+  background-image: url(https://i.imgur.com/8RQjQHG.jpeg);
+  border-radius: 0px;
+  border-color: transparent;
+  box-shadow: #1c1c1c 1px 2px 4px !important;
+}
+
+div#collection-works h3.heading,
+div#collection-bookmarks h3.heading {
+  color: #fff;
+  text-shadow: #000000 1px 1px 5px;
+}
+
+div#collection-bookmarks {
+  background-image: url(https://i.imgur.com/8RQjQHG.jpeg);
+  border-radius: 0px;
+  border-color: transparent;
+  box-shadow: #1c1c1c 1px 2px 4px !important;
+  background-color: #0d1f47;
+  background-blend-mode: luminosity;
+}
+
+div#main.fandoms-index.dashboard.region form#media-filter fieldset {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg) !important;
+  border-radius: 0px;
+  background-color: #ab9d90;
+  background-blend-mode: overlay;
+  border: solid 3px #9d7e89;
+  border-style: outset;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+}
+
+div#collection-form dl {
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg) !important;
+  border-radius: 0px;
+  background-color: #c5b3a2;
+  background-blend-mode: overlay;
+  border: solid 3px #b39595;
+  border-style: outset;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+}
+
+div#collection-form {
+  background-image: url(https://i.imgur.com/maEd8y3.png);
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 2px;
+  border-radius: 0px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #637d59 !important;
+  box-shadow: #04040491 0px 1px 5px !important;
+}
+
+div#collection-form form {
+  border: none;
+}
+
+div#collection-form dl dd.submit.actions a {
+  text-shadow: none;
+}
+
+div#main.system.docs .categories,
+div#main.system.docs ul.faq.index.group a {
+  text-shadow: #000000 1px 1px 1px;
+  color: #fff;
+}
+
+div#main.system.docs ul.showme.hidden.actions a {
+  color: #fff;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #587bff 10%, rgb(159 173 193) 100%);
+  border-style: outset;
+  border-color: #c2c7d9;
+}
+
+div#main.system.docs label {
+  color: #fff;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #587bff 10%, rgb(159 173 193) 100%);
+}
+
+div#main.system.docs ul.showme.hidden.actions a:hover {
+  border-style: inset;
+}
+
+div.work ul.work.navigation.actions button,
+div#main.works-show.region button,
+button[type=submit] {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg) !important;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #bbad83 !important;
+  border-radius: 0px;
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+}
+
+div.work ul.work.navigation.actions button:hover,
+div#main.works-show.region button:hover,
+button[type=submit]:hover {
+  border-style: inset !important;
+  text-shadow: #000000 2px 2px 3px;
+  box-shadow: none;
+}
+
+div#main.bookmarks-index.region div.dynamic {
+  background: none !important;
+}
+
+form#new_pseud dl {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  border-radius: 0px;
+  box-shadow: #3b3b3be8 0px 0px 6px !important;
+  border-style: ridge;
+  border-color: #a18a51;
+  border-width: 6px;
+}
+
+div#main.users-edit.dashboard.region form dl,
+div#main.pseuds-edit.dashboard.region form dl {
+  border-style: ridge;
+  border-color: #a18a51;
+  border-width: 6px;
+}
+
+nav#dashboard.admin.region a {
+  color: #fff;
+  text-shadow: #000000 1px 1px 1px;
+  border-radius: 0px;
+  border-bottom: 1px solid;
+}
+
+nav#dashboard.admin.region a:hover {
+  box-shadow: #272727c7 0px 0px 3px !important;
+  border-bottom: none;
+}
+
+div#main.invitations-index form dl {
+  border-radius: 0px;
+  color: #fff;
+  text-shadow: #000000 1px 1px 1px;
+  box-shadow: #272727c7 2px 2px 3px !important;
+  background: linear-gradient(276deg, #d84549 0%, #695db5b5 100%);
+  border-color: transparent;
+  border-left: none;
+}
+
+div#main.invitations-index form dl label {
+  color: #fff !important;
+}
+
+li.user.pseud.picture.blurb.group {
+  border-radius: 0px;
+  box-shadow: #272727c7 2px 2px 4px !important;
+  background: linear-gradient(276deg, #d84549 0%, #695db5d4 100%) !important;
+  border-color: transparent;
+  border-left: none;
+}
+
+li.user.pseud.picture.blurb.group h4.heading a,
+li.user.pseud.picture.blurb.group p,
+li.user.pseud.picture.blurb.group h5.heading a {
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 1px;
+}
+
+div#main.collections-show ul.navigation.actions button,
+li.collection.picture.blurb.group button {
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background-image: url(https://i.imgur.com/EgB2eVP.gif) !important;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #e57373;
+  background-blend-mode: luminosity;
+  border-color: transparent !important;
+}
+
+div#main.collections-show ul.navigation.actions button:hover,
+li.collection.picture.blurb.group button:hover {
+  background-blend-mode: hard-light;
+}
+
+div#main.system.docs.support.faq.index.region h2.heading:before {
+  content: url(https://i.imgur.com/6GzSSeK.gif);
+  display: inline;
+  margin-right: 9px;
+}
+
+div#main.skins-index.dashboard.region h2.heading:before {
+  content: url(https://i.imgur.com/qvxFt7v.png);
+  display: inline;
+  margin-right: 9px;
+}
+
+table {
+  background-image: url(https://i.imgur.com/6X4qgBR.gif);
+  background-size: 49px;
+  color: #fff;
+  text-shadow: #000000 1px 1px 1px;
+  box-shadow: #3b3b3be8 0px 0px 4px !important;
+}
+
+table tbody tr {
+  background-color: #ffffff4f;
+  border-color: #3b3c43;
+  text-shadow: none;
+}
+
+th {
+  border-color: #3b3c43 !important;
+}
+
+tbody tr:hover {
+  border-color: #3a4071 !important;
+  background: linear-gradient(93deg, rgb(88 123 255) 10%, rgb(159 173 193) 100%);
+  text-shadow: #000000 0px 1px 0px;
+}
+
+tr:hover {
+  border-color: #3a4071 !important;
+  background: linear-gradient(93deg, rgb(88 123 255) 10%, rgb(185 142 131) 100%);
+}
+
+div#main.skins-new.region p.notes,
+dd.listbox.group h5.heading {
+  text-shadow: #000000 1px 1px 2px !important;
+  color: #fff !important;
+}
+
+dd.listbox.group {
+  background-image: url(https://i.imgur.com/PIA5QiT.png);
+  border-radius: 0px;
+  background-size: 100px;
+  background-color: #231e31;
+  background-blend-mode: luminosity;
+  border: ridge;
+  border-color: darkslategray;
+}
+
+dd.listbox.group label.action,
+div.tag.tagset ul.options.index.group.many label.action {
+  background-image: url(https://i.imgur.com/u177kXy.jpeg);
+  border: #bdbcbb solid 2px;
+  border-style: outset;
+  border-radius: 0px;
+  text-shadow: #000000 1px 1px 2px !important;
+  color: #fff !important;
+  box-shadow: #000000e0 0px 1px 3px !important;
+}
+
+dd.listbox.group label.action:hover,
+div.tag.tagset ul.options.index.group.many label.action:hover {
+  box-shadow: #000000e0 0px 1px 3px !important;
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  color: #2e2e2e !important;
+  text-shadow: none !important;
+  border: #e3e3e2 solid 2px;
+  border-style: outset;
+}
+
+div.tag.tagset fieldset {
+  border-radius: 0px;
+  color: #fff;
+  text-shadow: #000000 1px 1px 1px;
+  box-shadow: #272727c7 2px 2px 3px !important;
+  background: linear-gradient(276deg, #d84549 0%, #533985c9 100%);
+  border-color: transparent;
+  border-left: none;
+}
+
+div.tag.tagset fieldset fieldset {
+  background: none;
+  box-shadow: none !important;
+  text-shadow: none;
+}
+
+div.tag.tagset ul.options.index.group.many {
+  box-shadow: -2px 2px 0px inset #000;
+  padding-top: 8px;
+  background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+  color: #fff !important;
+  text-shadow: #000000e6 1px 1px 2px;
+}
+
+div.tag.tagset h4.heading {
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 1px;
+}
+
+div.tag.tagset legend {
+  color: #fff !important;
+  text-shadow: #000000 1px 1px 2px;
+  border-radius: 0px !important;
+  border-color: transparent;
+  box-shadow: #04040491 1px 2px 2px !important;
+  background: #d93e42 !important;
+  border: none !important;
+}
+
+div.tag.tagset dl {
+  border-radius: 0px;
+}
+
+div.tag.tagset dt.required {
+  color: #ff8588 !important;
+}
+
+#footer button {
+  background-image: none !important;
+  box-shadow: none !important;
+  border: none !important;
+  text-shadow: none !important;
+}
+
+div.tag.tagset li.search fieldset {
+  background: none;
+  box-shadow: none !important;
+}
+
+div#main.skins-edit.region li.actions a.hidden.showme:hover,
+p.submit.actions input:hover,
+dd.submit.actions input:hover,
+div#modal a.action.modal-closer:hover,
+div#main.skins-new.region li.actions a.hidden.showme:hover,
+div#collection-form dd.submit.actions a:hover {
+  background: linear-gradient(355deg, rgb(203 203 203) 0%, rgb(141 141 141) 100%);
+  box-shadow: #000000e0 0px 1px 3px !important;
+}
+
+div#main.skins-edit.region li.actions a.hidden.showme,
+p.submit.actions input,
+dd.submit.actions input,
+div#modal a.action.modal-closer,
+div#main.skins-new.region li.actions a.hidden.showme,
+div#collection-form dd.submit.actions a {
+  border: solid 5px #9f9f9f !important;
+  border-radius: 0px;
+  background: linear-gradient(178deg, rgb(203 203 203) 0%, rgb(135 135 135) 100%);
+  border-style: ridge !important;
+  color: #2e2e2e;
+}
+
+div#main.skins-index ul.actions a,
+.own.user.module.group ul.actions a {
+  box-shadow: #272727c7 0px 1px 2px;
+  border-radius: 0px !important;
+}
+
+div#reply-to-comment p.submit.actions input,
+div#add_comment p.submit.actions input {
+  background-image: url(https://i.imgur.com/QxzU58k.gif) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-color: #5d62c7 !important;
+  background-blend-mode: luminosity;
+  text-shadow: #232323 1px 1px 2px;
+  box-shadow: #272727 1px 1px 2px !important;
+  border: none !important;
+}
+
+div#reply-to-comment p.submit.actions input:hover,
+div#add_comment p.submit.actions input:hover {
+  background-blend-mode: normal !important;
+}
+
+div.news.admin.home .primary.header.module ul.actions a {
+  box-shadow: #272727c7 0px 1px 2px;
+  border-radius: 0px !important;
+}
+
+form.filters dd.submit.actions input {
+  border-width: 2px !important;
+  border-style: outset !important;
+}
+
+div#main.works-search.region p.submit input,
+div#main.people-search.region p.submit.actions input,
+div#main.preferences-index p.submit input,
+div#main.skins-edit.region p.submit input,
+div#main.bookmarks-search.region p.submit input,
+div#main.tags-search.region p.submit input,
+div#main.skins-edit.region p.submit input,
+div#main.skins-new.region p.submit input,
+div#main.collections-new.region p.submit input {
+  color: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #c91f3d 10%, rgb(255 99 99) 100%);
+  border-style: outset !important;
+  border-color: #df4a4a !important;
+  border-width: 3px !important;
+  text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+.collection.home.profile button[type=submit]:hover {
+  color: #fff;
+}
+
+div#main.fandoms-index.dashboard.region form#media-filter.filter input,
+div#main.owned_tag_sets-new.region p.submit input {
+  color: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #29554b 10%, rgb(93 151 135) 100%);
+  border-style: outset !important;
+  border-color: #8eb7a6 !important;
+  border-width: 2px !important;
+  text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+ol.bookmark.index.group ul.actions a {
+  color: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #272727c7 0px 1px 2px !important;
+  background: linear-gradient(270deg, #29554b 10%, rgb(93 151 135) 100%);
+  border-style: outset !important;
+  border-color: #8eb7a6 !important;
+  border-width: 2px !important;
+  text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+ul.rtf-html-switch.actions a,
+div#main.works-new.region p.actions a {
+  color: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #293855 10%, rgb(85 158 175) 100%) !important;
+  border-style: outset !important;
+  border-color: #64a188 !important;
+  border-width: 2px !important;
+  text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+div#main.works-new.region p.actions a:hover,
+ul.rtf-html-switch.actions a:hover,
+div#main.fandoms-index.dashboard.region form#media-filter.filter input:hover,
+div#main.owned_tag_sets-new.region p.submit input:hover,
+div#main.works-search.region p.submit input:hover,
+div#main.people-search.region p.submit.actions input:hover,
+div#main.preferences-index p.submit input:hover,
+div#main.skins-edit.region p.submit input:hover,
+div#main.bookmarks-search.region p.submit input:hover,
+div#main.tags-search.region p.submit input:hover,
+div#main.skins-edit.region p.submit input:hover,
+div#main.skins-new.region p.submit input:hover,
+ol.bookmark.index.group ul.actions a:hover,
+div#main.collections-new.region p.submit input:hover {
+  text-shadow: 1px 2px 3px #2e2e2e;
+  border-style: inset !important;
+}
+
+li.collection.picture.blurb.group ul.actions a {
+  background-image: url(https://i.imgur.com/QxzU58k.gif) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-color: #6287b57a !important;
+  background-blend-mode: luminosity;
+  text-shadow: #232323 1px 1px 2px;
+  box-shadow: #272727 0px 0px 2px !important;
+  border-radius: 0px;
+  padding-top: 5px;
+  padding-bottom: 7px;
+}
+
+div.tag.tagset fieldset.tagset.listbox.group ul.actions a,
+form.single.simple.post p span.submit.actions input[type="submit"] {
+  background-image: url(https://i.imgur.com/QxzU58k.gif) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-color: #6287b57a !important;
+  background-blend-mode: luminosity;
+  text-shadow: #232323 1px 1px 2px;
+  box-shadow: #272727 0px 0px 2px !important;
+  border-radius: 0px;
+}
+
+li.collection.picture.blurb.group ul.actions a:hover,
+div.tag.tagset fieldset.tagset.listbox.group ul.actions a:hover,
+form.single.simple.post p span.submit.actions input[type="submit"]:hover {
+  background-blend-mode: normal;
+}
+
+form.filters li.added.tag {
+  text-shadow: #232323 2px 1px 1px;
+  color: #f2f2f2;
+  background: linear-gradient(126deg, #4f94eb 0%, #e7414100 100%) !important;
+}
+
+div#main.external_works-new p.submit.actions a {
+  background-image: url(https://i.imgur.com/oQUYX9p.gif);
+  background-size: cover;
+  color: #fff;
+  text-shadow: #000000 -1px 1px 3px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 0px;
+  box-shadow: #0000009c 0px 1px 2px;
+}
+
+div#main.external_works-new p.submit.actions a:hover {
+  background-color: #d5d8ff;
+  background-blend-mode: hard-light;
+  box-shadow: #0000009c 0px 1px 2px !important;
+}
+
+div#main.external_works-new p.submit.actions a {
+  background-image: url(https://i.imgur.com/oQUYX9p.gif);
+  background-size: cover;
+  color: #fff;
+  text-shadow: #000000 -1px 1px 3px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-radius: 0px;
+  box-shadow: #0000009c 0px 1px 2px;
+}
+
+div#main.external_works-new p.submit.actions a:hover {
+  background-color: #d5d8ff;
+  background-blend-mode: hard-light;
+}
+
+a.check_all,
+a.check_none {
+  background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #bbad83 !important;
+  border-radius: 0px;
+  padding-bottom: 2px;
+}
+
+a.check_all:hover,
+a.check_none:hover {
+  border-style: inset !important;
+  text-shadow: #000000 2px 2px 3px;
+}
+
+div#main.works-show.region ul.work.navigation.actions a {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  border: solid 1px #676767;
+}
+
+div#main.works-show.region ul.work.navigation.actions a:hover {
+  box-shadow: #1c1c1c 1px 1px 4px inset !important;
+}
+
+div.tag.tagset a.check_all,
+div.tag.tagset a.check_none {
+  border: none !important;
+}
+
+a.advanced_skin_close.action.hidden,
+a.advanced_skin_open.action.hidden {
+  background: #d3d3d3;
+  border-radius: 0px;
+  border: 1px solid #2e2e2e;
+  text-shadow: none;
+}
+
+a.advanced_skin_close.action.hidden:hover,
+a.advanced_skin_open.action.hidden:hover {
+  box-shadow: #272727 0px 1px 3px !important;
+  color: #2e2e2e !important;
+}
+
+div#main.collections-list_challenges.region span.current,
+div#main.collections-list_ge_challenges.region span.current,
+div#main.collections-list_pm_challenges.region span.current,
+div#main.collections-index.filtered.region span.current {
+  background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  text-shadow: #232323 1px 1px 2px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #aca4ad !important;
+}
+
+div#main.skins-show.region ul.actions a {
+  background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #bbad83 !important;
+  border-radius: 0px;
+}
+
+div#main.skins-show.region ul.actions a:hover {
+  border-style: inset !important;
+  text-shadow: #000000 2px 2px 3px;
+}
+
+div#footer:after {
+  content: "proship with love ♥";
+  color: #f2f2f2;
+}
+
+#footer h4.heading {
+  text-shadow: #000000 1px 1px 3px;
+}
+
+img[src$="/images/lockblue.png"] {
+  content: url(https://i.imgur.com/M8Iz9by.png);
+}
+
+#header .dropdown:has(.menu :hover)>a,
+.blurb .header.module h4.heading a {
+  border-radius: 0px;
+}
+
+.latest.news.module li.post a {
+  color: #2e2e2e;
+}
+
+.latest.news.module li.post a:hover {
+  color: #fafafa;
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%) !important;
+}
+
+button.showme.action {
+  background-image: url(https://i.imgur.com/3rZi9dq.gif);
+  background-size: contain;
+  padding: 0px 5px;
+  border-radius: 0px;
+  box-shadow: #04040491 1px 2px 4px !important;
+  border: solid 1px #292929 !important;
+  color: crimson;
+  text-shadow: none;
+}
+
+button.showme.action:hover {
+  background: linear-gradient(126deg, #d84549 0%, #e14c74 100%) !important;
+  color: #fafafa;
+}
+
+div#admin-banner blockquote.userstuff {
+  background-color: #d1e9eb;
+  color: #fff;
+  background-image: url(https://i.imgur.com/agIeOCb.png);
+  text-shadow: #000 2px 2px 2px !important;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  border-radius: 0px;
+  border: 3px solid #d84549;
+}
+
+div#main.bookmarks-index.filtered.region ul.navigation.actions span.current {
+  background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+  color: #fff;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  text-shadow: #232323 1px 1px 2px;
+  border-style: outset !important;
+  border-width: 2px !important;
+  border-color: #aca4ad !important;
+}
+
+div.tag.home.profile .parent.listbox.group {
+  border-radius: 0px;
+  color: #fff;
+  text-shadow: #000000 1px 1px 1px;
+  box-shadow: #272727c7 2px 2px 3px !important;
+  background: linear-gradient(276deg, #d84549 0%, #695db5b5 100%);
+  border-color: transparent;
+  border-left: none;
+}
+
+div.tag.home.profile .parent.listbox.group h3.heading {
+  color: #fff;
+}
+
+div.tag.home.profile .work.listbox.group,
+div.tag.home.profile .bookmark.listbox.group {
+  border-radius: 0px;
+  box-shadow: 1px -1px 4px #21264587;
+  border-width: 3px;
+  border-style: outset;
+  border-color: #558ad9;
+}
+
+div#admin-banner a:hover {
+  color: black;
+  background: gold;
+  text-shadow: none;
+}
+
+.system .userstuff p {
+  padding: 10px;
+}
+
+div#main.works-new.region fieldset ul.actions a {
+  color: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #c91f3d 10%, rgb(255 99 99) 100%);
+  border-style: outset !important;
+  border-color: #df4a4a !important;
+  border-width: 2px !important;
+  text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+div#main.works-new.region fieldset ul.actions a:hover {
+  text-shadow: 1px 2px 3px #2e2e2e;
+  border-style: inset !important;
+}
+
+.system p.notes {
+  text-shadow: #000000 1px 1px 1px;
+  color: #fff;
+}
+
+nav#toc {
+  text-shadow: #000000 0px 1px 0px;
+}
+
+div#faq {
+  text-shadow: #000000 -1px 1px 1px;
+  color: #fff;
+}
+
+div#faq a {
+  text-shadow: #000000 0px 1px 0px;
+  text-decoration: underline;
+  text-decoration-color: #fff;
+}
+
+div#faq h3 {
+  color: #fff;
+  background: linear-gradient(45deg, #002ac5, transparent);
+}
+
+h3#toc-nav-heading {
+  color: #fff;
+  background: linear-gradient(45deg, #4579d8, transparent);
+}
+
+div#main.system.docs.donate .userstuff,
+div#main.system.docs.guideline .userstuff {
+  background-image: url(https://i.imgur.com/ghnSIXF.jpeg);
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+}
+
+div#main.system.docs.donate .userstuff p,
+div#main.system.docs.guideline .userstuff p,
+div#main.system.docs.guideline .userstuff h3,
+div#main.system.docs.guideline .userstuff li {
+  padding: 10px;
+}

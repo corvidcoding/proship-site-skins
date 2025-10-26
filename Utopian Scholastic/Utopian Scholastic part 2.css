@@ -1,0 +1,355 @@
+.primary.header.module ul.navigation.actions a,
+.primary.header.module ul.navigation.actions input {
+  border: solid 1px;
+  border-radius: 0px;
+}
+
+header#header {
+  background: linear-gradient(0deg, rgba(104, 168, 232, 1) 53%, rgba(215, 229, 250, 1) 100%);
+}
+
+div#dashboard {
+  background: #cd5c5c87 !important;
+  border-radius: 0px !important;
+  margin-top: 10px;
+  box-shadow: #575757 2px 1px 6px !important;
+  background-image: url(https://i.imgur.com/8DbK7LR.jpeg) !important;
+  background-size: 50px !important;
+  background-blend-mode: screen;
+}
+
+div#dashboard ul.navigation.actions a {
+  border: solid 1px #000;
+  color: #000;
+  border-radius: 0px;
+}
+
+span.current {
+  border: solid #000 1px !important;
+  border-radius: 0px;
+}
+
+input#site_search {
+  border-radius: 0px;
+}
+
+div#dashboard ul.expandable.secondary {
+  border-radius: 0px;
+}
+
+div#workskin div#chapters {
+  background: #fff;
+  background-image: url(https://i.imgur.com/ghnSIXF.jpeg);
+  box-shadow: #4f4f4f 0px 0px 8px !important;
+}
+
+div#outer {
+  background-image: url(https://i.imgur.com/UCTocws.jpeg);
+  background-repeat: repeat;
+  background-size: 300px;
+}
+
+header#header {
+  box-shadow: #4b4b4b 2px 1px 6px !important;
+  border: none;
+}
+
+div#workskin .summary.module {
+  background-image: url(https://i.imgur.com/wwEz2tO.jpeg);
+  padding: 3px !important;
+  box-shadow: #4f4f4f 0px 0px 4px !important;
+}
+
+#header ul.primary.navigation.actions a.dropdown-toggle,
+#header ul.user.navigation.actions a.dropdown-toggle {
+  color: #fff;
+  text-shadow: #232323 1px 1px 2px;
+}
+
+div.work h2.title.heading,
+.favorite.module.odd h3.heading,
+.random.readings.module.odd h3.headings,
+div#main.works-index h2.heading,
+div#main.bookmarks-index h2.heading,
+div#main.works h2.heading,
+div#main.bookmarks h2.heading,
+div#main.tags h2.heading,
+div#main.collections-index h2.heading,
+div#main.preferences-index h2.heading,
+.latest.news.module h3.heading,
+.latest.news.module h3.heading a,
+.random.readings.module.odd h3.headings a,
+div#main.works-search.region h2.heading,
+div#main.people-search.region h2.heading,
+div#main.bookmarks-search.region h2.heading,
+div#main.tags-search.region h2.heading,
+div.user.home div#user-bookmarks h3.heading {
+  color: #fff;
+  text-shadow: #000000 1px 1px 5px;
+}
+
+h2.heading {
+  color: #fff;
+  text-shadow: #000000 1px 1px 5px;
+}
+
+div.work dl.work.meta.group,
+.thread .comment,
+div#add_comment,
+.thread .even,
+li.comment {
+  background: #fff;
+  border-radius: 0px;
+  box-shadow: #3b3b3b75 0px 0px 6px !important;
+}
+
+li.comment {
+  background: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #3b3b3b75 0px 0px 6px !important;
+}
+
+li.blurb {
+  background: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #3b3b3b75 0px 0px 6px !important;
+}
+
+#inner.wrapper {
+  background: transparent !important;
+}
+
+div.work .notes.module {
+  background-image: url(https://i.imgur.com/wwEz2tO.jpeg);
+  padding: 3px !important;
+  box-shadow: #4f4f4f 0px 0px 4px !important;
+  margin-top: 10px !important;
+  margin-bottom: 30px !important;
+}
+
+a.tag {
+  border-radius: 0px !important;
+  box-shadow: #0c0c0ca8 1px 0px 3px !important;
+  background-image: url(https://i.imgur.com/YLWSHJx.gif) !important;
+  background-color: #ffffff6b !important;
+  background-blend-mode: overlay;
+}
+
+div#main.preferences-index fieldset {
+  background: #fff;
+  border-radius: 0px;
+  box-shadow: #3b3b3b75 0px 0px 6px !important;
+}
+
+div.latest.news.module li.post.group {
+  background-image: url(https://i.imgur.com/25hEt2r.png);
+  background-size: cover;
+  box-shadow: #3b3b3bbf 0px 0px 4px !important;
+  border: none;
+  border-radius: 0px;
+  background-color: #ffffff6b !important;
+  background-blend-mode: lighten;
+}
+
+select,
+input[type=text] {
+  border: #474747 solid 1px !important;
+}
+
+form.filters fieldset {
+  background-image: url(https://i.imgur.com/cyMFAHj.jpeg);
+  border: none;
+  border-radius: 0px;
+  background-size: 80px;
+  box-shadow: #0c0c0c8a 0px 0px 6px !important;
+}
+
+div.user.home.profile dl.meta {
+  background: url(https://i.imgur.com/WnjGK9p.jpeg);
+  border: none;
+  border-radius: 0px;
+  color: #fff;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  text-shadow: #232323 1px 1px 2px;
+}
+
+div#main.system.docs.index.region .social.module.odd {
+  background-image: url(https://i.imgur.com/tH1yJj4.png);
+  border: none;
+  border-radius: 0px;
+  color: #fff;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  text-shadow: #232323 1px 1px 2px;
+}
+
+div.user.home div#user-bookmarks {
+  background-image: url(https://i.imgur.com/z0Q74kr.jpeg);
+  background-size: 70px;
+  border-radius: 0px;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  border: solid 1px #ffffff00;
+}
+
+ol.work.index.group li.blurb, ol.bookmark.index.group li.blurb, ol.reading.work.index.group li.blurb, ul.series.work.index.group li.blurb {
+    background-image: url(https://i.imgur.com/ghnSIXF.jpeg) !important;
+}
+
+#header .actions a[href="/menu/fandoms"]::before {
+  content: url("https://i.imgur.com/W8p0Du5.gif");
+  margin-right: 4px;
+}
+
+#header .actions a[href="/menu/browse"]::before {
+  content: url("https://i.imgur.com/BBUvDhi.gif");
+  margin-right: 4px;
+}
+
+#header .actions a[href="/menu/search"]::before {
+  content: url("https://i.imgur.com/jjI6ejk.gif");
+  margin-right: 4px;
+}
+
+#header .actions a[href="/menu/about"]::before {
+  content: url("https://i.imgur.com/bYEiZdP.gif");
+  margin-right: 4px;
+}
+
+div#main.media-index.region h2.heading:before {
+  margin-right: 6px;
+  content: url(https://i.imgur.com/cRqFaHB.gif);
+}
+
+div#main.tags-index.region h2.heading:before {
+  margin-right: 6px;
+  content: url(https://i.imgur.com/N0a8Hb2.gif);
+}
+
+.fandom .group.listbox {
+  background-image: url(https://i.imgur.com/N2yQeUs.jpeg) !important;
+  background-size: contain;
+  border-radius: 0px;
+  box-shadow: #1c1c1c 0px 1px 4px !important;
+  border: none;
+  color: #fff;
+}
+
+.fandom .group.listbox h3.heading a {
+  color: #fff;
+  text-shadow: #000000 1px 1px 3px;
+}
+
+.fandom .group.listbox ol.index.group {
+  background-image: url(https://i.imgur.com/cyMFAHj.jpeg);
+  background-size: 100px;
+  background-color: #a096c1;
+  background-blend-mode: luminosity;
+}
+
+ul.media.fandom.index.group li li {
+  text-shadow: #000000 1px 1px 3px;
+}
+
+ul.media.fandom.index.group a.tag {
+  text-shadow: none;
+}
+
+.social.module.odd p.note,
+.social.module.odd h3.heading {
+  margin-left: 9px;
+  margin-right: 9px;
+}
+
+div#main.works-index h2.heading a.tag {
+  text-shadow: #000000 0px 1px 1px;
+}
+
+div#workskin p {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+ul.work.navigation.actions a {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  color: #fff;
+  text-shadow: #000000 0px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  border: solid 1px #676767;
+}
+
+ul.work.navigation.actions a:hover {
+  box-shadow: #1c1c1c 1px 1px 4px inset !important;
+}
+
+div#feedback ul.actions a {
+  background-image: url(https://i.imgur.com/VRe619i.jpeg);
+  color: #fff;
+  text-shadow: #000000 -1px 1px 3px;
+  border-radius: 0px;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  border: solid 1px #676767;
+}
+
+div#feedback ul.actions a:hover {
+  box-shadow: #1c1c1c 1px 1px 4px inset !important;
+}
+
+ul.work.navigation.actions .secondary {
+  background-image: url(https://i.imgur.com/z0Q74kr.jpeg);
+  border-radius: 0px;
+  border: solid 1px;
+  box-shadow: #1c1c1c 1px 1px 4px !important;
+}
+
+div#user-fandoms {
+  background-image: url(https://i.imgur.com/r4DuBGP.jpeg);
+  border-radius: 0px;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  border: #00000000 solid 1px;
+}
+
+div#user-fandoms h3.heading {
+  color: #fdffe3;
+  text-shadow: #000000 1px 1px 3px;
+}
+
+div#user-fandoms ol.index.group {
+  background-image: url(https://i.imgur.com/pu25oFJ.jpeg);
+  text-shadow: #000000 -2px 1px 1px;
+  color: #fff;
+}
+
+div#user-fandoms ol.index.group a {
+  color: #fffbc1;
+}
+
+div#user-fandoms ol.index.group a:hover {
+  color: #fff;
+}
+
+div#dashboard ul.navigation.actions a:hover {
+  background: linear-gradient(269deg, rgb(46 148 239) 53%, rgb(146 190 255) 100%);
+}
+
+div#dashboard ul.navigation.actions a {
+  border-radius: 0px;
+  background-size: 60px;
+  color: #fff;
+  text-shadow: #000000 -1px 1px 3px;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  background: linear-gradient(270deg, rgb(88 123 255) 10%, rgb(186 159 193) 100%);
+}
+
+ul.menu.dropdown-menu {
+  background-image: url(https://i.imgur.com/N2yQeUs.jpeg) !important;
+  border-radius: 0px !important;
+  box-shadow: #000000e0 0px 1px 3px !important;
+  background-size: 100px !important;
+}
+
+#header ul.menu.dropdown-menu a {
+  background: linear-gradient(270deg, rgb(88 123 255) 10%, rgb(159 173 193) 100%);
+  color: #fff !important;
+  text-shadow: #000000 -1px 1px 3px;
+  border-top: 1px solid #5b5d99;
+}
