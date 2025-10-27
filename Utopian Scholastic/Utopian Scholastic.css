@@ -3437,4 +3437,35 @@ div#main.system.docs.guideline .userstuff p,
 div#main.system.docs.guideline .userstuff h3,
 div#main.system.docs.guideline .userstuff li {
   padding: 10px;
+
+}
+
+div#main.tag_set_nominations-new fieldset {
+    border-radius: 0px;
+    color: #fff;
+    text-shadow: #000000 1px 1px 1px;
+    box-shadow: #272727c7 2px 2px 3px !important;
+    background: linear-gradient(276deg, #d84549 0%, #533985c9 100%);
+    border-color: transparent;
+    border-left: none;
+}
+
+div#main.tag_set_nominations-new dl {
+    border: none;
+}
+
+div#main.tag_set_nominations-new p.submit input {
+    color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #29554b 10%, rgb(93 151 135) 100%);
+    border-style: outset !important;
+    border-color: #8eb7a6 !important;
+    border-width: 2px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+div#main.tag_set_nominations-new p.submit input:hover {
+    text-shadow: 1px 2px 3px #2e2e2e;
+    border-style: inset !important;
 }
