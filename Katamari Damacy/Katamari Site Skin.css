@@ -2373,10 +2373,10 @@ header#header h1.heading {
 }
 
 div#footer {
-  background-image: url(https://i.imgur.com/XhnMMBj.jpeg) !important;
-  background-size: cover !important;
-  background-position: center !important;
-  background-position-y: top !important;
+    background-image: url(https://i.imgur.com/CpH6feO.png), linear-gradient(0deg, rgb(130 171 255) 48%, rgba(66, 123, 225, 1) 100%) !important;
+    background-size: contain;
+    background-position: bottom;
+    background-repeat: no-repeat;
 }
 
 .index .skins .icon {
@@ -3078,5 +3078,5 @@ div#main.collections-list_pm_challenges.region h2 {
 }
 
 #workskin u {
-    border-bottom: 2px solid #8973e1;
+    border-bottom: 2px solid #8973e1 !important;
 }
