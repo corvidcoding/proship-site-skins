@@ -3079,4 +3079,13 @@ div#main.collections-list_pm_challenges.region h2 {
 
 #workskin u {
     border-bottom: 2px solid #8973e1 !important;
+
+}
+
+form.filters li.input .dropdown {
+background: #404087;
+}
+
+.javascript {
+    background: #404087 !important;
 }
