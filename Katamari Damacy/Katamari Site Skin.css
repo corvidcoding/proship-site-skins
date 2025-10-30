@@ -1,0 +1,3082 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.heading {
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif;
+  border-bottom: none;
+  font-weight: 700;
+}
+
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+blockquote,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.bookmark .user .meta,
+.datetime,
+a.work,
+span.symbol,
+.splash .news .meta,
+select,
+textarea {
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif;
+}
+
+#footer li,
+.comment .userstuff,
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+textarea,
+p.type,
+.meta dd,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#header h1,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+#modal,
+.filters .expander,
+.qtip-content,
+h5,
+h6,
+h4.viewed,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  font-size: 1.05em;
+}
+
+.home .header h2,
+.preface h3,
+.faq .categories h3,
+.userstuff h3,
+#footer a {
+  border-bottom: none;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+#inner.wrapper,
+#modal,
+h3,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander,
+.userstuff li,
+.userstuff ul,
+.userstuff p,
+.userstuff h2,
+.userstuff h1,
+.userstuff h3,
+.userstuff h4,
+p.note,
+blockquote,
+body,
+input,
+.toggled form,
+.dynamic form,
+.secondary,
+.dropdown,
+button,
+#main,
+select {
+  line-height: 1.8em;
+}
+
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 0.84em;
+}
+
+h4.heading {
+  font-size: 1.640625em;
+  font-weight: 700;
+}
+
+h4 {
+  font-size: 1.3125em;
+}
+
+h4.heading .datetime {
+  padding: 5px;
+  font-size: 0.5376em;
+}
+
+.preface a:hover {
+  text-decoration: none;
+}
+
+#header {
+  font-size: 1.05em;
+}
+
+.news h4.heading {
+  margin: 0;
+}
+
+code,
+pre {
+  font-family: "Courier New", Courier, Monospace;
+  font-size: 1.05em;
+  padding: 1em 0.5em;
+}
+
+html,
+body,
+div,
+span,
+applet,
+object,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+.filters .expander {
+  font-size: 100%;
+}
+
+h1,
+h2 {
+  font-size: 2.05078125em;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.640625em;
+}
+
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+p.type,
+.meta dd,
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander {
+  word-spacing: 0.21em;
+}
+
+.blurb dl.stats,
+.actions li a,
+.actions li input,
+.actions li input[type=submit],
+input[type=submit],
+.actions li .current,
+.actions li label,
+#header .primary .menu a,
+#header .primary .menu .current,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=checkbox],
+input[type=file],
+input.number,
+p input,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea,
+p.type,
+.meta dd,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander {
+  letter-spacing: 0.02em;
+}
+
+#chapters,
+#chapters p,
+textarea,
+#footer li,
+.preface.group blockquote.userstuff,
+.preface.group blockquote.userstuff p,
+.userstuff p,
+.comment .userstuff,
+div#comments_placeholder,
+.blurb dl.stats,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  text-align: left;
+}
+
+#workskin {
+  text-align: left !important;
+}
+
+div#comments_placeholder,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  width: 70%;
+  max-width: 45em;
+}
+
+.comment .userstuff {
+  width: 95%;
+}
+
+.blurb .userstuff {
+  padding: 20px 0;
+}
+
+.userstuff p {
+  margin: 2em auto;
+}
+
+u,
+acronym[title],
+abbr[title] {
+  border-bottom: 2px solid #4675C0;
+  padding-bottom: 4px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+b,
+strong {
+  font-weight: 700;
+}
+
+i,
+em,
+cite {
+  font-style: normal;
+  font-weight: 700;
+}
+
+.userstuff blockquote {
+  border-inline-start: 2px solid #4675C0;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.dynamic form,
+.ui-draggable form,
+#header .primary,
+.group.listbox,
+fieldset fieldset.listbox,
+#main li.blurb,
+.wrapper,
+#dashboard .secondary,
+.secondary,
+form blockquote.userstuff,
+.thread .comment,
+.toggled form,
+.listbox .index,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+span.question,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+.delete a,
+span.delete,
+#header ul.primary,
+.ui-sortable li,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  box-shadow: none;
+}
+
+.announcement blockquote.userstuff,
+#footer,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.autocomplete a:hover,
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+input,
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  background-image: none;
+}
+
+.actions input,
+input[type=submit],
+textarea,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  -webkit-appearance: none;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.toggled form,
+.dynamic form,
+.ui-draggable form {
+  border: none;
+}
+
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+button,
+.current,
+.actions label {
+  border: none;
+}
+
+input {
+  width: 96%;
+  border: 1px solid;
+}
+
+.actions a:hover,
+a:hover,
+.actions input:hover,
+#dashboard a:hover,
+.actions a:focus,
+.actions input:focus,
+#dashboard a:focus,
+.actions a:active,
+.current,
+a.current,
+.current a:visited,
+#dashboard .current,
+#outer .current,
+#header .current,
+span.unread,
+.replied,
+span.claimed,
+dl.index dd,
+.own,
+.draft,
+.draft .unread,
+.child,
+.unwrangled,
+.unreviewed,
+.ui-sortable li:hover,
+#header .primary .menu .current {
+  border-color: initial;
+  box-shadow: none !important;
+}
+
+form .notice,
+form ul.notes,
+form.verbose legend,
+.verbose form legend,
+.actions a,
+.actions a:link,
+.action,
+.action:link,
+input[type=submit],
+button,
+.current,
+.actions label {
+  border-bottom: none;
+}
+
+.listbox .index,
+.dashboard .listbox .index,
+.splash .news li,
+form dt,
+.picture .header {
+  border: none;
+  border-bottom: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+.event .userstuff {
+  filter: none;
+}
+
+.autocomplete input,
+.autocomplete .dropdown ul li {
+  min-width: 10px;
+}
+
+fieldset.work.meta .fandom.required ul.autocomplete {
+  background: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+.listbox .index,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+.comment h4.byline,
+dl.index dd,
+form blockquote.userstuff,
+table,
+tr,
+th,
+td,
+thead,
+tfoot,
+.reading h4.viewed,
+li.relationships a,
+#bookmark_form_placement form,
+#collection-form form,
+.nomination dt {
+  background: transparent;
+}
+
+.secondary,
+dl.meta,
+li.post.group,
+.faq .example,
+.guideline .example,
+tr:hover,
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+li.blurb,
+li.comment,
+#bookmark_form_placement form,
+#collection-form form {
+  border: 2px solid;
+  border-radius: 5px;
+}
+
+th,
+thead,
+tbody tr {
+  border: 2px solid;
+}
+
+li.post.group {
+  padding: 10px;
+}
+
+.splash .news li:last-of-type {
+  border-bottom: 2px solid;
+  border-radius: 5px;
+}
+
+tr,
+th,
+td,
+thead,
+tfoot {
+  vertical-align: middle;
+}
+
+col.name {
+  background: transparent;
+}
+
+.bookmark .user,
+.filters dl,
+.filters dt,
+dl.index dd,
+div.comment,
+#modal,
+#dashboard.own,
+#dashboard ul,
+.autocomplete div.dropdown ul,
+.event .userstuff,
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover,
+.alert .userstuff {
+  border: none;
+}
+
+#dashboard.own,
+#dashboard ul,
+.splash .module h3,
+.comment div.icon,
+a,
+a:link,
+a:visited:hover {
+  border-top: none;
+  border-bottom: none;
+}
+
+span.symbol {
+  color: initial;
+  border: 1px solid;
+  vertical-align: middle;
+}
+
+.blurb .header img,
+#workskin h2.heading img {
+  vertical-align: baseline;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.icon {
+  height: 80px;
+  width: 80px;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url(/images/imageset.png) -10px -285px;
+}
+
+.skins .primary .icon {
+  background: url(/images/imageset.png) -10px -185px;
+}
+
+.comment h4.byline {
+  padding: 0.25em;
+}
+
+.abbreviated h4.byline {
+  padding-left: 0.25em;
+}
+
+.comment div.icon {
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.comment .icon .visitor {
+  background: url(/images/imageset.png) no-repeat -10px -85px;
+  display: block;
+}
+
+.comment .posted {
+  display: block;
+  float: none;
+}
+
+.fandom .group.listbox {
+  width: 100%;
+}
+
+form.inbox {
+  overflow-x: initial;
+}
+
+#dashboard {
+  border-color: transparent;
+}
+
+.LV_invalid,
+.qtip-content {
+  background: #A62637;
+  border: 2px solid #A62637;
+  color: #f7f7f9;
+  border-radius: 5px;
+  box-shadow: none;
+  z-index: 1;
+}
+
+.qtip-content {
+  border-radius: 0 5px 5px;
+}
+
+.LV_invalid:before {
+  border-color: #A62637 transparent;
+  border-width: 0 0.643em 0.643em;
+}
+
+.LV_invalid_field,
+input.LV_invalid_field:hover,
+input.LV_invalid_field:active,
+textarea.LV_invalid_field:hover,
+textarea.LV_invalid_field:active {
+  border-color: #A62637;
+}
+
+#bookmark-form,
+#collection-form {
+  margin-top: 20px;
+}
+
+div#comments_placeholder,
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img,
+#workskin,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff,
+.collection blockquote.userstuff {
+  margin: auto;
+}
+
+#outer.wrapper,
+#header {
+  line-height: normal;
+}
+
+#header .logo,
+#header .heading sup,
+#greeting p.icon {
+  display: none;
+}
+
+#header .heading {
+  margin-left: 2em;
+}
+
+#header h1 {
+  font-weight: 700;
+}
+
+#login,
+#greeting {
+  margin-top: 10px;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu {
+  width: 25em;
+}
+
+.news .wrapper,
+#main.system h2.heading,
+#main.system h3.heading,
+#header h2.collections,
+#header h2 {
+  text-align: center;
+}
+
+.userstuff img {
+  max-width: 90%;
+}
+
+#main.system h2.heading,
+#main.system h3.heading,
+.userstuff img {
+  display: block;
+}
+
+#header h2.collections,
+#header h2 {
+  border-top: none;
+}
+
+.home .header .userstuff,
+.home .header dl.stats,
+.home .header .type {
+  margin-left: initial;
+}
+
+a.tag,
+a.tag:visited,
+a.tag:link {
+  display: inline-block;
+  padding: 3px 7px;
+  margin: 4px 0px;
+  border: 2px solid #4675C0;
+  border-radius: 5px;
+}
+
+.commas li:after {
+  content: "";
+}
+
+h5.fandoms.heading {
+  color: transparent;
+}
+
+.favorite a.tag {
+  border: none;
+}
+
+.blurb dl.stats {
+  float: initial;
+}
+
+.meta ul li {
+  padding-left: 0;
+}
+
+#header .primary a {
+  color: #f7f7f9;
+}
+
+.blurb ul li,
+.blurb dd ul li,
+.meta dd ul li {
+  display: inline;
+  margin: 0;
+}
+
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited {
+  text-decoration: underline;
+}
+
+.filters fieldset {
+  padding: 0px;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  padding: 0px;
+  font-size: 1.05em;
+  background: none;
+}
+
+.filters .expander::before {
+  content: "➙";
+}
+
+.filters .expanded .expander::before {
+  content: "➘";
+}
+
+.filters input:checked + .indicator + span {
+  font-weight: inherit;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  width: 0.9em;
+  height: 0.9em;
+}
+
+input[type=radio] {
+  border-radius: 50%;
+}
+
+.filters [type=radio] + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #e4e4eb;
+  border: none;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  content: "";
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #4675C0;
+  border: none;
+}
+
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #e4e4eb;
+  border: none;
+}
+
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  content: "";
+  padding: 0px;
+  border-radius: 0px;
+  vertical-align: -0.125em;
+  background: none;
+  background-color: #4675C0;
+  border: none;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #A62637;
+}
+
+input[type=checkbox],
+input[type=radio],
+.actions input[type=checkbox],
+label.action input[type=checkbox] {
+  background-color: #e4e4eb;
+  border: 2px solid #4675C0;
+}
+
+input[type=checkbox],
+input[type=radio],
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked,
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover {
+  display: inline-block;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+input[type=checkbox]:checked,
+input[type=radio]:checked,
+.actions input[type=checkbox]:checked,
+label.action input[type=checkbox]:checked {
+  background-color: #4675C0;
+  border: none;
+}
+
+input[type=checkbox]:hover,
+.actions input[type=checkbox]:hover,
+.filters [type=checkbox]:hover + .indicator:before,
+.filters [type=radio]:hover + .indicator:before,
+.filters .exclude [type=checkbox]:hover + .indicator:before {
+  background-color: #85a1d1;
+  border: none;
+}
+
+.filters dt {
+  min-width: auto;
+}
+
+.filters {
+  font-size: 90%;
+}
+
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea {
+  border-top-color: #e4e4eb;
+  border-color: #e4e4eb;
+  background-color: #e4e4eb;
+  border-radius: 5px;
+}
+
+p input,
+input[type=checkbox] {
+  border-top-color: #e4e4eb;
+  border-color: #e4e4eb;
+  background-color: #e4e4eb;
+}
+
+.filters [type=radio] + .indicator:before,
+.filters [type=checkbox] + .indicator:before,
+.filters .exclude [type=checkbox] + .indicator:before {
+  background-color: #e4e4eb;
+}
+
+.filters .exclude [type=checkbox]:checked + .indicator:before {
+  background-color: #A62637;
+}
+
+.javascript {
+  background-color: #ededf2 !important;
+}
+
+.announcement input[type=submit],
+.announcement .action {
+  border: 1px solid #4675C0;
+}
+
+.ui-draggable form {
+  box-shadow: 0 0 3px #e4e4eb;
+}
+
+.filters .expander,
+.filters .expanded .expander {
+  border: 2px solid #4675C0;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+#header a,
+#header a:visited,
+#header .current,
+#header .primary .open a,
+#header .primary .dropdown:hover a,
+#header .primary .dropdown a:focus,
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2,
+.alert .userstuff,
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.userstuff h1,
+.userstuff h2,
+.userstuff h3,
+.userstuff h4,
+.userstuff h5,
+.userstuff h6,
+span.unreviewed.symbol,
+ul.notes li::marker,
+a.tag,
+a.tag:visited,
+a.tag:link,
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.listbox > .heading,
+.listbox .heading a:visited,
+form dd.required,
+.filters dt,
+.filters dd,
+.filters input[type=submit],
+#header .primary .menu a,
+#header .primary .menu .current,
+#outer .current,
+label,
+.autocomplete li.added,
+.post .meta dd ul li.added,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+.statistics .index li:nth-of-type(even),
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.ui-sortable li:hover,
+.ui-sortable li,
+form.search input[type=text],
+dd.autocomplete li.input,
+input[type=radio],
+select,
+input[type=file],
+input.number,
+p select,
+.heading select,
+li select,
+input:focus,
+select:focus,
+textarea:focus,
+input,
+textarea,
+p input,
+input[type=checkbox],
+.announcement input[type=submit],
+.announcement .action {
+  color: #373a3c;
+}
+
+body,
+#header,
+#outer.wrapper,
+#inner.wrapper,
+.secondary,
+#modal,
+.filters .expander,
+.announcement input[type=submit],
+.announcement .action {
+  background-color: #f7f7f9;
+  background: #f7f7f9;
+}
+
+.actions a,
+.actions a:link,
+.actions a:visited,
+.action,
+.action:link,
+.actions input,
+input[type=submit],
+button,
+.current,
+.actions label,
+.dropdown,
+.splash .favorite li:nth-of-type(odd) a,
+.statistics .index li:nth-of-type(even),
+input#site_search:focus,
+#header #search input:focus,
+.autocomplete div.dropdown ul,
+.toggled form,
+.dynamic form,
+.secondary,
+.ui-sortable li:hover,
+.ui-sortable li,
+#dashboard .current,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#header .actions a:hover,
+#header .actions a:focus,
+#header .dropdown:hover a,
+#header .open a,
+#header #search input,
+tr:hover,
+#outer .current {
+  background-color: #ededf2;
+  background: #ededf2;
+}
+
+a,
+a:link,
+a:visited,
+a.tag,
+a.tag:visited,
+a.tag:link,
+.listbox .index a:link,
+.listbox .index a:visited,
+.listbox .index a,
+#header .heading a,
+.splash .module h3,
+.blurb h4 a:link,
+.blurb h4 a,
+.blurb h4 a:visited,
+#dashboard a,
+#dashboard span,
+#header .user a:hover,
+#header .user a:focus,
+#header .user .current,
+li::marker,
+.draggable,
+.droppable {
+  color: #7ec5c7;
+}
+
+#footer,
+a:hover,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:hover,
+a:visited:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited,
+.listbox .index a:hover,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+.filters [type=radio]:checked + .indicator:before,
+.filters [type=checkbox]:checked + .indicator:before,
+.filters .exclude [type=checkbox]:checked + .indicator:before,
+.filters .expander,
+.filters .expanded .expander {
+  background-color: #734dbc;
+}
+
+#header .primary {
+  background: #4675C0;
+}
+
+#footer,
+a:hover,
+a.tag:hover,
+.listbox .heading a.tag:visited:hover,
+#dashboard a:hover,
+.actions a:hover,
+.actions input:hover,
+.actions a:focus,
+.actions input:focus,
+label.action:hover,
+.action:hover,
+.action:focus,
+.splash .favorite li:nth-of-type(odd) a:hover,
+.splash .favorite li:nth-of-type(odd) a:focus,
+.blurb h4 a:hover,
+a:visited:hover,
+input[type=submit]:hover,
+#header .dropdown .menu a:hover,
+#header .dropdown .menu a:focus,
+.event .userstuff,
+.event .userstuff a,
+.event .userstuff a:link,
+.event .userstuff a:visited,
+.listbox .index a:hover,
+.autocomplete .dropdown ul li:hover,
+li.selected,
+li.dropdown,
+.notice a,
+.notice a:link,
+.notice a:visited,
+.announcement a,
+.announcement a:link,
+.announcement a:visited,
+.filters .expander,
+.filters .expanded .expander {
+  color: #f7f7f9;
+}
+
+::-moz-selection,
+::selection,
+::-webkit-selection {
+  background-color: #4675C0;
+  color: #f7f7f9;
+}
+
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.error,
+.comment_error,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2,
+.alert .userstuff {
+  background-color: #8FC8EB;
+  background: #8FC8EB;
+}
+
+.required,
+.error,
+.alert.flash,
+.nominations .rejected,
+.alert .userstuff {
+  color: #A62637;
+}
+
+a.modal.help:hover {
+  background-color: transparent;
+}
+
+fieldset,
+form dl,
+fieldset dl dl,
+fieldset fieldset fieldset,
+fieldset fieldset dl dl,
+dd.hideme,
+form blockquote.userstuff,
+.listbox,
+fieldset fieldset.listbox,
+.own,
+.draft,
+.draft .wrapper,
+.unread,
+.child,
+.unwrangled,
+.unreviewed,
+form.verbose legend,
+.verbose form legend,
+.secondary,
+th,
+thead,
+tbody tr,
+.wrapper,
+li.blurb,
+fieldset,
+form dl,
+dl.meta,
+li.post.group,
+.splash .news li:last-of-type,
+li.comment,
+.faq .example,
+.guideline .example,
+#bookmark_form_placement form,
+#collection-form form {
+  border-color: #4675C0;
+}
+
+span.offered.requested {
+  color: #F2AA4C;
+}
+
+span.offered,
+.replied,
+.nominations .approved {
+  color: #75BD57;
+}
+
+span.requested,
+.nominations .rejected {
+  color: #A62637;
+}
+
+.thread .even {
+  background-color: #e4e4eb;
+}
+
+#outer .pagination .current {
+  color: #4675C0;
+  background: #f2f2f6;
+}
+
+#footer .heading,
+#footer a,
+#footer {
+  color: #f7f7f9;
+}
+
+li.comment {
+  background: #092c43 !important;
+  color: #fff;
+  border-color: #092c43;
+  border-radius: 26px;
+}
+
+div#footer {
+  background-image: url(https://i.imgur.com/Ej3DfqS.jpeg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+header#header {
+  background-image: url(https://i.imgur.com/Ej3DfqS.jpeg);
+  background-size: cover;
+}
+
+#header .primary {
+  background: #6abc4d;
+}
+
+div#inner {
+  background: #427BE1 !important;
+}
+
+div#outer {
+  background: #427BE1 !important;
+}
+
+div#main.preferences-index fieldset,
+li.user.pseud.picture.blurb.group,
+.user.home.profile dl.meta,
+div#main.users-change_password.dashboard.region form dl,
+div#main.users-change_email.dashboard.region form dl,
+div#main.users-change_username.dashboard.region form dl,
+div#main.users-edit.dashboard.region form dl,
+div#main.pseuds-edit.dashboard.region form dl,
+li.blurb,
+div#user-fandoms {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+form.filters fieldset {
+  background: #1f094370;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 20px;
+}
+
+ol.pagination.actions.pagy a,
+ol.pagination.actions a {
+  background: #1f094345;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+ul.menu.dropdown-menu a,
+ul.menu.dropdown-menu {
+  background: #1f0943db !important;
+  color: #fff !important;
+  border-color: transparent;
+  background-color: #1f094394 !important;
+}
+
+li.post.group,
+li.skins.own.picture.blurb.group {
+  background: #09234370;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 20px !important;
+}
+
+div#main.skins-edit fieldset,
+div#main.skins-new fieldset,
+div#main.works-new.region fieldset,
+div#main.collections-new.region fieldset,
+div#main.external_works-new.region fieldset {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+div#modal {
+  background: #1f0943d1;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+ul#chapter_index,
+li.download ul.expandable.secondary {
+  background: #76a9e9e0;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 18px !important;
+}
+
+div#dashboard.region ul.expandable.secondary {
+  background: #09234370 !important;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 20px !important;
+}
+
+dl.work.meta.group {
+  background: #09234370;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 20px !important;
+}
+
+div#workskin {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 20px !important;
+  margin-top: 34px;
+  margin-bottom: 34px;
+}
+
+dl.series.meta.group {
+  background: #0923439e;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 20px !important;
+}
+
+ul.work.navigation.actions a,
+ul.navigation.actions a,
+div#dashboard ul.navigation.actions a {
+  color: #fff !important;
+  background: none;
+}
+
+label {
+  color: #fff;
+}
+
+.notice,
+.comment_notice,
+ul.notes,
+.caution,
+.alert.flash,
+.required .autocomplete,
+.autocomplete .notice,
+#header h2.collections,
+#header h2,
+.alert .userstuff {
+  background: #76a9e9e0 !important;
+  color: #141414 !important;
+  border-color: transparent !important;
+  border-radius: 18px !important;
+}
+
+.error,
+.comment_error {
+  background: #141414ad !important;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 18px !important;
+}
+
+dl.subscription.index.group,
+ol.chapter.index.group {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+dl.subscription.index.group dt {
+  margin-left: 30px;
+  margin-top: 10px;
+}
+
+ol.chapter.index.group a {
+  margin-left: 26px;
+}
+
+ol.chapter.index.group {
+  padding-top: 3px;
+  margin-top: 8px;
+  padding-bottom: 3px;
+}
+
+ul.actions a {
+  background: none !important;
+  color: #fff !important;
+}
+
+fieldset.actions a,
+fieldset.actions input {
+  color: #fff;
+  background: none;
+}
+
+header#header h1.heading {
+  background-image: url(https://i.imgur.com/zvaqvCX.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+header#header h1.heading span {
+  visibility: hidden;
+}
+
+ul.work.navigation.actions li.subscribe input,
+ul.work.navigation.actions button,
+ul.actions button,
+input#kudo_submit {
+  background: #1f094370 !important;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 20px;
+}
+
+li.skins.own.picture.blurb.group input,
+form.filters input[type="submit"] {
+  background: #734dbc;
+  color: #fff !important;
+  border-radius: 14px;
+}
+
+span.current {
+  background: #734dbc9e !important;
+  color: #fff !important;
+  border-radius: 14px;
+}
+
+.pagination .current {
+  background: #734dbc !important;
+  color: #fff !important;
+  border-radius: 10px;
+}
+
+dl.subscription.index.group input {
+  background: #5a33a3;
+  color: #fff;
+  border-radius: 10px;
+}
+
+div.user.home ul.navigation.actions input,
+.user.pseud.home ul.navigation.actions input {
+  background: #6abc4d;
+  color: #fff;
+  border-radius: 10px;
+}
+
+li.comment label {
+  background: none;
+  color: #fff;
+}
+
+span.replied {
+  background: #6abc4d;
+  color: #fff;
+  border: none;
+  border-radius: 18px;
+}
+
+span.unread {
+  background: #4e4a579e;
+  border: none;
+  color: #fff;
+  font-family: National Park Regular, sans-serif;
+  border-radius: 16px;
+}
+
+.bookmark form,
+.dynamic {
+  background: #251c53 !important;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+.latest.messages.module ul.actions input,
+li.blurb ul.actions input {
+  background: #734dbc9e !important;
+  color: #fff !important;
+  border-radius: 14px;
+}
+
+div#footer {
+  border-top: none;
+}
+
+button.expander {
+  background: #c1fcac !important;
+  border-radius: 14px !important;
+  color: #0645ad !important;
+  border-color: #c1fcac !important;
+  font-weight: 500;
+}
+
+span#site_search_tooltip {
+  background: #09234370;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 16px !important;
+  font-weight: 600;
+}
+
+form.simple.search fieldset,
+fieldset dl {
+  border: none;
+}
+
+#header #search .button {
+  background: #c1fcac !important;
+  border-radius: 20px !important;
+  color: #0645ad !important;
+  font-weight: 500;
+}
+
+a.tag {
+  background: #5481b780 !important;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 18px !important;
+}
+
+li.relationships a.tag,
+dd.relationship.tags a.tag {
+  background: #734dbc9e !important;
+}
+
+h5.fandoms.heading a.tag {
+  background: #397ccd80 !important;
+}
+
+a.tag:hover,
+li.blurb a.tag:hover,
+dd.relationship.tags a.tag:hover {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+}
+
+h2.heading a.tag {
+  background: #c1fcac !important;
+  border-radius: 28px !important;
+  color: #0645ad !important;
+  border-color: #c1fcac !important;
+}
+
+div#user-bookmarks.bookmark.listbox.group {
+  border-color: #f0f8ff00;
+}
+
+div#bookmark-form p.submit.actions input {
+  background: none;
+  color: #fff;
+}
+
+div#bookmark-form p.submit.actions input:hover {
+  background: #734dbc;
+  color: #fff;
+  border-radius: 14px;
+}
+
+.user.home h3.heading {
+  color: #fff;
+}
+
+p.close.actions a,
+span.actions.cancel a {
+  background: none;
+  color: #fff;
+}
+
+p.close.actions a:hover,
+span.actions.cancel a:hover {
+  background: #734dbc;
+  color: #fff;
+  border-radius: 14px;
+}
+
+div#bookmark-form li.added.tag {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+  border-radius: 18px;
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+div#main.skins-edit.region li.added.tag,
+div#main.skins-new.region li.added.tag,
+dd.listbox.group h5.heading,
+form.filters h4.heading,
+form.filters dt.options,
+form.filters dt {
+  color: #fff;
+}
+
+span.symbol.question {
+  color: #daf1ff;
+  background: #6abc4d;
+  border-color: #6abc4d;
+}
+
+.filters .group dt.bookmarker {
+  border-top: none !important;
+}
+
+.splash h3.heading,
+.splash span a,
+.splash p.note,
+fieldset dt,
+div#main.works-new.region ul.actions p.footnote,
+p.character_counter,
+div#modal h4 {
+  color: #fff;
+}
+
+ul.tags.cloud.index.group a.tag {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+  font-weight: 500;
+  border-radius: 28px !important;
+}
+
+.favorite.module a.tag:hover {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+}
+
+.favorite.module a.tag {
+  background: #0923434a !important;
+}
+
+div#main.works-new.region ul.actions input,
+div#main.external_works-new.region p.submit.actions {
+  background: none !important;
+  color: #fff;
+}
+
+.required .autocomplete,
+div#main.external_works-new.region form {
+  background: none !important;
+}
+
+#footer a,
+#footer .heading {
+  text-shadow: 1px 1px 3px #181b27;
+}
+
+div#main.works-search.region form,
+div#main.people-search.region form,
+div#main.bookmarks-search.region form,
+div#main.tags-search.region form {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+#modal .content {
+  border-bottom: none !important;
+}
+
+div#modal dl dl,
+dd.listbox.group {
+  background: #1e1565ba;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+legend {
+  background: #8acf71 !important;
+  color: #0645ad !important;
+  font-weight: 600;
+  border-radius: 24px !important;
+  border-color: transparent !important;
+}
+
+p.kudos,
+span.disabled {
+  color: #fff;
+}
+
+div#add_comment fieldset {
+  background: #1f094394 !important;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 26px;
+}
+
+.comment fieldset {
+  background: #274966 !important;
+  color: #fff !important;
+  border-color: transparent !important;
+  border-radius: 26px;
+}
+
+.comment fieldset p.submit.actions a,
+.comment fieldset p.submit.actions input {
+  background: none;
+  color: #fff;
+}
+
+.comment fieldset p.submit.actions a:hover,
+.comment fieldset p.submit.actions input:hover {
+  background: #734dbc;
+  color: #fff !important;
+  border-radius: 14px;
+}
+
+div#reply-to-comment form {
+  background: #27496680;
+  box-shadow: none;
+  border-radius: 26px;
+}
+
+div#share textarea#embed_code {
+  background: #1e1565ba;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+p.kudos {
+  background: url(https://i.imgur.com/tFTRM12.png) !important;
+  background-position-x: 17px !important;
+  background-position-y: 16px !important;
+  background-repeat: no-repeat !important;
+}
+
+
+div#admin-banner blockquote.userstuff {
+  background: #1f0943ad;
+  border-radius: 26px;
+}
+
+div#admin-banner a {
+  color: #7ec5c7 !important;
+  background: none !important;
+}
+
+div#admin-banner a:hover {
+  font-weight: bold;
+}
+
+div#admin-banner button.showme.action {
+  background: #ff7a3ad9 !important;
+  border-color: #ff7a3ad9 !important;
+}
+
+div#admin-banner button.showme.action:hover {
+  background: #6abc4d !important;
+  color: #fff !important;
+  border-color: #6abc4d !important;
+}
+
+div#main.profile-edit form dl {
+  background: #1f0943ad;
+  border-radius: 26px;
+  border-color: transparent !important;
+}
+
+div#main.profile-edit form dl dd.description p {
+  color: #7ec5c7 !important;
+}
+
+ul.navigation.actions a:hover,
+ul.actions a:hover {
+  font-weight: 600;
+}
+
+li.actions a.hidden.showme,
+fieldset p.submit input {
+  border-radius: 14px;
+  background: none !important;
+}
+
+ul.navigation.actions input {
+  border-radius: 14px;
+}
+
+fieldset p.submit input {
+  color: #fff !important;
+}
+
+li.actions a.hidden.showme:hover,
+fieldset p.submit input:hover,
+dl.subscription.index.group input:hover {
+  background: #734dbc !important;
+}
+
+.required {
+  color: #ff93a2 !important;
+}
+
+form.filters input[type="submit"]:hover {
+  background: #7ec5c7;
+  color: #523885 !important;
+  font-weight: 500;
+}
+
+li.blurb ul.actions input[type="submit"]:hover {
+  background: #9553c7 !important;
+  color: #fff;
+}
+
+label.action {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1;
+  background: #3f7e1e;
+  color: aliceblue;
+  padding-bottom: 6px;
+}
+
+label.action:hover {
+  background: #734dbc !important;
+}
+
+div.user h2.heading,
+div#main.profile-show h2.heading {
+  color: #7ed1d3;
+}
+
+div#main.system.docs p,
+#main.system.docs h2.heading,
+div#main.system.docs li {
+  color: #fff;
+}
+
+div#main.system.docs .admin.userstuff,
+div#main.system.docs.guideline .userstuff,
+div#main.system.docs.support.faq .userstuff,
+div#main.system.docs.about .userstuff {
+  background: #172d0c6b;
+  border-radius: 20px;
+  border: #3f7e1e solid 6px;
+  margin-top: 10px;
+}
+
+div#main.system.docs .admin.userstuff p,
+div#main.system.docs.guideline .userstuff p,
+div#main.system.docs.support.faq .userstuff p,
+div#main.system.docs.about .userstuff p {
+  padding: 10px;
+}
+
+ul.media.fandom.index.group .group .group {
+  background: #33047fa3;
+  border-radius: 20px;
+  border: #3f7e1e solid 6px;
+  color: #8b83f1;
+}
+
+ul.media.fandom.index.group .group {
+  background: #3f7e1e;
+  border-radius: 21px;
+}
+
+div#main.media-index h3 a,
+div#main.media-index h2,
+div#main.fandoms-index p,
+#main.system.docs h3,
+#main.system.docs h4,
+#main.system.docs dt,
+#main.system.docs dd,
+div#main.works-index p,
+div#main.works-index h2,
+div#main.bookmarks-index h2,
+div#main.bookmarks-index p,
+div#main.collections-new h2,
+div#main.collections-new h3,
+.userstuff h4 {
+  color: #fff;
+}
+
+a.action.modal-closer {
+  background: #734dbc9e !important;
+  color: #fff !important;
+}
+
+a.action.modal-closer:hover {
+  background: #9553c7 !important;
+}
+
+span.series .divider {
+  color: #957FB8;
+}
+
+div#bookmark-form form {
+  border-radius: 20px !important;
+}
+
+.actions li label {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1;
+  background: #3f7e1e;
+  color: aliceblue;
+}
+
+ol.alphabet.fandom.index.group .group {
+  background: #3f7e1e;
+  border: #3f7e1e 4px solid;
+}
+
+ol.alphabet.fandom.index.group .group {
+  background: #33047f57;
+  border-radius: 20px;
+}
+
+ol.alphabet.fandom.index.group .group .group {
+  border: none;
+  background: #33047fa3;
+  border-radius: 11px;
+}
+
+div#main.fandoms-index h3.heading,
+div#main.tags-index p,
+div#main.tags-index h2,
+fieldset.tagset h4.heading,
+.tag.tagset h2 {
+  color: #fff;
+}
+
+div#main li.search input[type=submit] {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1;
+  background: #3f7e1e;
+  color: aliceblue;
+}
+
+legend {
+  box-shadow: 2px 3px 1px #bccdd1 !important;
+}
+
+legend.required {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1 !important;
+  background: #3f7e1e !important;
+  color: aliceblue;
+}
+
+#header .dropdown:has(.menu :hover)>a {
+  font-weight: 600;
+}
+
+div#user-works,
+div#user-series {
+  border-color: #f0f8ff00;
+}
+
+.bio.module .userstuff,
+.tagset.home dl.meta,
+.news.module.group {
+  background: #172d0c6b;
+  border-radius: 20px;
+  border: #3f7e1e solid 6px;
+  color: #fff;
+}
+
+.bio.module .userstuff p {
+  padding: 12px;
+}
+
+.news.module.group {
+  background: #172d0c6b;
+  border-radius: 18px;
+  border: #3f7e1e solid 6px;
+  color: #fff;
+}
+
+.tag.tagset fieldset {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 19px;
+}
+
+div#main.system.docs.support.faq ul.showme.hidden.actions a {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1;
+  background: #3f7e1e !important;
+  color: aliceblue;
+  font-family: National Park, sans-serif;
+}
+
+div#main.system.docs.support.faq ul.showme.hidden.actions a:hover,
+div#main li.search input[type=submit]:hover {
+  box-shadow: none;
+}
+
+div#main.works-search.region fieldset {
+  border: none;
+  background: #1f0943ad;
+  border-radius: 26px;
+}
+
+div#main.works-search.region form {
+  background: none !important;
+}
+
+div#main.people-search.region fieldset,
+div#main.bookmarks-search.region fieldset,
+div#main.tags-search.region fieldset {
+  border: none;
+}
+
+.tag.tagset form.simple.search fieldset {
+  background: none;
+}
+
+ol.alphabet.fandom.index.group li {
+  color: #7ed1d3;
+}
+
+kbd,
+tt,
+code,
+var,
+pre,
+samp {
+  font-family: miracode, monospace;
+  color: #7ed1d3;
+  text-shadow: 1px 1px 2px #181b27;
+}
+
+ol.pagination.actions.pagy a:hover,
+ol.pagination.actions a:hover {
+  box-shadow: 2px 3px 1px #bccdd1 !important;
+  background: #3f7e1e !important;
+  color: aliceblue;
+}
+
+li.comment label {
+  background: none !important;
+  color: #fff;
+  box-shadow: none !important;
+}
+
+#header #search .button:hover {
+  box-shadow: 2px 2px 1px #d4e8ed !important;
+  background: #3f7e1e !important;
+  color: aliceblue !important;
+}
+
+ul#alphabet.alphabet.actions a:hover {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1 !important;
+  background: #3f7e1e !important;
+  color: aliceblue;
+}
+
+u,
+acronym[title],
+abbr[title] {
+  border-bottom: 2px solid #8b76fb;
+}
+
+nav#dashboard.admin.region a:hover {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #cddde1 !important;
+  background: #3f7e1e !important;
+  color: aliceblue;
+}
+
+header#header h1.heading {
+  background-image: url(https://i.imgur.com/zvaqvCX.png) !important;
+  background-size: contain !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
+}
+
+div#footer {
+  background-image: url(https://i.imgur.com/XhnMMBj.jpeg) !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-position-y: top !important;
+}
+
+.index .skins .icon {
+  background: none;
+  border-radius: 10px;
+}
+
+.skins .primary .icon {
+  background: none;
+}
+
+img.icon {
+  border-radius: 10px;
+}
+
+.caution.notice {
+  background: #925917c7 !important;
+  color: #fff !important;
+}
+
+.caution.notice a {
+  color: #d5838e !important;
+}
+
+.caution.notice a:hover {
+  font-weight: 600;
+  background: none;
+}
+
+p.required.notice {
+  background: #925917c7 !important;
+}
+
+a.advanced_skin_close.action.hidden,
+a.advanced_skin_open.action.hidden {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #d6e7eb !important;
+  background: #3f7e1e !important;
+  color: aliceblue;
+}
+
+a.advanced_skin_close.action.hidden:hover,
+a.advanced_skin_open.action.hidden:hover {
+  box-shadow: none;
+}
+
+input[type=checkbox],
+label.action input[type=checkbox] {
+  border-color: transparent;
+}
+
+div#main.skins-index p.notes,
+div#main.gifts-index h2,
+div#main.related_works-index h2,
+div#main.challenge_claims-index h2,
+div#main.challenge_assignments-index h2,
+div#main.challenge_assignments-index p,
+div#main.challenge_signups-index h2,
+div#main.stats-index p,
+div#main.works-drafts h2,
+div#main.series-index h2,
+div#main.collections-index h2,
+div.skins.home blockquote.userstuff,
+div.skins.home dl.stats,
+div#main.challenge_claims-index p.notes,
+div#main.invitations-index p,
+div#main.external_works-new.region p {
+  color: #fff;
+}
+
+div#main.invitations-index dl {
+  border: none;
+  background: #1f0943ad;
+  border-radius: 18px;
+}
+
+ol.alphabet.fandom.index.group span.action.top {
+  border-radius: 10px;
+  box-shadow: 2px 3px 1px #d6e7eb !important;
+  background: #3f7e1e !important;
+  color: aliceblue !important;
+}
+
+ol.alphabet.fandom.index.group span.action.top:hover {
+  box-shadow: none !important;
+}
+
+span.action.top a {
+  color: #fff;
+}
+
+span.action.top a:hover {
+  background: none;
+}
+
+div#main.users-index form.single.simple.post span.submit.actions input {
+  border-radius: 14px;
+  box-shadow: 2px 3px 1px #bccdd1;
+  background: #3f7e1e;
+  color: aliceblue;
+}
+
+div#main.users-index form.single.simple.post span.submit.actions input:hover {
+  box-shadow: none !important;
+}
+
+div#main.users-index form.single.simple.post fieldset {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+div#collection-works,
+div#collection-bookmarks {
+  border-color: #f0f8ff00;
+}
+
+p.type,
+div#collection-works h3,
+.collection.home.profile h3 {
+  color: #fff;
+}
+
+form#media-filter fieldset {
+  border: none;
+}
+
+form#media-filter input {
+  background: #c1fcac !important;
+  border-radius: 20px !important;
+  color: #0645ad !important;
+  font-weight: 500;
+}
+
+form#media-filter input:hover {
+  box-shadow: 2px 2px 1px #d4e8ed !important;
+  background: #3f7e1e !important;
+  color: aliceblue !important;
+}
+
+div#collection-page h2 {
+  color: #7ed1d3;
+}
+
+.collection.home.profile dl.meta.group {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+ul.actions button:hover {
+  box-shadow: none !important;
+  background: #734dbc !important;
+  border: none;
+}
+
+div#collection-page .primary.header.module blockquote.userstuff,
+.collection.home.profile .primary.header.module blockquote.userstuff {
+  background: #172d0c6b;
+  border-radius: 20px;
+  border: #3f7e1e solid 6px;
+  color: #fff;
+}
+
+div#collection-page .primary.header.module blockquote.userstuff p,
+.collection.home.profile .primary.header.module blockquote.userstuff p {
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+div#main.skins-edit textarea {
+  background: #1e1565ba;
+  color: #fff;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+div#main.tag_set_nominations-new.region fieldset {
+  background: #1f0943ad;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+blockquote.userstuff.summary h1,
+.userstuff.module h3,
+.userstuff.module u {
+  color: #fff;
+}
+
+.blurb ul.required-tags li span,
+.bookmark .status span:not(.status .private),
+#symbols-key dl img,
+#bookmark-symbols-key img {
+  border-radius: 0.25em;
+}
+
+ul.work.navigation.actions button:hover {
+  box-shadow: none !important;
+  background: #734dbc !important;
+}
+
+input[value="Unsubscribe"]:hover,
+input[value="Subscribe"]:hover,
+form#new_subscription input:hover {
+  background: #6abc4d !important;
+}
+
+p.submit.actions a,
+ul.media.fandom.index.group p.actions a,
+div#main.invitations-index p p.submit.actions input,
+div#main.pseuds-edit dd.submit.actions input,
+dd.submit.actions input,
+.skins.home input[type="submit"],
+#modal .footer .action.modal-closer {
+  border-radius: 14px;
+}
+
+span.series .position + .divider:after,
+span.series .previous + .divider:before {
+  content: " 🌸 " !important;
+}
+
+.chapter .preface,
+hr {
+  border-color: #6061a9;
+}
+
+.userstuff h3 {
+  color: #929aff;
+}
+
+.comment .heading select,
+select#bookmark_pseud_id {
+  border-radius: 10px;
+}
+
+div.tagset.home ol.tags.index.group {
+  background: #1f0943b5;
+  border-radius: 20px;
+  border: #3f7e1e solid 4px;
+  color: #fff;
+}
+
+div.tagset.home li.media.listbox.group {
+  background: #3f7e1e;
+  border-radius: 20px;
+}
+
+div.tagset.home li.fandom.listbox.group,
+div.tagset.home li.cast.listbox.group {
+  box-shadow: 2px 2px 1px #d4e8ed !important;
+  background: #3f7e1e !important;
+  color: aliceblue !important;
+  border: none;
+  border-radius: 14px;
+}
+
+form.filters li.added.tag {
+  color: #52d7ba;
+}
+
+div.tagset.home h3,
+div.tagset.home h4 {
+  color: #fff;
+}
+
+div.tagset.home button {
+  background: gold;
+  border: none;
+  border-radius: 20px;
+  color: #3f7e1e !important;
+  font-weight: 500;
+}
+
+div.tagset.home button:hover {
+  box-shadow: 2px 2px 1px #d4e8ed !important;
+  font-weight: 700;
+}
+
+#header ul.user.navigation.actions a.dropdown-toggle:hover {
+  background: #734dbc9e !important;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+#header ul.user.navigation.actions .dropdown:has(.menu :hover)>a.dropdown-toggle {
+  background: #734dbc9e !important;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
+
+ul#chapter_index.expandable.secondary input:hover,
+li.download ul.expandable.secondary a:hover {
+  background: #734dbc !important;
+  color: #fff;
+  border-radius: 14px;
+}
+
+div#footer:after {
+  content: "proship with love ♥";
+  color: #fff;
+  font-family: National Park, "Trebuchet MS", Calibri, sans-serif;
+  text-shadow: 1px 1px 3px #181b27;
+}
+
+th {
+  background: #3f7e1e;
+  border: none;
+  color: #fff;
+}
+
+table tr {
+  border-color: #3f7e1e !important;
+}
+
+tr {
+  background: #1f094370;
+  color: #fff !important;
+}
+
+tr:hover {
+  background: #3f7e1e;
+  color: #fff !important;
+}
+
+#footer a,
+#footer button {
+  background: #1f0943a1 !important;
+  padding: 2px;
+  border-radius: 3px;
+}
+
+#footer a:hover,
+#footer button:hover {
+  color: #7ec5c7 !important;
+  background: #34254d !important;
+}
+
+ul.notes {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+}
+
+div#main.external_works-new.region p.submit.actions a,
+div#main.profile-edit form dd.submit.actions input,
+div#main.pseuds-edit dd.submit.actions input,
+div#main.users-change_password.dashboard.region d.submit.actions input,
+div#main.users-change_email.dashboard.region d.submit.actions input,
+div#main.users-change_username.dashboard.region d.submit.actions input {
+  background: none;
+  color: #fff;
+}
+
+div#main.external_works-new.region p.submit.actions a:hover,
+div#main.profile-edit form dd.submit.actions input:hover,
+div#main.pseuds-edit dd.submit.actions input:hover,
+div#main.users-change_password.dashboard.region dd.submit.actions input:hover,
+div#main.users-change_email.dashboard.region dd.submit.actions input:hover,
+div#main.users-change_username.dashboard.region dd.submit.actions input:hover {
+  background: #734dbc;
+}
+
+div#main.works-index form#new_favorite_tag input {
+  background: #6abc4d;
+  color: #fff;
+}
+
+div#main.works-index .navigation.actions.module ul.user.navigation.actions form input:hover,
+div#main.works-new.region form#work-form ul.actions input:hover {
+  background: #734dbc !important;
+}
+
+div#main.works-new.region form#work-form ul.actions input {
+  border-radius: 14px;
+}
+
+.skins.home .parents.module {
+  background: #3f7e1e;
+  border-radius: 21px;
+  color: #fff;
+}
+
+.skins.home .parents.module ul.index.group {
+  background: #33047fa3;
+  border-radius: 12px;
+  margin-left: 7px;
+  margin-right: 7px;
+}
+
+.skins.home .parents.module ul.index.group a,
+.skins.home .parents.module h3.heading {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+div#main.collection_items-new.region div#collection-form dl {
+  background: #33047fa3;
+  border-radius: 20px;
+}
+
+div#main.collection_items-new.region div#collection-form {
+  background: #3f7e1e;
+  border-radius: 20px;
+  color: #fff;
+}
+
+div#main.collection_items-new.region #collection-form form {
+  border: none;
+}
+
+div#main.collection_items-new.region div#collection-form dl {
+  border-color: #3f7e1e;
+  border-width: 6px;
+}
+
+div#main.collection_items-new.region div#collection-form h3.heading {
+  margin-left: 12px;
+  font-weight: 500;
+}
+
+div#main.collection_items-new.region dd.submit.actions a {
+  color: #fff;
+  background: none;
+  border-radius: 14px;
+}
+
+div#main.collection_items-new.region dd.submit.actions a:hover {
+  font-weight: 600;
+}
+
+div#main.collection_items-new.region dd.submit.actions input {
+  background: #734dbc9e !important;
+  color: #fff;
+}
+
+div#main.collection_items-new.region dd.submit.actions input:hover {
+  background: #9553c7 !important;
+}
+
+div#main.skins-edit ul.navigation.actions input,
+div#main.skins-new ul.navigation.actions input,
+div#main.skins-index ul.navigation.actions input,
+div#main.invitations-index.dashboard.region p.submit.actions input,
+.news.admin.home .primary.header.module ul.navigation.actions input,
+div#main.system.docs.support.faq.index ul.navigation.actions input,
+div#main.media-index.region ul.media.fandom.index.group p.actions a,
+.skins.home input[type="submit"] {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+  border-radius: 14px;
+}
+
+div#main.skins-edit ul.navigation.actions input:hover,
+div#main.skins-new ul.navigation.actions input:hover,
+div#main.skins-index ul.navigation.actions input:hover,
+div#main.invitations-index.dashboard.region p.submit.actions input:hover,
+.news.admin.home .primary.header.module ul.navigation.actions input:hover,
+div#main.system.docs.support.faq.index ul.navigation.actions input:hover,
+div#main.media-index.region ul.media.fandom.index.group p.actions a:hover,
+.skins.home input[type="submit"]:hover {
+  background: gold !important;
+  color: #3f7e1e !important;
+  font-weight: 500;
+}
+
+div#main.users-change_password.dashboard.region dd.submit.actions input,
+div#main.users-change_email.dashboard.region dd.submit.actions input,
+div#main.users-change_username.dashboard.region dd.submit.actions input {
+  background: #734dbc !important;
+  color: #fff !important;
+}
+
+div#main.users-change_password.dashboard.region dd.submit.actions input:hover,
+div#main.users-change_email.dashboard.region dd.submit.actions input:hover,
+div#main.users-change_username.dashboard.region dd.submit.actions input:hover {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+  font-weight: 600;
+}
+
+p.narrow-shown.hidden.actions a#go_to_filters:hover,
+.user.home div#user-fandoms p.actions a:hover,
+.user.pseud.home div#user-fandoms p.actions a:hover {
+  background: gold !important;
+  color: #3f7e1e !important;
+  box-shadow: none !important;
+  font-weight: 600;
+}
+
+p.narrow-shown.hidden.actions a#go_to_filters,
+.user.home div#user-fandoms p.actions a,
+.user.pseud.home div#user-fandoms p.actions a {
+  border-radius: 14px;
+  box-shadow: 2px 2px 1px #d4e8ed !important;
+  background: #3f7e1e !important;
+  color: aliceblue !important;
+}
+
+.filters [type=radio]:checked + .indicator:before {
+  background-color: #4675C0;
+}
+
+div#main.works-index.filtered .navigation.actions.module .actions form input {
+  background: #4e4a579e;
+  color: #fff;
+}
+
+form#inbox-form fieldset.actions input,
+form#inbox-form fieldset.actions a {
+  border-radius: 16px;
+}
+
+form#inbox-form fieldset.actions input:hover,
+form#inbox-form fieldset.actions a:hover {
+  background: #734dbc9e !important;
+}
+
+div.tag.home.profile .work.listbox.group {
+  background: #09104366;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+div.tag.home.profile .parent.fandom.listbox.group {
+  background: #3f7e1e;
+  border-color: #3f7e1e;
+  border-radius: 18px;
+  border-width: 5px;
+}
+
+div.tag.home.profile .parent.fandom.listbox.group ul.tags.commas.index.group {
+  background: #15094387;
+  border-radius: 14px;
+}
+
+div.tag.home.profile .work.listbox.group h3,
+div.tag.home.profile .parent.fandom.listbox.group h3,
+div#main.tags-show.region .tag.home.profile h2,
+div#main.tags-show.region .tag.home.profile p,
+div#main.tags-show.region .tag.home.profile h3 {
+  color: #fff;
+}
+
+::selection {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+}
+
+.user.pseud.home .primary.header.module input:hover,
+.user.home .primary.header.module input:hover {
+  box-shadow: 2px 2px 1px #d4e8ed !important;
+  background: #3f7e1e !important;
+  color: gold !important;
+}
+
+dd.rating.tags a.tag[href*="Teen"]:not([href*="Dark"]):hover,
+dd.rating.tags a.tag[href*="Explicit"]:not([href*="Dark"]):hover,
+dd.rating.tags a.tag[href*="General"]:not([href*="Dark"]):hover,
+dd.rating.tags a.tag[href*="General"]:not([href*="Dark"]):hover,
+dd.category.tags a.tag[href*="Gen"]:not([href*="Dark"]):hover,
+dd.category.tags a.tag[href*="Multi"]:not([href*="Dark"]):hover,
+dd.category.tags a.tag[href*="M*s*M"]:not([href*="Dark"]):hover,
+dd.category.tags a.tag[href*="F*s*M"]:not([href*="Dark"]):hover,
+dd.category.tags a.tag[href*="F*s*M"]:not([href*="Dark"]):hover {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+}
+
+dd.rating.tags a.tag[href*="Teen"]:not([href*="Dark"]) {
+  background: #dca561bd !important;
+}
+
+dd.rating.tags a.tag[href*="General"]:not([href*="Dark"]) {
+  background: #98bb6cb5 !important;
+}
+
+dd.rating.tags a.tag[href*="Mature"]:not([href*="Dark"]) {
+  background: #d7804bc2 !important;
+}
+
+dd.rating.tags a.tag[href*="Explicit"]:not([href*="Dark"]) {
+  background: #ff5d62b5 !important;
+}
+
+dd.category.tags a.tag[href*="Gen"]:not([href*="Dark"]) {
+  background: #6A9589 !important;
+}
+
+dd.category.tags a.tag[href*="Multi"]:not([href*="Dark"]) {
+  background-color: #2D4F67 !important;
+}
+
+dd.category.tags a.tag[href*="M*s*M"]:not([href*="Dark"]) {
+  background-color: #579bef !important;
+}
+
+dd.category.tags a.tag[href*="F*s*M"]:not([href*="Dark"]) {
+  background-color: #957FB8 !important;
+}
+
+dd.category.tags a.tag[href*="F*s*M"]:not([href*="Dark"]) {
+  background-color: #D27E99 !important;
+}
+
+div#main.series-show ul.navigation.actions input {
+  background: #c1fcac;
+  color: #0645ad;
+}
+
+div#main.series-show ul.navigation.actions input:hover {
+  color: #fff;
+}
+
+div#main.tags-show.region .tag.home.profile h2:before {
+  content: "#";
+}
+
+#header nav#greeting a {
+  text-shadow: 1px 1px 3px #181b27;
+}
+
+div.skins.home .css.module pre {
+  background: #1e1565ba;
+  border-radius: 16px;
+}
+
+div#kudos a {
+  text-shadow: 1px 2px 2px #050608;
+}
+
+div#main.skins-new textarea {
+  background: #1e1565ba;
+  color: #fff;
+  border-color: transparent;
+  border-radius: 10px;
+}
+
+ul.navigation.actions a.rss {
+  background: #e59f48e6 !important;
+  border-radius: 14px;
+}
+
+ul.navigation.actions a.rss:hover {
+  background: gold !important;
+  color: #3f7e1e !important;
+}
+
+.news.module.group hr {
+  border-color: #929aff;
+}
+
+div#main.works-search.region h2 {
+  color: #fff;
+}
+
+div#footer:after {
+  background: #3f7e1e !important;
+  border-top-right-radius: 6px;
+}
+
+div.tag.home.profile .parent.listbox.group {
+  background: #3f7e1e;
+  border-color: #3f7e1e;
+  border-radius: 18px;
+  border-width: 5px;
+}
+
+div.tag.home.profile .parent.listbox.group ul.tags.commas.index.group {
+  background: #15094387;
+  border-radius: 14px;
+}
+
+div.tag.home.profile .collection.listbox.group,
+div.tag.home.profile .bookmark.listbox.group {
+  background: #09104366;
+  color: #fff !important;
+  border-color: transparent;
+  border-radius: 26px;
+}
+
+div#main.collections-list_challenges.region h2,
+div#main.collections-list_ge_challenges.region h2,
+div#main.collections-list_pm_challenges.region h2 {
+  color: #fff;
+}
+
+.userstuff h2 {
+  color: #fff;
+}
+
+.userstuff code.code-multiline, .userstuff code.code-inline{
+    background: #1f0943ad;
+    border-radius: 16px;
+}
+
+#workskin u {
+    border-bottom: 2px solid #8973e1;
+}

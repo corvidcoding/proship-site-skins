@@ -1,0 +1,17 @@
+Installation Guide
+
+Fonts
+National Park
+https://fonts.google.com/specimen/National+Park
+
+Miracode (Optional/This is just a font for code)
+https://github.com/IdreesInc/Miracode
+
+Additional Required Skins
+(add in parent group, add them in the order below)
+
+Dyslexic Friendly Mobile Version
+Follow Instructions here:
+https://archiveofourown.org/works/30918077/chapters/76349072
+
+Katamari Icons (Included in the Folder)
