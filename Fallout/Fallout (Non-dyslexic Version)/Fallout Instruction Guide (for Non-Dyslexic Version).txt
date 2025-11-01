@@ -1,0 +1,21 @@
+Installation Guide For (Non-Dyslexic Version: This means AO3 default sizing and font size)
+
+Fonts
+Monofonto  (Note: Personal Use Only Font)
+https://www.dafont.com/monofonto.font
+
+For the Fallout London Skin (Angel White)
+Farringdon
+https://fontesk.com/farringdon-typeface/
+
+
+Additional Required Skins (add them to Parent)
+Fallout Non-dyslexic Mobile Skin
+
+Instructions for Mobile Skin
+1. Copy the code to a new skin
+
+2. Under Advanced, Media: 
+check the box that says "only screen and (max-width: 42em)"
+
+3. Go back to the Fallout Skin of your choosing and add the mobile skin under Parent.

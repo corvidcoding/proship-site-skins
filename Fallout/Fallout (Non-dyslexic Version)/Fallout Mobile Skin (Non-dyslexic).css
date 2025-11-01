@@ -1,0 +1,232 @@
+#footer .heading,
+.comment h4.byline,
+.home .header .userstuff,
+.home .header dl.stats,
+.home .header .type,
+.blurb dl.tags dd,
+dl.meta dd,
+h4.heading {
+  overflow-wrap: break-word;
+}
+
+h2,
+h2.heading {
+  font-weight: 600;
+}
+
+h5.fandoms.heading,
+.news h4.heading,
+#footer h4.heading,
+.comment h4.heading {
+  margin: 0px !important;
+}
+
+.user h2.heading,
+.admin h2.heading,
+.collection h2.heading {
+  margin: 10px auto;
+  text-align: center;
+}
+
+#header .user .open a:focus {
+  color: #4675C0;
+}
+
+#header .primary {
+  padding-bottom: 10px;
+}
+
+#header li {
+  display: inline-block;
+}
+
+#header .heading {
+  margin-left: auto !important;
+  margin-right: auto;
+  display: block;
+  float: none;
+  padding: 0;
+  text-align: center;
+}
+
+#login,
+#greeting {
+  margin-right: auto;
+  margin-left: auto;
+  float: none;
+  margin-top: 0px !important;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu {
+  width: 100% !important;
+  left: 0 !important;
+  right: 0 !important;
+  position: fixed;
+}
+
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu,
+#header .menu,
+#small_login,
+#header .dropdown:hover .current + .menu {
+  width: auto;
+}
+
+#header .primary .menu a {
+  padding: 0.429em 0.75em;
+}
+
+#dashboard,
+#dashboard.own {
+  border-bottom: 0px;
+  border-top: 0px;
+  border: 0px;
+}
+
+#dashboard ul {
+  display: inline-block;
+}
+
+#workskin,
+.collection blockquote.userstuff {
+  width: 100% !important;
+}
+
+p.kudos {
+  background: none;
+  padding: 0;
+  min-height: 0;
+  word-break: break-word;
+}
+
+p.kudos::before {
+  content: "Kudos:";
+}
+
+div.preface,
+.preface.group blockquote.userstuff {
+  margin: 0;
+}
+
+.userstuff ul {
+  padding: 0;
+}
+
+.userstuff li,
+.userstuff ol ul li {
+  margin-inline-start: 1em;
+}
+
+.home .header .userstuff,
+.home .header dl.stats,
+.home .header .type,
+.blurb dl.tags dd,
+dl.meta dd {
+  margin-left: auto;
+}
+
+.chapter .secondary,
+.download .secondary {
+  top: initial;
+  right: 0;
+  margin: 10px;
+}
+
+.blurb .datetime {
+  position: initial;
+}
+
+.blurb h5.fandoms.heading {
+  padding-top: 10px;
+}
+
+.blurb h4.heading {
+  margin: 0 !important;
+}
+
+.blurb ul.required-tags {
+  position: initial;
+  top: initial;
+  display: flex;
+}
+
+.blurb ul.required-tags li + li + li,
+.blurb ul.required-tags li + li + li + li {
+  position: initial;
+  left: initial;
+}
+
+.blurb ul.required-tags li {
+  padding-right: 6px;
+}
+
+.user .primary p.icon,
+.admin .primary .icon,
+.collection .icon {
+  position: initial;
+  margin: 10px auto;
+}
+
+div#comments_placeholder,
+.blurb .userstuff,
+.news .userstuff,
+.system .userstuff {
+  width: 100% !important;
+  margin: auto;
+  text-align: left;
+}
+
+.comment .posted {
+  display: block;
+}
+
+.comment .userstuff p {
+  padding: 0 5px;
+}
+
+ol.pagination {
+  max-width: 90%;
+}
+
+#footer .module {
+  max-width: 40%;
+  margin: auto;
+}
+
+.user .primary img.icon,
+.admin .primary .icon,
+.user .primary p.icon {
+  top: auto;
+}
+
+#header .user,
+.comment .posted,
+#header li {
+  float: initial;
+}
+
+.javascript,
+.filters dt {
+  background-color: transparent;
+}
+
+li.showme a.actions {
+  white-space: normal;
+  height: initial;
+}
+
+#ui-datepicker-div {
+  top: 522px !important;
+}
+
+.assigned.module th[scope=col],
+thead th[scope=col] {
+  max-width: 18px;
+  overflow: hidden;
+}
