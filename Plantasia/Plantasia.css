@@ -2080,3 +2080,9 @@ div#admin-banner a {
 div#admin-banner a:hover {
   color: #b65829 !important;
 }
+
+.download .secondary {
+    background: #d8d3ba !important;
+    border-color: #5d5751 !important;
+    box-shadow: none !important;
+}
