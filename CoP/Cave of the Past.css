@@ -2158,4 +2158,12 @@ div#admin-banner a:hover {
 
 div#admin-banner blockquote.userstuff {
   border: 1px solid #313830;
+
+}
+
+li.download ul.expandable.secondary {
+    background: #a2c0a9 !important;
+    box-shadow: 0px 5px 7px #313830ab !important;
+    color: #313830 !important;
+    border: solid #313830 1px !important;
 }
