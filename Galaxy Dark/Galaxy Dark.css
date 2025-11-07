@@ -2068,3 +2068,7 @@ div#admin-banner a {
   background: #100d10 !important;
   box-shadow: none;
 }
+
+ul.work.navigation.actions ul.expandable.secondary {
+    box-shadow: none !important;
+}
