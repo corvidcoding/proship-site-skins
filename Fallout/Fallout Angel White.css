@@ -2411,3 +2411,7 @@ iframe#content_ifr {
     background: #fff !important;
     background-color: #fff !important;
 }
+
+.download .secondary {
+        box-shadow: none !important;
+}
