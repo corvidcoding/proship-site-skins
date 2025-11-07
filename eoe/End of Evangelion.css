@@ -1683,3 +1683,7 @@ div#admin-banner blockquote.userstuff a:hover {
 div#admin-banner {
   background: rgba(0, 0, 21, 0.9) !important;
 }
+
+.download .secondary {
+        box-shadow: none !important;
+}
