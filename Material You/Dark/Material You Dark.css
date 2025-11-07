@@ -2007,3 +2007,9 @@ div#admin-banner a:hover {
   color: #ff998a !important;
   background: #1a1110 !important;
 }
+
+.download .secondary {
+    background-color: #73342b !important;
+    border: solid 2px #73342b !important;
+    box-shadow: none !important;
+}
