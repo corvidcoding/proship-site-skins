@@ -3089,3 +3089,8 @@ background: #404087;
 .javascript {
     background: #404087 !important;
 }
+
+.download .secondary {
+        background: #76a9e9e0 !important;
+        box-shadow: none !important;
+}
