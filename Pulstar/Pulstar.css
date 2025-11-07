@@ -2105,3 +2105,11 @@ div#admin-banner a:hover {
   color: #fedba5 !important;
   background: #1a1a1a !important;
 }
+
+.download .secondary {
+    background-color: #2e2e2e !important;
+        border-color: #363636 !important;
+        box-shadow: none !important;
+        border: 1px solid #363636 !important;
+    border-radius: 5px !important;
+}
