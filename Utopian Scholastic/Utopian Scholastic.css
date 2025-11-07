@@ -3469,3 +3469,9 @@ div#main.tag_set_nominations-new p.submit input:hover {
     text-shadow: 1px 2px 3px #2e2e2e;
     border-style: inset !important;
 }
+
+li.download ul.expandable.secondary {
+  border: solid 1px #2e2e2e !important;
+  box-shadow: #1c1c1c 1px 1px 4px !important;
+background-image: url(https://i.imgur.com/z0Q74kr.jpeg) !important;
+}
