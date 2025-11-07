@@ -2161,3 +2161,9 @@ div#admin-banner a {
   border-radius: 1px;
   border: #272727 solid 1px !important;
 }
+
+.download .secondary {
+    background: #d8d8d8 !important;
+    border: #272727 solid 2px !important;
+    box-shadow: none !important;
+}
