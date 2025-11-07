@@ -2024,3 +2024,9 @@ div#admin-banner a:hover {
 img[src$="/images/lockblue.png"] {
     background-repeat: no-repeat !important;
 }
+
+.download .secondary {
+  border: solid 1px #2A2A37 !important;
+  box-shadow: none !important;
+  background: #2D4F67 !important;
+}
