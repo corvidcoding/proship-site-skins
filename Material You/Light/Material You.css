@@ -2076,3 +2076,9 @@ button[type=submit]:hover {
 div#admin-banner a:hover {
   color: #ff998a !important;
 }
+
+.download .secondary {
+    background-color: #b36258 !important;
+    border: solid 2px #b36258 !important;
+    box-shadow: none !important;
+}
