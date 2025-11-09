@@ -1687,3 +1687,50 @@ div#admin-banner {
 .download .secondary {
         box-shadow: none !important;
 }
+
+ul.prompt.index.group {
+    background: none;
+}
+
+ul.prompt.index.group li.blurb {
+    border: 1px solid #f7262b !important;
+    background: #030014 !important;
+    border-radius: 0px;
+}
+
+table#challenge_summary {
+    background: linear-gradient(100deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+    border: solid 1px #f7262b !important;
+    box-shadow: #f7262b 1px 1px 6px inset !important;
+}
+
+table#challenge_summary th {
+    border: 1px solid #f7262b !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+table#challenge_summary tbody td:hover, table#challenge_summary tbody th:hover {
+    box-shadow: #f7262b 1px 1px 19px -5px !important;
+    border: solid 1px #f7262b !important;
+    background: linear-gradient(181deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
+
+table#challenge_summary tbody tr {
+    border-bottom: 1px solid #f7262b;
+}
+
+.tag.home.profile .work.listbox.group {
+    background: none !important;
+    border: 1px solid #fff;
+    box-shadow: none;
+}
+
+.tag.home.profile .work.listbox.group .group {
+    background: none;
+}
+
+.tag.home.profile .parent.fandom.listbox.group, .tag.home.profile .parent.fandom.listbox.group .group {
+    background: #0b0b473d !important;
+}
