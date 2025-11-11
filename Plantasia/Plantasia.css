@@ -2086,3 +2086,20 @@ div#admin-banner a:hover {
     border-color: #5d5751 !important;
     box-shadow: none !important;
 }
+
+
+div#manage-chapters li {
+    border-color: #939f91;
+}
+
+div#manage-chapters input {
+    border-color: #5d5751 !important;
+}
+
+p.notice a {
+    color: #b65829 !important;
+}
+
+p.notice a:hover {
+    color: #fff4e9 !important;
+}
