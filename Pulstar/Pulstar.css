@@ -2113,3 +2113,31 @@ div#admin-banner a:hover {
         border: 1px solid #363636 !important;
     border-radius: 5px !important;
 }
+
+.draft ul.chapter.actions a, .draft ul.chapter.actions input, form#new_chapter ul.actions a, div#main.works-edit.region a {
+    border-radius: 15px;
+    border: #363636 solid 1px;
+}
+
+form#new_chapter ul.actions input, div#main.works-edit.region ul.actions input {
+    border-radius: 15px;
+}
+
+
+form#new_chapter ul.actions a:hover, div#main.works-edit.region a:hover, div#manage-chapters li:hover {
+border-color: #fedba5;
+}
+
+legend {
+    background: #262626;
+}
+
+div#manage-chapters li {
+    border-radius: 6px;
+    border-width: 2px;
+    border-color: #363636;
+}
+
+div#manage-chapters input, div#manage-chapters a, div#main.chapters-edit.region ul.actions a, div#main.chapters-edit.region ul.actions input {
+        border-radius: 15px;
+}
