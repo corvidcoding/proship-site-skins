@@ -2030,3 +2030,11 @@ img[src$="/images/lockblue.png"] {
   box-shadow: none !important;
   background: #2D4F67 !important;
 }
+
+div#manage-chapters li {
+    border-color: transparent;
+}
+
+div#main.works-edit.region .required .autocomplete {
+    border: none !important;
+}
