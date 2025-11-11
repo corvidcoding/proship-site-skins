@@ -2167,3 +2167,22 @@ li.download ul.expandable.secondary {
     color: #313830 !important;
     border: solid #313830 1px !important;
 }
+
+form#new_chapter a, div#main.works-edit_tags.region ul.actions a, div#main.works-edit.region ul.actions a, div#manage-chapters a {
+    border: solid #313830 1px;
+}
+
+legend {
+    background: #b2d1b9;
+}
+
+div#manage-chapters .ui-sortable li:hover {
+    background: #a2c0a9 !important;
+    box-shadow: 0px 5px 7px #313830ab !important;
+    color: #313830 !important;
+}
+
+div#manage-chapters .ui-sortable li {
+    border-width: 1px;
+    border-radius: 0.25em;
+}
