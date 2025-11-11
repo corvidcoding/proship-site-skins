@@ -3475,3 +3475,174 @@ li.download ul.expandable.secondary {
   box-shadow: #1c1c1c 1px 1px 4px !important;
 background-image: url(https://i.imgur.com/z0Q74kr.jpeg) !important;
 }
+
+div#main.chapters-new.region fieldset, div#main.works-edit.region fieldset, div#main.works-edit_tags.region fieldset, div#main.chapters-edit.region fieldset {
+    background: linear-gradient(45deg, #002ac5, transparent);
+    border-radius: 0px;
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 1px;
+}
+
+div#main.chapters-new.region fieldset dl, div#main.works-edit.region fieldset dl, div#main.works-edit_tags.region fieldset dl, div#main.chapters-edit.region fieldset dl {
+background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+    border-radius: 0px;
+    background-color: #aeb2ff;
+    background-blend-mode: overlay;
+    border-color: transparent;
+    box-shadow: #04040491 1px 2px 4px !important;
+}
+
+div#main.chapters-new.region legend, div#main.works-edit.region legend, div#main.works-edit_tags.region legend, div#main.chapters-edit.region legend {
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 2px;
+    border-radius: 0px;
+    border-color: transparent;
+    box-shadow: #04040491 1px 2px 2px !important;
+    background: #d93e42;
+}
+
+div#main.chapters-new.region label, div#main.works-edit.region label, div#main.works-edit_tags.region label, div#main.chapters-edit.region label {
+    color: #fff;
+}
+
+
+
+
+div#main.works-new.region fieldset ul .rtf-html-switch.actions a {
+    color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #293855 10%, rgb(85 158 175) 100%) !important;
+    border-style: outset !important;
+    border-color: #64a188 !important;
+    border-width: 2px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+
+div#main.chapters-new.region fieldset ul.actions a, div#main.works-edit.region fieldset ul.actions a, div#main.works-edit_tags.region fieldset ul.actions a,  div#main.chapters-edit.region fieldset ul.actions a {
+color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #c91f3d 10%, rgb(255 99 99) 100%);
+    border-style: outset !important;
+    border-color: #df4a4a;
+    border-width: 2px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+div#main.chapters-new.region fieldset ul.actions a:hover, div#main.works-edit.region fieldset ul.actions a:hover, div#main.works-edit_tags.region fieldset ul.actions a:hover,  div#main.chapters-edit.region fieldset ul.actions a:hover  {
+    text-shadow: 1px 2px 3px #2e2e2e;
+    border-style: inset !important;
+}
+
+div#main.works-new.region .rtf-html-switch.actions a {
+  color: #fff !important;
+  border-radius: 0px !important;
+  box-shadow: #272727c7 0px 0px 3px !important;
+  background: linear-gradient(270deg, #293855 10%, rgb(85 158 175) 100%) !important;
+  border-style: outset !important;
+  border-color: #64a188 !important;
+  border-width: 2px !important;
+  text-shadow: 0px 1px 2px #2e2e2e;
+  border: 2px solid #64a188 !important;
+}
+
+
+.draft ul.chapter.actions a {
+color: #fff;
+    text-shadow: #000000 0px 1px 3px;
+    border-radius: 0px;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background-image: url(https://i.imgur.com/EgB2eVP.gif) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #d27fff;
+    background-blend-mode: luminosity;
+    border-color: transparent !important;
+}
+
+.draft ul.chapter.actions a:hover {
+    background-blend-mode: hard-light;
+}
+
+div.tagset.home .group.listbox {
+    border-color: transparent;
+    background-image: url(https://i.imgur.com/agIeOCb.png);
+    border-radius: 0px;
+    outline: indianred solid 4px;
+    outline-offset: -4px;
+    box-shadow: #3b3b3b75 0px 0px 6px !important;
+}
+
+div.tagset.home .group.listbox li, div.tagset.home .group.listbox h3 {
+    color: #fff;
+}
+
+div.tagset.home button[type=submit]:hover {
+    border-style: inset !important;
+    text-shadow: #000000 2px 2px 3px;
+    box-shadow: none;
+    background-blend-mode: exclusion;
+    color: #fff;
+}
+
+div#manage-chapters .ui-sortable li {
+  background-image: url(https://i.imgur.com/NyrEj01.jpeg);
+  border: none;
+  border-radius: 0px;
+  background-size: 80px;
+  box-shadow: #0c0c0c8a 0px 0px 6px !important;
+background-color: #f5deb3a3;
+    background-blend-mode: hard-light;
+    border: solid 5px #c9b8b8;
+    border-style: ridge;
+}
+
+div#manage-chapters .ui-sortable li:hover {
+    border-color: #e1d128;
+    background-color: #c39847a3;
+}
+
+div#manage-chapters .ui-sortable li li {
+  background-image: none;
+  box-shadow: none;
+  background-color: none;
+  border: none;
+background: none !important;
+background-blend-mode: none;
+}
+
+
+div#manage-chapters ul.chapter-control.actions a {
+background: linear-gradient(126deg, #4967bb 0%, #e7414100 100%) !important;
+text-shadow: #232323 2px 2px 1px;
+    color: #f2f2f2;
+      border-radius: 0px;
+}
+
+div#manage-chapters ul.chapter-control.actions a:hover {
+background: linear-gradient(126deg, #d13e3e 0%, #e7414100 100%) !important;
+}
+
+div#manage-chapters li {
+    text-shadow: #232323 2px 2px 1px;
+    color: #f2f2f2;
+}
+
+div#main.chapters-manage.region p.submit.actions a {
+        color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #293855 10%, rgb(85 158 175) 100%) !important;
+    border-style: outset !important;
+    border-color: #64a188 !important;
+    border-width: 2px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+    border: 2px solid #64a188 !important;
+}
+
+div#main.chapters-manage.region p.submit.actions a:hover {
+        text-shadow: 1px 2px 3px #2e2e2e;
+    border-style: inset !important;
+}
