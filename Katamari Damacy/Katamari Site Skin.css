@@ -3094,3 +3094,68 @@ background: #404087;
         background: #76a9e9e0 !important;
         box-shadow: none !important;
 }
+
+
+.draft {
+    border: none;
+}
+
+div#main.chapters-new.region form fieldset, div#main.works-edit.region fieldset,
+div#main.chapters-edit.region form fieldset, div#main.works-edit_tags.region fieldset  {
+    background: #1f0943ad;
+    color: #fff !important;
+    border-color: transparent;
+    border-radius: 26px;
+}
+
+div.tagset.home li, div#manage-chapters .ui-sortable li {
+    background: #3f7e1e;
+    border-radius: 20px;
+}
+
+div#manage-chapters .ui-sortable li:hover {
+    box-shadow: 2px 2px 1px #d4e8ed !important;
+    background: #3f7e1e !important;
+    color: aliceblue !important;
+}
+
+
+
+div#manage-chapters .ui-sortable li {
+    border: none;
+}
+
+form#new_chapter ul.actions input, div#main.works-edit.region ul.actions input, div#main.chapters-edit.region ul.actions input {
+    border-radius: 14px;
+    background: none;
+    color: #fff;
+}
+
+div#main.chapters-new.region h2, div#main.chapters-new.region h3, div#main.works-edit.region h2, div#main.chapters-edit.region h2, div#main.works-edit_tags.region h2, div#manage-chapters p, div#manage-chapters h2 {
+    color: #fff;
+}
+
+
+
+.draft ul.chapter.actions ul.actions input, .draft ul.chapter.actions ul.actions a, div#main.works-edit.region ul.actions input, div#main.works-edit.region ul.actions a, div#main.chapters-new.region ul.actions input, div#main.chapters-new.region ul.actions a, div#manage-chapters p.submit.actions a, div#manage-chapters p.submit.actions input, div#main.works-edit_tags.region ul.actions input, div#main.works-edit_tags.region ul.actions a, div#main.chapters-edit.region ul.actions a, div#main.chapters-edit.region ul.actions input, .draft ul.chapter.actions input, .draft ul.chapter.actions a {
+    background: #734dbc !important;
+    color: #fff !important;
+    border-radius: 14px !important;
+}
+
+.draft ul.chapter.actions ul.actions input:hover, .draft ul.chapter.actions ul.actions a:hover, div#main.works-edit.region ul.actions input:hover, div#main.works-edit.region ul.actions a:hover, div#main.chapters-new.region ul.actions input:hover, div#main.chapters-new.region ul.actions a:hover, div#manage-chapters p.submit.actions a:hover, div#manage-chapters p.submit.actions input:hover, div#main.works-edit_tags.region ul.actions input:hover, div#main.works-edit_tags.region ul.actions a:hover, div#main.chapters-edit.region ul.actions a:hover, div#main.chapters-edit.region ul.actions input:hover, .draft ul.chapter.actions input:hover, .draft ul.chapter.actions a:hover {
+background: #9553c7 !important;
+    color: #fff;
+}
+
+div#manage-chapters .ui-sortable li li:hover {
+    box-shadow: none;
+}
+
+div#manage-chapters .ui-sortable li {
+    color: #c1fcac;
+}
+
+div#main.works-edit_tags.region li.added.tag, div#main.works-edit.region li.added.tag {
+    color: #c1fcac;
+}
