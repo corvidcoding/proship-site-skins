@@ -1734,3 +1734,74 @@ table#challenge_summary tbody tr {
 .tag.home.profile .parent.fandom.listbox.group, .tag.home.profile .parent.fandom.listbox.group .group {
     background: #0b0b473d !important;
 }
+
+.draft {
+    background: rgba(0, 0, 21, 0.9) !important;
+    outline: 1px solid #fff;
+    outline-offset: 3px;
+    border: none;
+    border-radius: 0px;
+}
+
+div#main.works-edit.region form dl, div#main.chapters-new.region form dl, div#main.chapters-edit.region form dl {
+    background: none;
+}
+
+div#main.chapters-new.region ul.actions a, div#main.chapters-new.region ul.rtf-html-switch.actions, div#main.chapters-edit.region form dl, div#main.chapters-edit.region form dl,  div#main.chapters-edit.region rtf-html-switch.actions,  div#main.chapters-edit.region ul.actions a {
+    box-shadow: none !important;
+    border: solid 1px #f7262b;
+    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+    border-radius: 0px;
+    color: #fff;
+}
+
+div#manage-chapters li, div#manage-chapters ul.chapter.actions a {
+    border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#manage-chapters li li {
+    border: none !important;
+}
+
+div#manage-chapters a:hover, div#manage-chapters ul.chapter.actions a:hover {
+box-shadow: #f7262b 1px 1px 9px 1px !important;
+    color: #fff !important;
+}
+
+div#main.chapters-new.region ul.actions a:hover, div#main.chapters-new.region ul.rtf-html-switch.actions:hover, div#main.chapters-edit.region rtf-html-switch.actions:hover,  div#main.chapters-edit.region ul.actions a:hover {
+box-shadow: #f7262b 1px 1px 9px 1px !important;
+    color: #fff !important;
+}
+
+.chapter .preface {
+    border-top: 1px solid;
+    border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
+}
+
+div.work ul.work.navigation.actions a, #main a.tag:visited, .draft h3 a {
+    color: #fff;
+}
+
+div#main.works-edit_tags.region form dl, div#main.chapters-edit.region ul.autocomplete {
+    background: none;
+}
+
+.draft ul.chapter.actions a, div#main.chapters-edit.region fieldset.work.meta a, div#main.chapters-manage.region a, div#main.works-edit.region ul.actions a {
+        border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px !important;
+    box-shadow: none !important;
+}
+
+.draft ul.chapter.actions a:hover, div#main.chapters-edit.region fieldset.work.meta a:hover, div#main.chapters-manage.region a:hover {
+    box-shadow: #f7262b 1px 1px 9px 1px !important;
+    border-color: #f7262b !important;
+    color: #fff !important;
+}
+
+div#main.chapters-edit.region a {
+    color: #fff;
+}
