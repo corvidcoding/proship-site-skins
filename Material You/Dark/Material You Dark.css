@@ -2013,3 +2013,16 @@ div#admin-banner a:hover {
     border: solid 2px #73342b !important;
     box-shadow: none !important;
 }
+
+div#manage-chapters li {
+    border-color: transparent;
+}
+
+div#manage-chapters li:hover {
+    border-color: #ff998a;
+}
+
+.chapter .preface {
+    border-top: 2px solid;
+    border-color: #ffb4a8 !important;
+}
