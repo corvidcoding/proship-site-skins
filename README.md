@@ -1,6 +1,7 @@
 # site-skins
 
 This is where I put my assortment of Site skins for archive of our own. Made with proship love <3
+For my appreciation for Archive of Our Own and the massive amount of talented writers there.
 
 
 Credits to ElectricAlice's Dyslexia Skin and Tide Skin. 
