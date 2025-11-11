@@ -1789,14 +1789,14 @@ div#main.works-edit_tags.region form dl, div#main.chapters-edit.region ul.autoco
     background: none;
 }
 
-.draft ul.chapter.actions a, div#main.chapters-edit.region fieldset.work.meta a, div#main.chapters-manage.region a, div#main.works-edit.region ul.actions a {
+.draft ul.chapter.actions a, div#main.chapters-edit.region fieldset.work.meta a, div#main.chapters-manage.region a, div#main.works-edit.region ul.actions a, div#main.works-edit_tags.region ul.actions a {
         border: 1px solid #fff !important;
     background: #030014 !important;
     border-radius: 0px !important;
     box-shadow: none !important;
 }
 
-.draft ul.chapter.actions a:hover, div#main.chapters-edit.region fieldset.work.meta a:hover, div#main.chapters-manage.region a:hover {
+.draft ul.chapter.actions a:hover, div#main.chapters-edit.region fieldset.work.meta a:hover, div#main.chapters-manage.region a:hover, div#main.works-edit_tags.region ul.actions a:hover {
     box-shadow: #f7262b 1px 1px 9px 1px !important;
     border-color: #f7262b !important;
     color: #fff !important;
@@ -1805,3 +1805,4 @@ div#main.works-edit_tags.region form dl, div#main.chapters-edit.region ul.autoco
 div#main.chapters-edit.region a {
     color: #fff;
 }
+
