@@ -2749,4 +2749,50 @@ div#admin-banner a:hover {
 
 div#admin-banner a {
   background: none !important;
+
+}
+
+form#new_chapter ul.actions input, div#main.works-edit.region ul.actions input, div#main.chapters-edit.region ul.actions input, .draft ul.chapter.actions ul.actions input, .draft ul.chapter.actions ul.actions a, div#main.works-edit.region ul.actions input, div#main.works-edit.region ul.actions a, div#main.chapters-new.region ul.actions input, div#main.chapters-new.region ul.actions a, div#manage-chapters p.submit.actions a, div#manage-chapters p.submit.actions input, div#main.works-edit_tags.region ul.actions input, div#main.works-edit_tags.region ul.actions a, div#main.chapters-edit.region ul.actions a, div#main.chapters-edit.region ul.actions input, .draft ul.chapter.actions input, .draft ul.chapter.actions a {
+    border-radius: 7px !important;
+    border: solid 2px #000 !important;
+    color: #000 !important;
+    background-color: #d4e7d3 !important;
+}
+
+.draft ul.chapter.actions ul.actions input:hover, .draft ul.chapter.actions ul.actions a:hover, div#main.works-edit.region ul.actions input:hover, div#main.works-edit.region ul.actions a:hover, div#main.chapters-new.region ul.actions input:hover, div#main.chapters-new.region ul.actions a:hover, div#manage-chapters p.submit.actions a:hover, div#manage-chapters p.submit.actions input:hover, div#main.works-edit_tags.region ul.actions input:hover, div#main.works-edit_tags.region ul.actions a:hover, div#main.chapters-edit.region ul.actions a:hover, div#main.chapters-edit.region ul.actions input:hover, .draft ul.chapter.actions input:hover, .draft ul.chapter.actions a:hover, form#new_chapter ul.actions input:hover, div#main.works-edit.region ul.actions input:hover, div#main.chapters-edit.region ul.actions input:hover {
+border-radius: 7px !important;
+    border: solid 2px #000 !important;
+    outline: solid 2px #fff;
+    outline-offset: -4px;
+    color: #000 !important;
+    background-color: #d4e7d3 !important;
+} 
+
+div#manage-chapters .ui-sortable li {
+border-radius: 7px !important;
+    border: solid 2px #000 !important;
+    color: #000 !important;
+    background-color: #d4e7d3 !important;
+}
+
+div#manage-chapters .ui-sortable li:hover {
+    outline: solid 2px #fff;
+    outline-offset: -4px;
+}
+
+div#manage-chapters .ui-sortable li li {
+border-radius: 7px !important;
+    border: none !important;
+    color: #000 !important;
+    background-color: #d4e7d3 !important;
+}
+
+
+div#manage-chapters .ui-sortable li li:hover {
+        outline: none;
+    outline-offset: none;
+}
+
+div#main.works-edit_tags.region li.added.tag, div#main.works-edit.region li.added.tag {
+    color: #db4414;
 }
