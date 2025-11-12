@@ -3159,3 +3159,22 @@ div#manage-chapters .ui-sortable li {
 div#main.works-edit_tags.region li.added.tag, div#main.works-edit.region li.added.tag {
     color: #c1fcac;
 }
+
+div#main.works-drafts li.blurb {
+    background: #1f0943ad;
+    color:#fff !important;
+    border-color: transparent;
+    border-radius: 26px;
+}
+
+div#main.works-drafts li.blurb ul.actions a {
+    background: #c1fcac !important;
+    border-radius: 20px !important;
+    color: #0645ad !important;
+}
+
+div#main.works-drafts li.blurb ul.actions a:hover {
+    box-shadow: 2px 2px 1px #d4e8ed !important;
+    background: #3f7e1e !important;
+    color: aliceblue !important;
+}
