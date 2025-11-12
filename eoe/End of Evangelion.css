@@ -1806,3 +1806,20 @@ div#main.chapters-edit.region a {
     color: #fff;
 }
 
+div#main.works-drafts ul.work.index.group {
+    background: none;
+}
+
+div#main.works-drafts li.blurb ul.actions a {
+border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#main.works-drafts li.blurb ul.actions a:hover {
+    box-shadow: #f7262b 1px 1px 9px 1px !important;
+    border: solid 1px #f7262b !important;
+    color: #fff;
+    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+}
