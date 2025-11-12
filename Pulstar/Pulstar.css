@@ -2142,3 +2142,6 @@ div#manage-chapters input, div#manage-chapters a, div#main.chapters-edit.region 
         border-radius: 15px;
 }
 
+div#main.works-drafts li.blurb ul.actions a {
+    border-radius: 20px;
+}
