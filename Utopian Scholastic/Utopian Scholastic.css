@@ -3646,3 +3646,30 @@ div#main.chapters-manage.region p.submit.actions a:hover {
         text-shadow: 1px 2px 3px #2e2e2e;
     border-style: inset !important;
 }
+
+div#main.works-drafts li.blurb ul.actions a, li.user.pseud.picture.blurb.group ul.actions a {
+color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #2e2e83 10%, #5575af 100%) !important;
+    border-style: outset !important;
+    border-color: #5575af !important;
+    border-width: 2px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+div#main.works-drafts li.blurb ul.actions a:hover, li.user.pseud.picture.blurb.group ul.actions a:hover {
+    text-shadow: 1px 2px 3px #2e2e2e;
+    border-style: inset !important;
+}
+
+li.user.pseud.picture.blurb.group ul.actions span.current {
+    background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+    color: #fff;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    text-shadow: #232323 1px 1px 2px;
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #aca4ad !important;
+}
