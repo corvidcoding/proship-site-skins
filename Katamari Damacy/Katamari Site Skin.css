@@ -3185,3 +3185,10 @@ div#main.works-drafts li.blurb ul.actions a:hover {
     border-color: transparent;
     border-radius: 26px;
 }
+
+div#main.collections-edit fieldset {
+    background: #1f0943ad;
+    color: #fff !important;
+    border-color: transparent;
+    border-radius: 26px;
+}
