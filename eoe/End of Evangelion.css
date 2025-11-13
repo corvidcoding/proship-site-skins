@@ -1846,3 +1846,39 @@ div#main.collections-edit form dt {
     border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
     border-width: 1px;
 }
+
+div#main.works-show_multiple ul.index.concise {
+    background: #030014 !important;
+    border-radius: 0px;
+    border: 1px solid #f7262b !important;
+}
+
+div#main.works-show_multiple ul.actions a {
+    border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#main.works-show_multiple ul.actions a:hover {
+    box-shadow: #f7262b 1px 1px 9px 1px !important;
+    border: solid 1px #f7262b !important;
+        background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#main.works-show_multiple form label.action {
+    border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#main.works-show_multiple form label.action:hover {
+    box-shadow: #f7262b 1px 1px 9px 1px !important;
+    border: solid 1px #f7262b !important;
+        background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
