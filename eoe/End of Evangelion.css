@@ -1882,3 +1882,12 @@ div#main.works-show_multiple form label.action:hover {
     border-radius: 0px;
     box-shadow: none !important;
 }
+
+div#main.works-edit_multiple fieldset dl {
+    background: none;
+}
+
+div#main.works-edit_multiple fieldset dt {
+    border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
+    border-width: 1px;
+}
