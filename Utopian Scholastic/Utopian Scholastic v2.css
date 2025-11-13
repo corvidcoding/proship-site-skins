@@ -3743,3 +3743,72 @@ div#main.collections-edit p.submit input:hover {
     border-style: inset !important;
 }
 
+div#main.works-show_multiple form fieldset {
+    background-image: url(https://i.imgur.com/z0Q74kr.jpeg);
+    background-size: 70px;
+    border-radius: 0px;
+    box-shadow: #1c1c1c 0px 1px 4px !important;
+    border: solid 1px #ffffff00;
+}
+
+div#main.works-show_multiple form fieldset fieldset {
+    border-radius: 0px;
+    box-shadow: #272727c7 2px 2px 4px !important;
+    background: linear-gradient(276deg, #6d91c3 0%, #695db5d4 100%) !important;
+    border-color: transparent;
+    border-left: none;
+}
+
+span.current {
+    background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+    color: #fff;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    text-shadow: #232323 1px 1px 2px;
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #aca4ad !important;
+}
+
+div#main.works-show_multiple form p.submit input {
+    color: #fff;
+    text-shadow: #000000 0px 1px 3px;
+    border-radius: 0px;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background-image: url(https://i.imgur.com/EgB2eVP.gif) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #7fa8ff;
+    background-blend-mode: luminosity;
+    border-color: transparent !important;
+}
+
+div#main.works-show_multiple form p.submit input:hover {
+    background-color: #ffa17f;
+}
+
+div#main.works-show_multiple form ul.actions a {
+    background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #bbad83 !important;
+    border-radius: 0px;
+}
+
+div#main.works-show_multiple form ul.actions a:hover {
+    border-style: inset !important;
+    text-shadow: #000000 2px 2px 3px;
+}
+
+div#main.works-show_multiple form label.action {
+        border-radius: 0px;
+}
+
+div#main.works-show_multiple form label.action:hover {
+    box-shadow: 1px 3px 10px -3px #352626 !important;
+}
+
+div#main.works-show_multiple form ul.index a, div#main.works-show_multiple form h5.heading {
+    text-shadow: #000000 0px 1px 2px !important;
+    color: #fff !important;
+}
