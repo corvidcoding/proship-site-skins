@@ -3178,3 +3178,10 @@ div#main.works-drafts li.blurb ul.actions a:hover {
     background: #3f7e1e !important;
     color: aliceblue !important;
 }
+
+#main li.blurb {
+    background: #1f0943ad;
+    color: #fff !important;
+    border-color: transparent;
+    border-radius: 26px;
+}
