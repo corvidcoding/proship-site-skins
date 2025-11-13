@@ -3673,3 +3673,71 @@ li.user.pseud.picture.blurb.group ul.actions span.current {
     border-width: 2px !important;
     border-color: #aca4ad !important;
 }
+
+li.own.collection.picture.blurb.group {
+    background-image: url(https://i.imgur.com/NyrEj01.jpeg) !important;
+    border: solid 5px #c9b8b8;
+    border-radius: 0px;
+    background-size: 80px;
+    box-shadow: #0c0c0c8a 0px 0px 6px !important;
+    background-color: #f5deb3a3 !important;
+    background-blend-mode: hard-light;
+    border-style: ridge;
+    color: #fff;
+    text-shadow: #232323 -1px 1px 1px;
+}
+
+div#main.collection_items-index span.current {
+    background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+    color: #fff;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    text-shadow: #232323 1px 1px 2px;
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #aca4ad !important;
+}
+
+div#main.collections-edit fieldset {
+    background-image: url(https://i.imgur.com/TZDcXnP.jpeg);
+    border-radius: 0px;
+    background-color: #49321b;
+    background-blend-mode: luminosity;
+    text-shadow: none;
+    color: #2e2e2e;
+    box-shadow: #04040491 1px 2px 4px !important;
+    border-color: #a99975de;
+    border-style: ridge;
+    border-width: 6px;
+}
+
+div#main.collections-edit fieldset dl {
+    border: none;
+}
+
+div#main.collections-edit legend {
+        background-image: url(https://i.imgur.com/maEd8y3.png);
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 2px;
+    border-radius: 0px;
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #637d59 !important;
+    box-shadow: #04040491 0px 1px 5px !important;
+}
+
+div#main.collections-edit p.submit input {
+    color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #c91f3d 10%, rgb(255 99 99) 100%);
+    border-style: outset !important;
+    border-color: #df4a4a !important;
+    border-width: 3px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+}
+
+div#main.collections-edit p.submit input:hover {
+    text-shadow: 1px 2px 3px #2e2e2e;
+    border-style: inset !important;
+}
