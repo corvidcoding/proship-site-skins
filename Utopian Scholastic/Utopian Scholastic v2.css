@@ -3759,7 +3759,7 @@ div#main.works-show_multiple form fieldset fieldset {
     border-left: none;
 }
 
-span.current {
+div#main.works-show_multiple span.current {
     background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
     color: #fff;
     background-size: cover !important;
@@ -3811,4 +3811,33 @@ div#main.works-show_multiple form label.action:hover {
 div#main.works-show_multiple form ul.index a, div#main.works-show_multiple form h5.heading {
     text-shadow: #000000 0px 1px 2px !important;
     color: #fff !important;
+}
+
+div#main.works-edit_multiple fieldset {
+background: linear-gradient(45deg, #002ac5, transparent);
+    border-radius: 0px;
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 1px;
+}
+
+div#main.works-edit_multiple fieldset dl {
+    background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+    border-radius: 0px;
+    background-color: #aeb2ff;
+    background-blend-mode: overlay;
+    border-color: transparent;
+    box-shadow: #04040491 1px 2px 4px !important;
+}
+
+div#main.works-edit_multiple legend {
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 2px;
+    border-radius: 0px;
+    border-color: transparent;
+    box-shadow: #04040491 1px 2px 2px !important;
+    background: #d93e42;
+}
+
+div#main.works-edit_multiple fieldset dd label {
+  color: #fff;
 }
