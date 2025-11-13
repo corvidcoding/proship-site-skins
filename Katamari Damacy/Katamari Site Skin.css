@@ -3240,26 +3240,3 @@ div#main.works-edit_multiple p.submit input:hover {
     color: aliceblue !important;
 }
 
-div#main.works-edit_multiple fieldset {
-    background: #1f0943ad;
-    color: #fff !important;
-    border-color: transparent;
-    border-radius: 26px;
-}
-
-div#main.works-edit_multiple h2 {
-    color: #fff;
-}
-
-div#main.works-edit_multiple p.submit input {
-background: #c1fcac !important;
-    border-radius: 20px !important;
-    color: #0645ad !important;
-    font-weight: 500;
-}
-
-div#main.works-edit_multiple p.submit input:hover {
-    box-shadow: 2px 2px 1px #d4e8ed !important;
-    background: #3f7e1e !important;
-    color: aliceblue !important;
-}
