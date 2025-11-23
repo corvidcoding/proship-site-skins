@@ -2103,3 +2103,7 @@ p.notice a {
 p.notice a:hover {
     color: #fff4e9 !important;
 }
+
+ul.statistics.index.group li.fandom.listbox.group  {
+    background: #fff4e9;
+}
