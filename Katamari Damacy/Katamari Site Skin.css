@@ -3240,3 +3240,53 @@ div#main.works-edit_multiple p.submit input:hover {
     color: aliceblue !important;
 }
 
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
+
+ul.statistics.index.group li.fandom.listbox.group, dl.inspired.index.group {
+    background: #1f0943ad;
+    color: #fff !important;
+    border-color: transparent;
+    border-radius: 26px;
+}
+
+dl.statistics.meta.group {
+    background: #172d0c6b;
+    border-radius: 20px;
+    border: #3f7e1e solid 6px;
+    color: #fff;
+}
+
+
+ul.statistics.index.group li.fandom.listbox.group h5.heading {
+    color: aliceblue;
+    margin-left: 8px;
+}
+
+
+dl.inspired.index.group button {
+box-shadow: none !important;
+    background: #734dbc8c !important;
+    border: none;
+    border-radius: 14px !important;
+    color: aliceblue;
+}
+
+dl.inspired.index.group button:hover {
+    background: #734dbc !important;
+}
+
+ol.year.actions a {
+    background: #6abc4d;
+    color: #fff;
+    border-radius: 14px;
+}
+
+ol.year.actions a:hover {
+    box-shadow: 2px 2px 1px #d4e8ed !important;
+    background: #3f7e1e !important;
+    color: gold !important;
+}
+
