@@ -2038,3 +2038,17 @@ div#manage-chapters li {
 div#main.works-edit.region .required .autocomplete {
     border: none !important;
 }
+
+dl.inspired.index.group, ul.statistics.index.group li.fandom.listbox.group {
+background-color: #2A2A37;
+    border-radius: 5px;
+} 
+
+dl.statistics.meta.group dd {
+    color: #6A9589;
+}
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
