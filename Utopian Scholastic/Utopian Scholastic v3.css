@@ -3841,3 +3841,119 @@ div#main.works-edit_multiple legend {
 div#main.works-edit_multiple fieldset dd label {
   color: #fff;
 }
+
+
+dl.statistics.meta.group {
+    text-shadow: #000000 1px 1px 0px;
+    border-radius: 0px;
+    background-image: url(https://i.imgur.com/N2yQeUs.jpeg);
+    color: #fff;
+    box-shadow: #000000 1px 1px 0px;
+    border-color: #5157b1 !important;
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-radius: 0px !important;
+}
+
+dl.statistics.meta.group dt {
+    background: linear-gradient(126deg, #d84549 0%, #e7414100 100%);
+}
+
+div#main.stats-index span.current {
+    background-image: url(https://i.imgur.com/LYPXJO5.jpeg) !important;
+    color: #fff;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    text-shadow: #232323 1px 1px 2px;
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #aca4ad !important;
+}
+
+div#main.stats-index .actions a {
+    background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #bbad83;
+    border-radius: 0px;
+}
+
+div#main.stats-index .actions a:hover {
+border-style: inset !important;
+    text-shadow: #000000 2px 2px 3px;
+}
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
+
+dl.inspired.index.group button:hover {
+    color: #fff;
+}
+
+ul.statistics.index.group li.fandom.listbox.group {
+    background-image: url(https://i.imgur.com/mMl86ZA.jpeg);
+    border-radius: 0px;
+    background-color: #979be5;
+    background-blend-mode: overlay;
+    border-color: transparent;
+    box-shadow: #040404b5 1px 2px 2px !important;
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 1px !important;
+}
+
+li.fandom.listbox.group h5 {
+    color: #fff !important;
+}
+
+dl.inspired.index.group {
+    padding: 5px;
+}
+
+ol.year.actions a {
+        color: #fff !important;
+    border-radius: 0px !important;
+    box-shadow: #272727c7 0px 0px 3px !important;
+    background: linear-gradient(270deg, #293855 10%, rgb(85 158 175) 100%) !important;
+    border-style: outset !important;
+    border-color: #64a188 !important;
+    border-width: 2px !important;
+    text-shadow: 0px 1px 2px #2e2e2e;
+    border: 2px solid #64a188;
+}
+
+ol.year.actions a:hover {
+    border-style: inset !important;
+}
+
+dl.inspired.index.group {
+    background-image: url(https://i.imgur.com/mMl86ZA.jpeg) !important;
+    border-radius: 0px;
+    background-color: #8497b7;
+    background-blend-mode: overlay;
+    border-color: transparent;
+    box-shadow: #040404b5 1px 2px 2px !important;
+        color: #fff !important;
+    text-shadow: #000000 1px 1px 1px !important;
+}
+
+ol.work.index.group li.blurb ul.actions a {
+    background-image: url(https://i.imgur.com/QxzU58k.gif) !important;
+    color: #fff;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-color: #5d62c7 !important;
+    background-blend-mode: luminosity;
+    text-shadow: #232323 1px 1px 2px;
+    box-shadow: #272727 0px 0px 2px !important;
+    border-radius: 2px;
+}
+
+ol.work.index.group li.blurb ul.actions a:hover {
+background-blend-mode: normal !important;
+}
+
+dl.inspired.index.group a {
+    color: #f8ff9a;
+}
