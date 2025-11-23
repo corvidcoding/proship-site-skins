@@ -2072,3 +2072,19 @@ div#admin-banner a {
 ul.work.navigation.actions ul.expandable.secondary {
     box-shadow: none !important;
 }
+
+dl.inspired.index.group {
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: #363636;
+}
+
+dl.inspired.index.group:hover {
+    border: 1px solid #e7e7e7;
+    border-radius: 5px;
+}
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
