@@ -2186,3 +2186,28 @@ div#manage-chapters .ui-sortable li {
     border-width: 1px;
     border-radius: 0.25em;
 }
+
+dl.inspired.index.group {
+    border-radius: 5px;
+    border: solid #313830 1px;
+}
+
+dl.inspired.index.group:hover {
+background: #a2c0a9 !important;
+    box-shadow: 0px 5px 7px #313830ab !important;
+    color: #313830 !important;
+    border: solid #313830 1px;
+}
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
+
+div#main.stats-index .actions a {
+        border: solid #313830 1px;
+}
+
+dl.inspired.index.group {
+    background-color: #b2d1b9;
+}
