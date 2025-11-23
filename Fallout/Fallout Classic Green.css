@@ -2378,3 +2378,13 @@ iframe#content_ifr {
 .download .secondary {
         box-shadow: none !important;
 }
+
+ul.statistics.index.group li.fandom.listbox.group, dl.inspired.index.group {
+border: #00EE00 solid 1px !important;
+    border-radius: 0px !important;
+}
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
