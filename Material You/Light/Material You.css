@@ -2095,3 +2095,13 @@ div#manage-chapters li:hover {
   border-top: 2px solid;
   border-color: #a58f8c !important;
 }
+
+dl.inspired.index.group, ul.statistics.index.group li.fandom.listbox.group {
+background-color: #ffe9e6;
+    border-radius: 16px;
+} 
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
