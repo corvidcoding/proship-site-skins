@@ -2145,3 +2145,7 @@ div#manage-chapters input, div#manage-chapters a, div#main.chapters-edit.region 
 div#main.works-drafts li.blurb ul.actions a {
     border-radius: 20px;
 }
+
+dl.statistics.meta.group dd {
+    color: #fedba5;
+}
