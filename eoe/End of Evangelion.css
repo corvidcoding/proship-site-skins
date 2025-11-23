@@ -1891,3 +1891,34 @@ div#main.works-edit_multiple fieldset dt {
     border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
     border-width: 1px;
 }
+
+div#main.stats-index ol.year.actions a, div#main.stats-index ul.navigation.actions a, div#main.stats-index .actions a, div#user-fandoms p.actions a {
+    border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#main.stats-index ol.year.actions a:hover, div#main.stats-index ul.navigation.actions :hover, div#main.stats-index .actions a:hover, div#user-fandoms p.actions a:hover {
+    box-shadow: #f7262b 1px 1px 19px -5px !important;
+    border: solid 1px #f7262b !important;
+    color: #fff;
+}
+
+ul.statistics.index.group li.fandom.listbox.group ul.index.group, dl.inspired.index.group dd.child, ul.statistics.index.group {
+    background: none !important;
+}
+
+dl.inspired.index.group dt {
+margin-left: 5px;
+margin-top: 5px;
+}
+
+dl.inspired.index.group, ul.statistics.index.group li.fandom.listbox.group {
+    border: 1px solid #fff !important;
+    background: rgba(0, 0, 21, 0.9) !important;
+}
+
+dl.statistics.meta.group {
+    background: rgba(0, 0, 21, 0.9) !important;
+}
