@@ -3290,3 +3290,14 @@ ol.year.actions a:hover {
     color: gold !important;
 }
 
+div.tag.home.profile .synonym.listbox.group {
+    background: #3f7e1e;
+    border-color: #3f7e1e;
+    border-radius: 18px;
+    border-width: 5px;
+}
+
+div.tag.home.profile .synonym.listbox.group ul.tags.commas.index.group {
+    background: #15094387;
+    border-radius: 14px;
+}
