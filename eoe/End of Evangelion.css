@@ -1936,3 +1936,7 @@ li.work ul.actions a:hover {
   color: #fff !important;
   background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
 }
+
+.tag.home.profile .group {
+    background: rgba(0, 0, 21, 0.9) !important;
+}
