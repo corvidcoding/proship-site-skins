@@ -3957,3 +3957,17 @@ background-blend-mode: normal !important;
 dl.inspired.index.group a {
     color: #f8ff9a;
 }
+
+div.tag.home.profile .synonym.listbox.group {
+    border-radius: 0px;
+    color: #fff;
+    box-shadow: #272727c7 2px 2px 3px !important;
+    background: linear-gradient(88deg, #3237c1 0%, #695db5b5 100%);
+    border-color: transparent;
+    border-left: none;
+}
+
+div.tag.home.profile .synonym.listbox.group h3 {
+    color: #fff;
+    text-shadow: #000000 1px 1px 1px;
+}
