@@ -3301,3 +3301,14 @@ div.tag.home.profile .synonym.listbox.group ul.tags.commas.index.group {
     background: #15094387;
     border-radius: 14px;
 }
+
+div#main.works-edit_multiple dl.work.index.group {
+    background: #1f0943ad;
+    color: #fff !important;
+    border-color: transparent;
+    border-radius: 26px;
+}
+
+div#main.works-edit_multiple dl.work.index.group dt {
+    margin-left: 10px;
+}
