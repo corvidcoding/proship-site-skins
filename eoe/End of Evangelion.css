@@ -1940,3 +1940,31 @@ li.work ul.actions a:hover {
 .tag.home.profile .group {
     background: rgba(0, 0, 21, 0.9) !important;
 }
+
+div#main.works-edit_multiple dl.work.index.group dt:before {
+    content: "✞ " !important;
+    color: #f75826;
+}
+
+div#main.works-edit_multiple dl.work.index.group {
+        border: 1px solid #fff !important;
+    background: rgba(0, 0, 21, 0.9) !important;
+}
+
+div#main.works-edit_multiple dl.work.index.group dd {
+background: transparent !important;
+    border: 1px solid #f75826;
+    color: #f75826 !important;
+}
+
+div#main.works-edit_multiple dl.work.index.group dt {
+    margin-left: 7px;
+}
+
+div#main.works-edit_multiple dl.work.index.group a.tag:hover {
+    color: #fff !important;
+    box-shadow: #f7262b 1px 1px 19px -5px !important;
+    border: solid 1px #f7262b !important;
+    background: #27082b;
+    border-radius: 10px;
+}
