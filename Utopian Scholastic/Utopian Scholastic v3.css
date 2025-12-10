@@ -3971,3 +3971,19 @@ div.tag.home.profile .synonym.listbox.group h3 {
     color: #fff;
     text-shadow: #000000 1px 1px 1px;
 }
+
+div#main.works-edit_multiple dl.work.index.group dt {
+    margin-left: 7px;
+}
+
+div#main.works-edit_multiple dl.work.index.group {
+    border-radius: 0px;
+    box-shadow: #272727c7 2px 2px 4px !important;
+    background: linear-gradient(276deg, #6d91c3 0%, #695db5d4 100%) !important;
+    border-color: transparent;
+    border-left: none;
+}
+
+div#main.works-edit_multiple dl.work.index.group dt a {
+    text-shadow: #000000 0px 1px 1px !important;
+}
