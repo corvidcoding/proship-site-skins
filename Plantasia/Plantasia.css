@@ -2107,3 +2107,8 @@ p.notice a:hover {
 ul.statistics.index.group li.fandom.listbox.group  {
     background: #fff4e9;
 }
+
+div#main.works-edit_multiple dl.work.index.group dt:before {
+  content: " ✱ " !important;
+  color: #829181;
+}
