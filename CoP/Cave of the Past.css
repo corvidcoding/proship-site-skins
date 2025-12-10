@@ -2211,3 +2211,13 @@ div#main.stats-index .actions a {
 dl.inspired.index.group {
     background-color: #b2d1b9;
 }
+
+div#main.works-edit_multiple dl.work.index.group {
+  border: 1px solid #313830;
+  border-radius: 5px;
+  background-color: #b2d1b9;
+}
+
+div#main.works-edit_multiple dl.work.index.group dt {
+  margin-left: 7px;
+}
