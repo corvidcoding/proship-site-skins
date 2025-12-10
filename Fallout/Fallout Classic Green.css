@@ -2388,3 +2388,7 @@ dl.inspired.index.group dt {
 margin-left: 5px;
 margin-top: 5px;
 }
+
+div#main.works-edit_multiple dl.work.index.group dt:before {
+    content: " ■ " !important;
+}
