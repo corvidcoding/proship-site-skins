@@ -5,7 +5,7 @@ h4,
 h5,
 h6,
 .heading {
-  font-family: Poppins, "Noto Sans", "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
+  font-family: Google Sans, Poppins, "Noto Sans", "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
   border-bottom: none;
   font-weight: bolder;
 }
@@ -29,7 +29,7 @@ span.symbol,
 .splash .news .meta,
 select,
 textarea {
-  font-family: Poppins, "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
+  font-family: Google Sans, Poppins, "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
 }
 
 #footer li,
@@ -2040,3 +2040,4 @@ margin-top: 5px;
 div#main.works-edit_multiple dl.work.index.group dt:before {
     content: " ● " !important;
 }
+
