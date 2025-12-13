@@ -4,6 +4,11 @@ Fonts
 Poppins
 https://fonts.google.com/specimen/Poppins?query=popp
 
+OR
+
+Google Sans
+https://fonts.google.com/specimen/Google+Sans?sort=date
+
 Google Sans Code (Optional/This is just a font for code)
 https://fonts.google.com/specimen/Google+Sans+Code?query=goog
 
@@ -13,5 +18,6 @@ Additional Required Skins
 Dyslexic Friendly Mobile Dark Version
 Follow Instructions here:
 https://archiveofourown.org/works/30918077/chapters/76349072
+
 
 Material You Dark Icons (Included in the Folder)
