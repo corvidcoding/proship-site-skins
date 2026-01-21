@@ -3312,3 +3312,13 @@ div#main.works-edit_multiple dl.work.index.group {
 div#main.works-edit_multiple dl.work.index.group dt {
     margin-left: 10px;
 }
+
+div#admin-banner.alert.announcement.group .userstuff {
+    background: #6abc4d !important;
+    color: #fff !important;
+}
+
+
+div#admin-banner.alert.announcement.group .userstuff a {
+    color: #0645ad !important;
+}
