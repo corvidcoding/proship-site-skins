@@ -2821,3 +2821,10 @@ li.chapter button.expanded, li.download button.expanded, li.mark button {
       border: solid 2px #000 !important;
   border-color: #000 !important;
 }
+
+form#work-filters button.expander {
+    background: #f9f6b3 !important;
+    border: solid 2px #000 !important;
+    border-color: #000 !important;
+    background-color: #f9f6b3 !important;
+}
