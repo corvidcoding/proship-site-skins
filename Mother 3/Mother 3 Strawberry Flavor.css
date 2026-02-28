@@ -2749,4 +2749,30 @@ div#admin-banner a:hover {
 
 div#admin-banner a {
   background: none !important;
+
+}
+
+ul#chapter_index.expandable.secondary,
+li.download ul.expandable.secondary {
+  border: solid 2px #000 !important;
+  border-color: #000 !important;
+}
+
+ul.work.navigation.actions button.collapsed, ul.work.navigation.actions button {
+    background: #2b2b2b !important;
+      border: solid 2px #000 !important;
+  border-color: #000 !important;
+}
+
+ul.work.navigation.actions button.expanded:hover, ul.work.navigation.actions button:hover {
+    outline-offset: -4px !important;
+        outline: solid 2px #fff !important;
+        border-radius: 7px !important;
+        background-color: #efbdd8 !important;
+    background: #efbdd8 !important;
+}
+
+li.chapter button.expanded, li.download button.expanded, li.mark button {
+      border: solid 2px #000 !important;
+  border-color: #000 !important;
 }
