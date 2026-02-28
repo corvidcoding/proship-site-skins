@@ -2796,3 +2796,28 @@ div#manage-chapters .ui-sortable li li:hover {
 div#main.works-edit_tags.region li.added.tag, div#main.works-edit.region li.added.tag {
     color: #db4414;
 }
+
+ul#chapter_index.expandable.secondary,
+li.download ul.expandable.secondary {
+  border: solid 2px #000 !important;
+  border-color: #000 !important;
+}
+
+ul.work.navigation.actions button.collapsed, ul.work.navigation.actions button {
+    background: #2b2b2b !important;
+      border: solid 2px #000 !important;
+  border-color: #000 !important;
+}
+
+ul.work.navigation.actions button.expanded:hover, ul.work.navigation.actions button:hover {
+    outline-offset: -4px !important;
+        outline: solid 2px #fff !important;
+        border-radius: 7px !important;
+        background-color:  #d4e7d3 !important;
+    background:  #d4e7d3 !important;
+}
+
+li.chapter button.expanded, li.download button.expanded, li.mark button {
+      border: solid 2px #000 !important;
+  border-color: #000 !important;
+}
