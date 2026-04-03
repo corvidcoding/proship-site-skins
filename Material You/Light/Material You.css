@@ -2110,3 +2110,10 @@ div#main.works-edit_multiple dl.work.index.group dt:before {
     content: " ● " !important;
 }
 
+.comment_error, .kudos_error {
+    background: #b3261e;
+    border: none #b3261e;
+    color: #f9dedc;
+    border-radius: 28px;
+    box-shadow: none;
+}
