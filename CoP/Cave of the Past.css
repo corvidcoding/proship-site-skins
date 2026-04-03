@@ -2221,3 +2221,15 @@ div#main.works-edit_multiple dl.work.index.group {
 div#main.works-edit_multiple dl.work.index.group dt {
   margin-left: 7px;
 }
+
+.comment_error,
+.kudos_error {
+  background: #313830 !important;
+  color: #cfe2c2 !important;
+  border-color: #313830 !important;
+box-shadow: 0px 5px 7px #313830ab !important;
+}
+
+dd.relationship.tags a.tag:hover {
+  color: #cfe2c2 !important;
+}
