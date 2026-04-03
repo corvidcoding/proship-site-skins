@@ -3322,3 +3322,11 @@ div#admin-banner.alert.announcement.group .userstuff {
 div#admin-banner.alert.announcement.group .userstuff a {
     color: #0645ad !important;
 }
+
+.comment_error, .kudos_error {
+    background: #b53608c7;
+    border-color: #b53608c7;
+    box-shadow: none;
+    color: #fff;
+    border-radius: 14px;
+}
