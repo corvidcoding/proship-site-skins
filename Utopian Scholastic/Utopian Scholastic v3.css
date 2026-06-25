@@ -3987,3 +3987,26 @@ div#main.works-edit_multiple dl.work.index.group {
 div#main.works-edit_multiple dl.work.index.group dt a {
     text-shadow: #000000 0px 1px 1px !important;
 }
+
+div#main.orphans-new.region label {
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 2px;
+}
+
+div#main.orphans-new.region  dt a {
+    color: #fff !important;
+    text-shadow: #000000 1px 1px 2px;
+}
+
+div#main.orphans-new.region ul.actions a {
+    background: linear-gradient(180deg, rgba(249, 247, 242, 1) 0%, rgb(145 149 119) 100%);
+    border-style: outset !important;
+    border-width: 2px !important;
+    border-color: #bbad83 !important;
+    border-radius: 0px;
+}
+
+div#main.orphans-new.region ul.actions a:hover {
+    border-style: inset !important;
+    text-shadow: #000000 2px 2px 3px;
+}
