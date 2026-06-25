@@ -1968,3 +1968,41 @@ div#main.works-edit_multiple dl.work.index.group a.tag:hover {
     background: #27082b;
     border-radius: 10px;
 }
+
+div#main.orphans-new.region dl.work.index.group dd {
+    background: none;
+}
+
+div#main.orphans-new.region dl.work.index.group {
+    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+    border: solid 1px #f7262b !important;
+    box-shadow: #f7262b 1px 1px 6px inset !important;
+    padding: 4px;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+
+div#main.orphans-new.region ul.actions a {
+border: 1px solid #fff !important;
+    background: #030014 !important;
+    border-radius: 0px;
+    box-shadow: none !important;
+}
+
+div#main.orphans-new.region ul.actions a:hover {
+    box-shadow: #f7262b 1px 1px 19px -5px !important;
+    border: solid 1px #f7262b !important;
+}
+
+div#main.orphans-new.region a.tag {
+    background: #27082b;
+    border-radius: 10px;
+    border: none;
+    font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace;
+    color: #f7262b;
+}
+
+div#main.orphans-new.region a.tag:hover {
+    box-shadow: #f7262b 1px 1px 19px -5px !important;
+    border: solid 1px #f7262b !important;
+}
