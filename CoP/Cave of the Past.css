@@ -2233,3 +2233,11 @@ box-shadow: 0px 5px 7px #313830ab !important;
 dd.relationship.tags a.tag:hover {
   color: #cfe2c2 !important;
 }
+
+div#main.orphans-new.region ul.actions a {
+    border: solid #313830 1px !important;
+}
+
+div#main.orphans-new.region a.tag {
+border: solid #313830 1px !important;
+}
