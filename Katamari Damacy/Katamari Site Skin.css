@@ -3330,3 +3330,32 @@ div#admin-banner.alert.announcement.group .userstuff a {
     color: #fff;
     border-radius: 14px;
 }
+
+div#main.orphans-new.region ul.actions a {
+  background: none !important;
+  color: #fff !important;
+}
+
+div#main.orphans-new.region ul.actions a:hover {
+  font-weight: 600;
+}
+
+div#main.orphans-new.region p.submit.actions input {
+  background: #734dbc !important;
+  color: #fff !important;
+  border-radius: 14px !important;
+}
+
+div#main.orphans-new.region p.submit.actions input:hover {
+  background: #9553c7 !important;
+  color: #fff;
+}
+
+div#main.orphans-new.region a.tag {
+  background: #86e2ff4f !important;
+}
+
+div#main.orphans-new.region a.tag:hover {
+  background: #c1fcac !important;
+  color: #0645ad !important;
+}
