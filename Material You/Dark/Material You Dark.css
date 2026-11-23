@@ -2041,3 +2041,39 @@ div#main.works-edit_multiple dl.work.index.group dt:before {
     content: " ● " !important;
 }
 
+.comment_error,
+.kudos_error {
+  background: #b3261e;
+  border: none #b3261e;
+  color: #f9dedc;
+  border-radius: 28px;
+  box-shadow: none;
+}
+
+div#work-skin {
+  background: none;
+}
+
+div#work-skin.wrapper {
+  background: none;
+}
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
+
+div#admin-banner .userstuff {
+  border-radius: 16px;
+}
+
+div#admin-banner.alert.announcement.group .userstuff {
+  background: #564419;
+  color: #fbdfa6 !important;
+  border-color: #564419;
+}
+
+div#admin-banner.alert.announcement.group .userstuff a,
+div#admin-banner.alert.announcement.group .userstuff a:link {
+  color: #ffb4a8;
+}
