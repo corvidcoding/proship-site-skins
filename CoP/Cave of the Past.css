@@ -2241,3 +2241,8 @@ div#main.orphans-new.region ul.actions a {
 div#main.orphans-new.region a.tag {
 border: solid #313830 1px !important;
 }
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
