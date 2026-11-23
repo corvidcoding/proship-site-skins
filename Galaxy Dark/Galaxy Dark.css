@@ -2108,3 +2108,8 @@ div#main.works-edit_multiple dl.work.index.group {
     background-color: #1e1235 !important;
     background-blend-mode: overlay;
 }
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
