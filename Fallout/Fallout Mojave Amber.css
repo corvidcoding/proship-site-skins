@@ -2421,3 +2421,32 @@ margin-top: 5px;
 div#main.works-edit_multiple dl.work.index.group dt:before {
     content: " ■ " !important;
 }
+
+div#work-skin {
+  background: none;
+}
+
+div#work-skin.wrapper {
+  background: none;
+}
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
+
+div#admin-banner .userstuff {
+  text-shadow: 1px 1px 5px #FFB642 !important;
+  background: #100c05 !important;
+  box-shadow: 0px 0px 28px -8px #FFB64296;
+  border-radius: 0px !important;
+  border-color: #FFB642 !important;
+}
+
+div#admin-banner .userstuff a {
+  color: #FFB642;
+}
+
+div#admin-banner .userstuff a:hover {
+  color: #100c05;
+}
