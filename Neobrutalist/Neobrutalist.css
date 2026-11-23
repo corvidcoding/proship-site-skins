@@ -2478,3 +2478,8 @@ div#main.works-edit_multiple dl.work.index.group dt {
 div#main.works-edit_multiple dl.work.index.group dt:before {
     content: " ✱ " !important;
 }
+
+.wrapper:has(> table, > .meta) {
+    box-shadow: 1px 1px 5px #aaa;
+    box-shadow: none !important;
+}
