@@ -5,7 +5,7 @@ h4,
 h5,
 h6,
 .heading {
-  font-family: Platypi, "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
+  font-family: Platypi, "Noto Sans JP", "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
   border-bottom: none;
   font-weight: bolder;
 }
@@ -28,7 +28,7 @@ a.work,
 span.symbol,
 .splash .news .meta,
 select {
-  font-family: Platypi, "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
+  font-family: Platypi, "Noto Sans JP", "Noto Serif", "Roboto", Verdana, "Trebuchet MS", Calibri, sans-serif;
 }
 
 #footer li,
@@ -1534,6 +1534,26 @@ span.current {
   border: #54546D solid 2px !important;
 }
 
+a.tag[href*="Underage"]:not([href*="Dark"]),
+a.tag[href*="Dubious%20Consent"]:not([href*="Dark"]),
+a.tag[href*="Stockholm%20Syndrome"]:not([href*="Dark"]),
+a.tag[href*="Noncon"]:not([href*="Dark"]),
+a.tag[href*="Rape"]:not([href*="Dark"]),
+a.tag[href*="Pokephilia"]:not([href*="Dark"]),
+a.tag[href*="Dead%20Dove"]:not([href*="Dark"]),
+a.tag[href*="Sibling%20Incest"]:not([href*="Dark"]),
+a.tag[href*="dubcon"]:not([href*="Dark"]),
+a.tag[href*="Past%20Sexual%20Abuse"]:not([href*="Dark"]),
+a.tag[href*="Sexual%20Abuse"]:not([href*="Dark"]),
+a.tag[href*="Sexual%20Assault"]:not([href*="Dark"]),
+a.tag[href*="Grooming"]:not([href*="Dark"]),
+a.tag[href*="Suicide%20Attempt"]:not([href*="Dark"]),
+a.tag[href*="Suicide"]:not([href*="Dark"]) {
+  color: #E46876 !important;
+  background: #43242B !important;
+  border-color: #FF5D62 !important;
+}
+
 p.required.notice {
   color: #DCD7BA !important;
   font-weight: bold;
@@ -1718,8 +1738,8 @@ div#admin-banner.alert.announcement.group {
   border: none !important;
 }
 
-div#admin-banner.alert.announcement.group blockquote.userstuff a,
-div#admin-banner.alert.announcement.group blockquote.userstuff a:link {
+div#admin-banner.alert.announcement.group .userstuff a,
+div#admin-banner.alert.announcement.group .userstuff a:link {
   color: #DCD7BA;
   border: none !important;
 }
@@ -2021,10 +2041,6 @@ div#admin-banner a:hover {
   color: #C8C093 !important;
 }
 
-img[src$="/images/lockblue.png"] {
-    background-repeat: no-repeat !important;
-}
-
 .download .secondary {
   border: solid 1px #2A2A37 !important;
   box-shadow: none !important;
@@ -2032,27 +2048,39 @@ img[src$="/images/lockblue.png"] {
 }
 
 div#manage-chapters li {
-    border-color: transparent;
+  border-color: transparent;
 }
 
 div#main.works-edit.region .required .autocomplete {
-    border: none !important;
+  border: none !important;
 }
 
-dl.inspired.index.group, ul.statistics.index.group li.fandom.listbox.group {
-background-color: #2A2A37;
-    border-radius: 5px;
-} 
+dl.inspired.index.group,
+ul.statistics.index.group li.fandom.listbox.group {
+  background-color: #2A2A37;
+  border-radius: 5px;
+}
 
 dl.statistics.meta.group dd {
-    color: #6A9589;
+  color: #6A9589;
 }
 
 dl.inspired.index.group dt {
-margin-left: 5px;
-margin-top: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
 }
 
 div#main.works-edit_multiple dl.work.index.group dt:before {
-    content: "❖ "
+  content: "❖ ";
+}
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
+
+div#admin-banner.alert.announcement.group .userstuff {
+  background: #6A9589 !important;
+  border: 2px solid #2D4F67 !important;
+  border-radius: 0.25em;
 }
