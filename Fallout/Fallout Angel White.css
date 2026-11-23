@@ -2429,3 +2429,34 @@ margin-top: 5px;
 div#main.works-edit_multiple dl.work.index.group dt:before {
     content: " ■ " !important;
 }
+
+div#work-skin {
+  background: none;
+}
+
+div#work-skin.wrapper {
+  background: none;
+}
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
+
+div#admin-banner .userstuff {
+  text-shadow: 1px 1px 5px #ebefef;
+  box-shadow: 0px 0px 28px -8px #ebefef;
+  background: url(https://i.imgur.com/KxeGOWV.png), #1e2021 !important;
+  background-blend-mode: soft-light;
+  border: solid 1px #ebefef !important;
+  color: #ebefef !important;
+  border-radius: 0px;
+}
+
+div#admin-banner .userstuff a {
+  color: #ebefef;
+}
+
+div#admin-banner .userstuff a:hover {
+  color: #1e2021;
+}
