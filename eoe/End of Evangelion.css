@@ -1442,7 +1442,7 @@ form#new_pseud dl {
 }
 
 span.current {
-  font-family: Georgia, serif;
+  font-family: Advercase Demo, Georgia, serif;
   font-weight: 400;
 }
 
@@ -1453,7 +1453,7 @@ h4,
 h5,
 h6,
 .heading {
-  font-family: Georgia, serif;
+  font-family: Advercase Demo, Georgia, serif;
   font-weight: 400;
 }
 
@@ -1467,7 +1467,7 @@ select,
 ul.expandable.secondary a,
 textarea,
 blockquote.userstuff {
-  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+  font-family: PP Neue Montreal Medium, Systemia Test Regular, 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
 }
 
 #header ul.user.navigation.actions a.dropdown-toggle,
@@ -1520,6 +1520,61 @@ span.replied {
   color: #eee;
 }
 
+a.tag[href*="Underage"]:not([href*="Dark"]),
+a.tag[href*="Dubious%20Consent"]:not([href*="Dark"]),
+a.tag[href*="Stockholm%20Syndrome"]:not([href*="Dark"]),
+a.tag[href*="Noncon"]:not([href*="Dark"]),
+a.tag[href*="Rape"]:not([href*="Dark"]),
+a.tag[href*="Pokephilia"]:not([href*="Dark"]),
+a.tag[href*="Dead%20Dove"]:not([href*="Dark"]),
+a.tag[href*="Sibling%20Incest"]:not([href*="Dark"]),
+a.tag[href*="dubcon"]:not([href*="Dark"]),
+a.tag[href*="Past%20Sexual%20Abuse"]:not([href*="Dark"]),
+a.tag[href*="Sexual%20Abuse"]:not([href*="Dark"]),
+a.tag[href*="Sexual%20Assault"]:not([href*="Dark"]),
+a.tag[href*="grooming"]:not([href*="Dark"]),
+a.tag[href*="Suicide%20Attempt"]:not([href*="Dark"]),
+a.tag[href*="Suicide"]:not([href*="Dark"]) {
+  color: #f75826 !important;
+}
+
+a.tag[href*="Underage"]:not([href*="Dark"])::before,
+a.tag[href*="Dubious%20Consent"]:not([href*="Dark"])::before,
+a.tag[href*="Stockholm%20Syndrome"]:not([href*="Dark"])::before,
+a.tag[href*="Noncon"]:not([href*="Dark"])::before,
+a.tag[href*="Rape"]:not([href*="Dark"])::before,
+a.tag[href*="Pokephilia"]:not([href*="Dark"])::before,
+a.tag[href*="Dead%20Dove"]:not([href*="Dark"])::before,
+a.tag[href*="Sibling%20Incest"]:not([href*="Dark"])::before,
+a.tag[href*="dubcon"]:not([href*="Dark"])::before,
+a.tag[href*="Past%20Sexual%20Abuse"]:not([href*="Dark"])::before,
+a.tag[href*="Sexual%20Abuse"]:not([href*="Dark"])::before,
+a.tag[href*="Sexual%20Assault"]:not([href*="Dark"])::before,
+a.tag[href*="grooming"]:not([href*="Dark"])::before,
+a.tag[href*="Suicide%20Attempt"]:not([href*="Dark"])::before,
+a.tag[href*="Suicide"]:not([href*="Dark"])::before {
+  content: "◈";
+}
+
+a.tag[href*="Underage"]:not([href*="Dark"]):hover,
+a.tag[href*="Dubious%20Consent"]:not([href*="Dark"]):hover,
+a.tag[href*="Stockholm%20Syndrome"]:not([href*="Dark"]):hover,
+a.tag[href*="Noncon"]:not([href*="Dark"]):hover,
+a.tag[href*="Rape"]:not([href*="Dark"]):hover,
+a.tag[href*="Pokephilia"]:not([href*="Dark"]):hover,
+a.tag[href*="Dead%20Dove"]:not([href*="Dark"]):hover,
+a.tag[href*="Sibling%20Incest"]:not([href*="Dark"]):hover,
+a.tag[href*="dubcon"]:not([href*="Dark"]):hover,
+a.tag[href*="Past%20Sexual%20Abuse"]:not([href*="Dark"]):hover,
+a.tag[href*="Sexual%20Abuse"]:not([href*="Dark"]):hover,
+a.tag[href*="Sexual%20Assault"]:not([href*="Dark"]):hover,
+a.tag[href*="grooming"]:not([href*="Dark"]):hover,
+a.tag[href*="Suicide%20Attempt"]:not([href*="Dark"]):hover,
+a.tag[href*="Suicide"]:not([href*="Dark"]):hover {
+  color: #f75826 !important;
+  border-color: #f75826 !important;
+}
+
 div.work ul.work.navigation.actions button,
 div#main.works-show.region button,
 div#main.collections-show ul.navigation.actions button,
@@ -1542,7 +1597,7 @@ button[type=submit]:hover {
 }
 
 #footer button {
-  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+  font-family: PP Neue Montreal Medium, Systemia Test Regular, 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
   color: #fff;
 }
 
@@ -1582,7 +1637,7 @@ div#main.skins-new.region form textarea {
 .own.user.module.group h6.meta,
 .user.module.group h6.meta,
 .user.module.group ul.meta.commas {
-  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+  font-family: PP Neue Montreal Medium, Systemia Test Regular, 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
 }
 
 #dashboard ul,
@@ -1607,7 +1662,7 @@ div.work ul.work.navigation.actions button,
 div#main.works-show.region button,
 li.collection.picture.blurb.group button,
 button[type=submit] {
-  font-family: 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
+  font-family: PP Neue Montreal Medium, Systemia Test Regular, 'Lucida Grande', 'Lucida Sans Unicode', Verdana, Helvetica, sans-serif !important;
 }
 
 .flash.comment_notice {
@@ -1685,242 +1740,274 @@ div#admin-banner {
 }
 
 .download .secondary {
-        box-shadow: none !important;
+  box-shadow: none !important;
 }
 
 ul.prompt.index.group {
-    background: none;
+  background: none;
 }
 
 ul.prompt.index.group li.blurb {
-    border: 1px solid #f7262b !important;
-    background: #030014 !important;
-    border-radius: 0px;
+  border: 1px solid #f7262b !important;
+  background: #030014 !important;
+  border-radius: 0px;
 }
 
 table#challenge_summary {
-    background: linear-gradient(100deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
-    border: solid 1px #f7262b !important;
-    box-shadow: #f7262b 1px 1px 6px inset !important;
+  background: linear-gradient(100deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
 }
 
 table#challenge_summary th {
-    border: 1px solid #f7262b !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  border: 1px solid #f7262b !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
-table#challenge_summary tbody td:hover, table#challenge_summary tbody th:hover {
-    box-shadow: #f7262b 1px 1px 19px -5px !important;
-    border: solid 1px #f7262b !important;
-    background: linear-gradient(181deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+table#challenge_summary tbody td:hover,
+table#challenge_summary tbody th:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  background: linear-gradient(181deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
 }
 
 table#challenge_summary tbody tr {
-    border-bottom: 1px solid #f7262b;
+  border-bottom: 1px solid #f7262b;
 }
 
 .tag.home.profile .work.listbox.group {
-    background: none !important;
-    border: 1px solid #fff;
-    box-shadow: none;
+  background: none !important;
+  border: 1px solid #fff;
+  box-shadow: none;
 }
 
 .tag.home.profile .work.listbox.group .group {
-    background: none;
+  background: none;
 }
 
-.tag.home.profile .parent.fandom.listbox.group, .tag.home.profile .parent.fandom.listbox.group .group {
-    background: #0b0b473d !important;
+.tag.home.profile .parent.fandom.listbox.group,
+.tag.home.profile .parent.fandom.listbox.group .group {
+  background: #0b0b473d !important;
 }
 
 .draft {
-    background: rgba(0, 0, 21, 0.9) !important;
-    outline: 1px solid #fff;
-    outline-offset: 3px;
-    border: none;
-    border-radius: 0px;
+  background: rgba(0, 0, 21, 0.9) !important;
+  outline: 1px solid #fff;
+  outline-offset: 3px;
+  border: none;
+  border-radius: 0px;
 }
 
-div#main.works-edit.region form dl, div#main.chapters-new.region form dl, div#main.chapters-edit.region form dl {
-    background: none;
+div#main.works-edit.region form dl,
+div#main.chapters-new.region form dl,
+div#main.chapters-edit.region form dl {
+  background: none;
 }
 
-div#main.chapters-new.region ul.actions a, div#main.chapters-new.region ul.rtf-html-switch.actions, div#main.chapters-edit.region form dl, div#main.chapters-edit.region form dl,  div#main.chapters-edit.region rtf-html-switch.actions,  div#main.chapters-edit.region ul.actions a {
-    box-shadow: none !important;
-    border: solid 1px #f7262b;
-    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
-    border-radius: 0px;
-    color: #fff;
+div#main.chapters-new.region ul.actions a,
+div#main.chapters-new.region ul.rtf-html-switch.actions,
+div#main.chapters-edit.region form dl,
+div#main.chapters-edit.region form dl,
+div#main.chapters-edit.region rtf-html-switch.actions,
+div#main.chapters-edit.region ul.actions a {
+  box-shadow: none !important;
+  border: solid 1px #f7262b;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%);
+  border-radius: 0px;
+  color: #fff;
 }
 
-div#manage-chapters li, div#manage-chapters ul.chapter.actions a {
-    border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+div#manage-chapters li,
+div#manage-chapters ul.chapter.actions a {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
 div#manage-chapters li li {
-    border: none !important;
+  border: none !important;
 }
 
-div#manage-chapters a:hover, div#manage-chapters ul.chapter.actions a:hover {
-box-shadow: #f7262b 1px 1px 9px 1px !important;
-    color: #fff !important;
+div#manage-chapters a:hover,
+div#manage-chapters ul.chapter.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
 }
 
-div#main.chapters-new.region ul.actions a:hover, div#main.chapters-new.region ul.rtf-html-switch.actions:hover, div#main.chapters-edit.region rtf-html-switch.actions:hover,  div#main.chapters-edit.region ul.actions a:hover {
-box-shadow: #f7262b 1px 1px 9px 1px !important;
-    color: #fff !important;
+div#main.chapters-new.region ul.actions a:hover,
+div#main.chapters-new.region ul.rtf-html-switch.actions:hover,
+div#main.chapters-edit.region rtf-html-switch.actions:hover,
+div#main.chapters-edit.region ul.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
 }
 
 .chapter .preface {
-    border-top: 1px solid;
-    border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
+  border-top: 1px solid;
+  border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
 }
 
-div.work ul.work.navigation.actions a, #main a.tag:visited, .draft h3 a {
-    color: #fff;
+div.work ul.work.navigation.actions a,
+#main a.tag:visited,
+.draft h3 a {
+  color: #fff;
 }
 
-div#main.works-edit_tags.region form dl, div#main.chapters-edit.region ul.autocomplete {
-    background: none;
+div#main.works-edit_tags.region form dl,
+div#main.chapters-edit.region ul.autocomplete {
+  background: none;
 }
 
-.draft ul.chapter.actions a, div#main.chapters-edit.region fieldset.work.meta a, div#main.chapters-manage.region a, div#main.works-edit.region ul.actions a, div#main.works-edit_tags.region ul.actions a {
-        border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px !important;
-    box-shadow: none !important;
+.draft ul.chapter.actions a,
+div#main.chapters-edit.region fieldset.work.meta a,
+div#main.chapters-manage.region a,
+div#main.works-edit.region ul.actions a,
+div#main.works-edit_tags.region ul.actions a {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px !important;
+  box-shadow: none !important;
 }
 
-.draft ul.chapter.actions a:hover, div#main.chapters-edit.region fieldset.work.meta a:hover, div#main.chapters-manage.region a:hover, div#main.works-edit_tags.region ul.actions a:hover {
-    box-shadow: #f7262b 1px 1px 9px 1px !important;
-    border-color: #f7262b !important;
-    color: #fff !important;
+.draft ul.chapter.actions a:hover,
+div#main.chapters-edit.region fieldset.work.meta a:hover,
+div#main.chapters-manage.region a:hover,
+div#main.works-edit.region ul.actions a:hover,
+div#main.works-edit_tags.region ul.actions a:hover {
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  color: #fff !important;
+  border-color: #f7262b !important;
 }
 
 div#main.chapters-edit.region a {
-    color: #fff;
+  color: #fff;
 }
 
 div#main.works-drafts ul.work.index.group {
-    background: none;
+  background: none;
 }
 
 div#main.works-drafts li.blurb ul.actions a {
-border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
 div#main.works-drafts li.blurb ul.actions a:hover {
-    box-shadow: #f7262b 1px 1px 9px 1px !important;
-    border: solid 1px #f7262b !important;
-    color: #fff;
-    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
 }
 
 ul.collection.picture.index.group ul.actions a {
-    border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
 ul.collection.picture.index.group ul.actions a:hover {
-        box-shadow: #f7262b 1px 1px 9px 1px !important;
-    border: solid 1px #f7262b !important;
-    color: #fff;
-    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
 }
 
 div#main.collections-edit dl {
-    background: none;
+  background: none;
 }
 
 div#main.collections-edit form dt {
-    border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
-    border-width: 1px;
+  border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
+  border-width: 1px;
 }
 
 div#main.works-show_multiple ul.index.concise {
-    background: #030014 !important;
-    border-radius: 0px;
-    border: 1px solid #f7262b !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  border: 1px solid #f7262b !important;
 }
 
 div#main.works-show_multiple ul.actions a {
-    border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
 div#main.works-show_multiple ul.actions a:hover {
-    box-shadow: #f7262b 1px 1px 9px 1px !important;
-    border: solid 1px #f7262b !important;
-        background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  box-shadow: #f7262b 1px 1px 9px 1px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 29%, rgba(247, 38, 43, 0.49) 100%) !important;
 }
 
 div#main.works-show_multiple form label.action {
-    border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
 div#main.works-show_multiple form label.action:hover {
-    box-shadow: #f7262b 1px 1px 9px 1px !important;
-    border: solid 1px #f7262b !important;
-        background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  box-shadow: none !important;
+  border: solid 1px #f7262b !important;
+  background: #030014 !important;
+  border-radius: 0px;
 }
 
 div#main.works-edit_multiple fieldset dl {
-    background: none;
+  background: none;
 }
 
 div#main.works-edit_multiple fieldset dt {
-    border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
-    border-width: 1px;
+  border-image: linear-gradient(135deg, #ffffff38 0%, #f7262b 100%) 1;
+  border-width: 1px;
 }
 
-div#main.stats-index ol.year.actions a, div#main.stats-index ul.navigation.actions a, div#main.stats-index .actions a, div#user-fandoms p.actions a {
-    border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+div#main.stats-index ol.year.actions a,
+div#main.stats-index ul.navigation.actions a,
+div#main.stats-index .actions a,
+div#user-fandoms p.actions a {
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
-div#main.stats-index ol.year.actions a:hover, div#main.stats-index ul.navigation.actions :hover, div#main.stats-index .actions a:hover, div#user-fandoms p.actions a:hover {
-    box-shadow: #f7262b 1px 1px 19px -5px !important;
-    border: solid 1px #f7262b !important;
-    color: #fff;
+div#main.stats-index ol.year.actions a:hover,
+div#main.stats-index ul.navigation.actions :hover,
+div#main.stats-index .actions a:hover,
+div#user-fandoms p.actions a:hover {
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  color: #fff;
 }
 
-ul.statistics.index.group li.fandom.listbox.group ul.index.group, dl.inspired.index.group dd.child, ul.statistics.index.group {
-    background: none !important;
+ul.statistics.index.group li.fandom.listbox.group ul.index.group,
+dl.inspired.index.group dd.child,
+ul.statistics.index.group {
+  background: none !important;
 }
 
 dl.inspired.index.group dt {
-margin-left: 5px;
-margin-top: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
 }
 
-dl.inspired.index.group, ul.statistics.index.group li.fandom.listbox.group {
-    border: 1px solid #fff !important;
-    background: rgba(0, 0, 21, 0.9) !important;
+dl.inspired.index.group,
+ul.statistics.index.group li.fandom.listbox.group {
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
 }
 
 dl.statistics.meta.group {
-    background: rgba(0, 0, 21, 0.9) !important;
+  background: rgba(0, 0, 21, 0.9) !important;
 }
 
 li.work ul.actions a {
@@ -1938,71 +2025,156 @@ li.work ul.actions a:hover {
 }
 
 .tag.home.profile .group {
-    background: rgba(0, 0, 21, 0.9) !important;
+  background: rgba(0, 0, 21, 0.9) !important;
 }
 
 div#main.works-edit_multiple dl.work.index.group dt:before {
-    content: "✞ " !important;
-    color: #f75826;
+  content: "✞ " !important;
+  color: #f75826;
 }
 
 div#main.works-edit_multiple dl.work.index.group {
-        border: 1px solid #fff !important;
-    background: rgba(0, 0, 21, 0.9) !important;
+  border: 1px solid #fff !important;
+  background: rgba(0, 0, 21, 0.9) !important;
 }
 
 div#main.works-edit_multiple dl.work.index.group dd {
-background: transparent !important;
-    border: 1px solid #f75826;
-    color: #f75826 !important;
+  background: transparent !important;
+  border: 1px solid #f75826;
+  color: #f75826 !important;
 }
 
 div#main.works-edit_multiple dl.work.index.group dt {
-    margin-left: 7px;
+  margin-left: 7px;
 }
 
 div#main.works-edit_multiple dl.work.index.group a.tag:hover {
-    color: #fff !important;
-    box-shadow: #f7262b 1px 1px 19px -5px !important;
-    border: solid 1px #f7262b !important;
-    background: #27082b;
-    border-radius: 10px;
+  color: #fff !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+  background: #27082b;
+  border-radius: 10px;
+}
+
+.bookmark .count a {
+  border-bottom: none;
+  color: #f75826;
+}
+
+.index .skins .icon {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat 0px -580px;
+}
+
+.index .mystery .icon {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat -110px -525px;
+}
+
+.index .tag .icon,
+.index .tagset .icon {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat -55px -580px;
+}
+
+.tag .primary .icon,
+.tagset .primary .icon {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat 0px -275px;
+}
+
+.comment .icon .anonymous {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat -0px -735px;
+}
+
+.comment .icon .visitor {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat 0px -635px;
+}
+
+.abbreviated .icon .anonymous {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat -75px -450px;
+}
+
+.abbreviated .icon .visitor {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat 0px -450px;
+}
+
+.skins .primary .icon {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat 0px -175px;
+}
+
+.admin .primary .icon {
+  background: url("https://images.squidge.org/images/2025/10/27/imageset-afterglow.png") no-repeat 100px -75px;
 }
 
 div#main.orphans-new.region dl.work.index.group dd {
-    background: none;
+  background: none;
 }
 
 div#main.orphans-new.region dl.work.index.group {
-    background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
-    border: solid 1px #f7262b !important;
-    box-shadow: #f7262b 1px 1px 6px inset !important;
-    padding: 4px;
-    margin-top: 17px;
-    margin-bottom: 17px;
+  background: linear-gradient(0deg, rgba(7, 1, 50, 1) 0%, rgba(39, 8, 43, 0.56) 100%) !important;
+  border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 6px inset !important;
+  padding: 4px;
+  margin-top: 17px;
+  margin-bottom: 17px;
 }
 
 div#main.orphans-new.region ul.actions a {
-border: 1px solid #fff !important;
-    background: #030014 !important;
-    border-radius: 0px;
-    box-shadow: none !important;
+  border: 1px solid #fff !important;
+  background: #030014 !important;
+  border-radius: 0px;
+  box-shadow: none !important;
 }
 
 div#main.orphans-new.region ul.actions a:hover {
-    box-shadow: #f7262b 1px 1px 19px -5px !important;
-    border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
 }
 
 div#main.orphans-new.region a.tag {
-    background: #27082b;
-    border-radius: 10px;
-    border: none;
-    font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace;
-    color: #f7262b;
+  background: #27082b;
+  border-radius: 10px;
+  border: none;
+  font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace;
+  color: #f7262b;
 }
 
 div#main.orphans-new.region a.tag:hover {
-    box-shadow: #f7262b 1px 1px 19px -5px !important;
-    border: solid 1px #f7262b !important;
+  box-shadow: #f7262b 1px 1px 19px -5px !important;
+  border: solid 1px #f7262b !important;
+}
+
+div#main.orphans-new.region a.tag:before {
+  content: "#";
+}
+
+div#main.system.docs h3.heading {
+  border-image: linear-gradient(272deg, #ffffff38 0%, #f74326 100%) 1.1;
+}
+
+.bookmark .count a:hover {
+  background: #f75826;
+}
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
+
+div#admin-banner .userstuff p {
+  font-family: Brutalist Mono, 'Monaco', 'Consolas', Courier, monospace !important;
+  text-shadow: #f75826 0px 0px 3px;
+}
+
+div#admin-banner .userstuff {
+  background: transparent !important;
+  border: none;
+  color: #f77526 !important;
+  box-shadow: none;
+}
+
+div#admin-banner .userstuff a {
+  color: #f77526;
+}
+
+div#admin-banner .userstuff a:hover {
+  color: #999;
+  text-shadow: none;
 }
