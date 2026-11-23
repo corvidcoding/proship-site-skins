@@ -3359,3 +3359,8 @@ div#main.orphans-new.region a.tag:hover {
   background: #c1fcac !important;
   color: #0645ad !important;
 }
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
