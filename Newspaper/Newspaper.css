@@ -5,7 +5,7 @@ h4,
 h5,
 h6,
 .heading {
-  font-family: Funnel Display Extrabold, Radio Canada Big, Instrument Sans, "Trebuchet MS", Calibri, sans-serif;
+  font-family: Funnel Display Extrabold, Printvetica, PP Editorial Old, Heal the Web A, Radio Canada Big, Instrument Sans, "Trebuchet MS", Calibri, sans-serif;
   border-bottom: none;
   font-weight: 700;
 }
@@ -1542,6 +1542,26 @@ ul.primary.navigation.actions {
   background-color: #272727 !important;
 }
 
+a.tag[href*="Underage"]:not([href*="Dark"]),
+a.tag[href*="Dubious%20Consent"]:not([href*="Dark"]),
+a.tag[href*="Stockholm%20Syndrome"]:not([href*="Dark"]),
+a.tag[href*="Noncon"]:not([href*="Dark"]),
+a.tag[href*="Rape"]:not([href*="Dark"]),
+a.tag[href*="Pokephilia"]:not([href*="Dark"]),
+a.tag[href*="Dead%20Dove"]:not([href*="Dark"]),
+a.tag[href*="Sibling%20Incest"]:not([href*="Dark"]),
+a.tag[href*="dubcon"]:not([href*="Dark"]),
+a.tag[href*="Past%20Sexual%20Abuse"]:not([href*="Dark"]),
+a.tag[href*="Sexual%20Abuse"]:not([href*="Dark"]),
+a.tag[href*="Sexual%20Assault"]:not([href*="Dark"]),
+a.tag[href*="grooming"]:not([href*="Dark"]),
+a.tag[href*="Suicide%20Attempt"]:not([href*="Dark"]),
+a.tag[href*="Suicide"]:not([href*="Dark"]) {
+  color: #272727;
+  background: #ed44315c;
+  border-color: #272727;
+}
+
 h3.byline.heading {
   text-decoration: underline 4px;
   text-decoration-color: dimgray;
@@ -1711,7 +1731,7 @@ div#admin-banner.alert.announcement.group input {
   border: 2px solid #272727 !important;
 }
 
-div#admin-banner.alert.announcement.group blockquote.userstuff {
+div#admin-banner.alert.announcement.group .userstuff {
   border: 1px solid #272727 !important;
   color: #272727 !important;
 }
@@ -2108,7 +2128,7 @@ button[type=submit]:hover {
 }
 
 .blurb h4.heading a:first-of-type {
-  font-family: Funnel Display Extrabold, Radio Canada Big, Instrument Sans, "Trebuchet MS", Calibri, sans-serif;
+  font-family: Funnel Display Extrabold, Printvetica, PP Editorial Old, Heal the Web A, Radio Canada Big, Instrument Sans, "Trebuchet MS", Calibri, sans-serif;
 }
 
 button.showme.action {
@@ -2163,20 +2183,30 @@ div#admin-banner a {
 }
 
 .download .secondary {
-    background: #d8d8d8 !important;
-    border: #272727 solid 2px !important;
-    box-shadow: none !important;
+  background: #d8d8d8 !important;
+  border: #272727 solid 2px !important;
+  box-shadow: none !important;
 }
 
 div#main.works-edit_multiple dl.work.index.group {
-border-color: #272727;
-    border: solid 2px;
+  border-color: #272727;
+  border: solid 2px;
 }
 
 div#main.works-edit_multiple dl.work.index.group dt {
-    margin-left: 7px;
+  margin-left: 7px;
 }
 
 div#main.works-edit_multiple dl.work.index.group dt:before {
-    content: " ■ " !important;
+  content: " ■ " !important;
+}
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
+
+div#admin-banner .userstuff {
+  box-shadow: #272727 3px 2px 0px;
+  border-width: 2px !important;
 }
