@@ -2828,3 +2828,17 @@ form#work-filters button.expander {
     border-color: #000 !important;
     background-color: #cff2ff !important;
 }
+
+div#work-skin {
+  background: none;
+}
+
+div#work-skin.wrapper {
+  background: none;
+}
+
+div#admin-banner .userstuff {
+  background: #f00010 !important;
+  color: #fff;
+  border-color: #f00010;
+}
