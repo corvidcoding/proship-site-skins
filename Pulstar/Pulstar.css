@@ -2149,3 +2149,8 @@ div#main.works-drafts li.blurb ul.actions a {
 dl.statistics.meta.group dd {
     color: #fedba5;
 }
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
