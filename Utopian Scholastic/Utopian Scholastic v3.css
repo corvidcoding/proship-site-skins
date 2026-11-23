@@ -4010,3 +4010,8 @@ div#main.orphans-new.region ul.actions a:hover {
     border-style: inset !important;
     text-shadow: #000000 2px 2px 3px;
 }
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
