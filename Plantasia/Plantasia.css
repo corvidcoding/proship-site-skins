@@ -2112,3 +2112,8 @@ div#main.works-edit_multiple dl.work.index.group dt:before {
   content: " ✱ " !important;
   color: #829181;
 }
+
+.wrapper:has(> table,
+> .meta) {
+  box-shadow: none;
+}
